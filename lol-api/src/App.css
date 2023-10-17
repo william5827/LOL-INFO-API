@@ -1,0 +1,182 @@
+*{
+  font-family: 'Dosis', sans-serif;
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Quicksand', sans-serif;
+}
+
+body{
+  margin: 0;
+  padding: 0;
+}
+
+.bg-app{
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.banner-homepage{
+  width: 90%;
+  height: 90%;
+  display: flex;
+}
+
+.banner-images{
+  width: 50%;
+  height: 100%;
+}
+
+.banner-content{
+  width: 50%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 15px;
+  padding-right: 4%;
+}
+
+.banner-content-text{
+  width: 100%;
+  height: 80%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  background-color: #272b4c;
+  color: white;
+  border-radius: 2px;
+  box-shadow: 5px 5px 10px 0px rgba(0,0,0,0.5);
+}
+
+.banner-social-media{
+  height: 50px;
+  width: 90%;
+  display: flex;
+  flex-direction: row;
+}
+
+.banner-social-media button{
+  width: 165px;
+  height: 30px;
+  background-color: #CB5DF2;
+  border-radius: 2px;
+  color: white;
+  border: none;
+  display: flex;
+  align-items: center;
+}
+
+.linkedin-button img{
+  width: 25px;
+  height: 25px;
+  margin-right: 5px;
+}
+
+.github-button img{
+  width: 25px;
+  height: 25px;
+  margin-right: 5px;
+}
+
+.email-button img{
+  width: 25px;
+  height: 25px;
+  margin-right: 5px;
+}
+
+.github-button{
+  margin-left: 5px;
+}
+
+.email-button{
+  margin-left: 5px;
+}
+
+.text-welcome{
+  width: 90%;
+  font-size: 30px;
+}
+
+.text-about{
+  width: 90%;
+  font-size: 18px;
+}
+
+.text-button{
+  width: 90%;
+}
+
+.button-start{
+  margin-top: 5%;
+  width: 150px;
+  height: 30px;
+  font-size: 15px;
+  border: none;
+  border-radius: 2px;
+  background-color: #CB5DF2;
+  color: white;
+  cursor: pointer;
+  font-weight: bolder;
+}
+
+.button-start:hover{
+  background-color: black;
+  color: white;
+  transition: 0.5s;
+}
+
+.bi-1{
+  position: absolute;
+  background-color: #CB5DF2;
+  border-radius: 2px;
+  width: 400px;
+  height: 400px;
+  top: 100px;
+  left: 80px;
+  z-index: 1;
+  border: 1px solid black;
+  box-shadow: -8px -6px 15px 0px rgba(0,0,0,0.5);
+}
+
+.bi-3{
+  position: absolute;
+  background-color: #82F0F1;
+  border-radius: 2px;
+  width: 400px;
+  height: 400px;
+  top: 120px;
+  left: 110px;
+  z-index: 2;
+  border: 1px solid black;
+  box-shadow: -8px -6px 15px 0px rgba(0,0,0,0.5);
+}
+
+.bi-2{
+  position: absolute;
+  background-color: white;
+  border-radius: 2px;
+  width: 400px;
+  height: 400px;
+  top: 145px;
+  left: 140px;
+  z-index: 3;
+  background-color: #272b4c;
+  background-image: url('assets/lol-triangulo-img.png');
+  background-position: center;
+  background-size: 670px;
+  background-repeat: no-repeat;
+  border: 1px solid black;
+  box-shadow: -8px -6px 15px 0px rgba(0,0,0,0.5);
+}
+
+.kaisa-img{
+  position: absolute;
+  width: 390px;
+  height: 390px;
+  margin-top: 10px;
+}
+
+

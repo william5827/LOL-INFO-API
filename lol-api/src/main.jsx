@@ -7,6 +7,6 @@ import Teste from './pages/teste.jsx'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <Home />
+    <Teste />
   </React.StrictMode>,
 )

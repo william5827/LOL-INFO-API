@@ -4,7 +4,7 @@ const champions = [
         "id": "Aatrox",
         "key": "266",
         "name": "Aatrox",
-        "title": "the Darkin Blade",
+        "title": "A ESPADA DARKIN",
         "blurb": "Once honored defenders of Shurima against the Void, Aatrox and his brethren would eventually become an even greater threat to Runeterra, and were defeated only by cunning mortal sorcery. But after centuries of imprisonment, Aatrox was the first to find...",
         "info": {
             "attack": 8,
@@ -13,7 +13,7 @@ const champions = [
             "difficulty": 4
         },
         "image": {
-            "full": "Aatrox.png",
+            "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aatrox_0.jpg",
             "sprite": "champion0.png",
             "group": "champion",
             "x": 0,
@@ -22,8 +22,8 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Fighter",
-            "Tank"
+            "Lutador",
+            "Tanque"
         ],
         "partype": "Blood Well",
         "stats": {
@@ -54,7 +54,7 @@ const champions = [
         "id": "Ahri",
         "key": "103",
         "name": "Ahri",
-        "title": "the Nine-Tailed Fox",
+        "title": "A RAPOSA DE NOVE CAUDAS",
         "blurb": "Innately connected to the magic of the spirit realm, Ahri is a fox-like vastaya who can manipulate her prey's emotions and consume their essence—receiving flashes of their memory and insight from each soul she consumes. Once a powerful yet wayward...",
         "info": {
             "attack": 3,
@@ -63,7 +63,7 @@ const champions = [
             "difficulty": 5
         },
         "image": {
-            "full": "Ahri.png",
+            "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ahri_0.jpg",
             "sprite": "champion0.png",
             "group": "champion",
             "x": 48,
@@ -73,7 +73,7 @@ const champions = [
         },
         "tags": [
             "Mage",
-            "Assassin"
+            "Assassino"
         ],
         "partype": "Mana",
         "stats": {
@@ -104,7 +104,7 @@ const champions = [
         "id": "Akali",
         "key": "84",
         "name": "Akali",
-        "title": "the Rogue Assassin",
+        "title": "A AssassinoA RENEGADA",
         "blurb": "Abandoning the Kinkou Order and her title of the Fist of Shadow, Akali now strikes alone, ready to be the deadly weapon her people need. Though she holds onto all she learned from her master Shen, she has pledged to defend Ionia from its enemies, one...",
         "info": {
             "attack": 5,
@@ -113,7 +113,7 @@ const champions = [
             "difficulty": 7
         },
         "image": {
-            "full": "Akali.png",
+            "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Akali_0.jpg",
             "sprite": "champion0.png",
             "group": "champion",
             "x": 96,
@@ -122,7 +122,7 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Assassin"
+            "Assassino"
         ],
         "partype": "Energy",
         "stats": {
@@ -153,7 +153,7 @@ const champions = [
         "id": "Akshan",
         "key": "166",
         "name": "Akshan",
-        "title": "the Rogue Sentinel",
+        "title": "O SENTINELA REBELDE",
         "blurb": "Raising an eyebrow in the face of danger, Akshan fights evil with dashing charisma, righteous vengeance, and a conspicuous lack of shirts. He is highly skilled in the art of stealth combat, able to evade the eyes of his enemies and reappear when they...",
         "info": {
             "attack": 0,
@@ -162,7 +162,7 @@ const champions = [
             "difficulty": 0
         },
         "image": {
-            "full": "Akshan.png",
+            "full": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt58b3304a9d38b091/60f5d6e21929bc58854d00a6/072221_AkshanChampionTheme_Banner.jpg?quality=90&width=1215",
             "sprite": "champion0.png",
             "group": "champion",
             "x": 144,
@@ -171,8 +171,8 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Marksman",
-            "Assassin"
+            "Atirador",
+            "Assassino"
         ],
         "partype": "Mana",
         "stats": {
@@ -203,8 +203,8 @@ const champions = [
         "id": "Alistar",
         "key": "12",
         "name": "Alistar",
-        "title": "the Minotaur",
-        "blurb": "Always a mighty warrior with a fearsome reputation, Alistar seeks revenge for the death of his clan at the hands of the Noxian empire. Though he was enslaved and forced into the life of a gladiator, his unbreakable will was what kept him from truly...",
+        "title": "O MINOTAURO",
+        "blurb": "Always a mighty warrior with a fearsome reputation, Alistar seeks revenge for the death of his clan at the hands of the Noxian empire. Though he was enslaved and forced into the life of a gladiatiradorr, his unbreakable will was what kept him from truly...",
         "info": {
             "attack": 6,
             "defense": 9,
@@ -212,7 +212,7 @@ const champions = [
             "difficulty": 7
         },
         "image": {
-            "full": "Alistar.png",
+            "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Alistar_0.jpg",
             "sprite": "champion0.png",
             "group": "champion",
             "x": 192,
@@ -221,8 +221,8 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Tank",
-            "Support"
+            "Tanque",
+            "Suporte"
         ],
         "partype": "Mana",
         "stats": {
@@ -253,7 +253,7 @@ const champions = [
         "id": "Amumu",
         "key": "32",
         "name": "Amumu",
-        "title": "the Sad Mummy",
+        "title": "A MÚMIA TRISTE",
         "blurb": "Legend claims that Amumu is a lonely and melancholy soul from ancient Shurima, roaming the world in search of a friend. Doomed by an ancient curse to remain alone forever, his touch is death, his affection ruin. Those who claim to have seen him describe...",
         "info": {
             "attack": 2,
@@ -262,7 +262,7 @@ const champions = [
             "difficulty": 3
         },
         "image": {
-            "full": "Amumu.png",
+            "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Amumu_0.jpg",
             "sprite": "champion0.png",
             "group": "champion",
             "x": 240,
@@ -271,7 +271,7 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Tank",
+            "Tanque",
             "Mage"
         ],
         "partype": "Mana",
@@ -303,7 +303,7 @@ const champions = [
         "id": "Anivia",
         "key": "34",
         "name": "Anivia",
-        "title": "the Cryophoenix",
+        "title": "A CRIOFÊNIX",
         "blurb": "Anivia is a benevolent winged spirit who endures endless cycles of life, death, and rebirth to protect the Freljord. A demigod born of unforgiving ice and bitter winds, she wields those elemental powers to thwart any who dare disturb her homeland...",
         "info": {
             "attack": 1,
@@ -312,7 +312,7 @@ const champions = [
             "difficulty": 10
         },
         "image": {
-            "full": "Anivia.png",
+            "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Anivia_0.jpg",
             "sprite": "champion0.png",
             "group": "champion",
             "x": 288,
@@ -322,7 +322,7 @@ const champions = [
         },
         "tags": [
             "Mage",
-            "Support"
+            "Suporte"
         ],
         "partype": "Mana",
         "stats": {
@@ -353,7 +353,7 @@ const champions = [
         "id": "Annie",
         "key": "1",
         "name": "Annie",
-        "title": "the Dark Child",
+        "title": "A CRIANÇA SOMBRIA",
         "blurb": "Dangerous, yet disarmingly precocious, Annie is a child mage with immense pyromantic power. Even in the shadows of the mountains north of Noxus, she is a magical outlier. Her natural affinity for fire manifested early in life through unpredictable...",
         "info": {
             "attack": 2,
@@ -362,7 +362,7 @@ const champions = [
             "difficulty": 6
         },
         "image": {
-            "full": "Annie.png",
+            "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Annie_0.jpg",
             "sprite": "champion0.png",
             "group": "champion",
             "x": 336,
@@ -402,7 +402,7 @@ const champions = [
         "id": "Aphelios",
         "key": "523",
         "name": "Aphelios",
-        "title": "the Weapon of the Faithful",
+        "title": "A ARMA DOS DEVOTOS",
         "blurb": "Emerging from moonlight's shadow with weapons drawn, Aphelios kills the enemies of his faith in brooding silence—speaking only through the certainty of his aim, and the firing of each gun. Though fueled by a poison that renders him mute, he is guided by...",
         "info": {
             "attack": 6,
@@ -411,7 +411,7 @@ const champions = [
             "difficulty": 10
         },
         "image": {
-            "full": "Aphelios.png",
+            "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aphelios_0.jpg",
             "sprite": "champion0.png",
             "group": "champion",
             "x": 384,
@@ -420,7 +420,7 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Marksman"
+            "Atirador"
         ],
         "partype": "Mana",
         "stats": {
@@ -451,7 +451,7 @@ const champions = [
         "id": "Ashe",
         "key": "22",
         "name": "Ashe",
-        "title": "the Frost Archer",
+        "title": "A ARQUEIRA DO GELO",
         "blurb": "Iceborn warmother of the Avarosan tribe, Ashe commands the most populous horde in the north. Stoic, intelligent, and idealistic, yet uncomfortable with her role as leader, she taps into the ancestral magics of her lineage to wield a bow of True Ice...",
         "info": {
             "attack": 7,
@@ -460,7 +460,7 @@ const champions = [
             "difficulty": 4
         },
         "image": {
-            "full": "Ashe.png",
+            "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ashe_0.jpg",
             "sprite": "champion0.png",
             "group": "champion",
             "x": 432,
@@ -469,8 +469,8 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Marksman",
-            "Support"
+            "Atirador",
+            "Suporte"
         ],
         "partype": "Mana",
         "stats": {
@@ -501,7 +501,7 @@ const champions = [
         "id": "AurelionSol",
         "key": "136",
         "name": "Aurelion Sol",
-        "title": "The Star Forger",
+        "title": "O FORJADOR DE ESTRELAS",
         "blurb": "Aurelion Sol once graced the vast emptiness of the cosmos with celestial wonders of his own devising. Now, he is forced to wield his awesome power at the behest of a space-faring empire that tricked him into servitude. Desiring a return to his...",
         "info": {
             "attack": 2,
@@ -510,7 +510,7 @@ const champions = [
             "difficulty": 7
         },
         "image": {
-            "full": "AurelionSol.png",
+            "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/AurelionSol_0.jpg",
             "sprite": "champion0.png",
             "group": "champion",
             "x": 0,
@@ -550,7 +550,7 @@ const champions = [
         "id": "Azir",
         "key": "268",
         "name": "Azir",
-        "title": "the Emperor of the Sands",
+        "title": "O IMPERADOR DAS AREIAS",
         "blurb": "Azir was a mortal emperor of Shurima in a far distant age, a proud man who stood at the cusp of immortality. His hubris saw him betrayed and murdered at the moment of his greatest triumph, but now, millennia later, he has been reborn as an Ascended...",
         "info": {
             "attack": 6,
@@ -559,7 +559,7 @@ const champions = [
             "difficulty": 9
         },
         "image": {
-            "full": "Azir.png",
+            "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Azir_0.jpg",
             "sprite": "champion0.png",
             "group": "champion",
             "x": 48,
@@ -569,7 +569,7 @@ const champions = [
         },
         "tags": [
             "Mage",
-            "Marksman"
+            "Atirador"
         ],
         "partype": "Mana",
         "stats": {
@@ -599,8 +599,8 @@ const champions = [
         "version": "13.21.1",
         "id": "Bard",
         "key": "432",
-        "name": "Bard",
-        "title": "the Wandering Caretaker",
+        "name": "Bardo",
+        "title": "O PROTETOR ANDARILHO",
         "blurb": "A traveler from beyond the stars, Bard is an agent of serendipity who fights to maintain a balance where life can endure the indifference of chaos. Many Runeterrans sing songs that ponder his extraordinary nature, yet they all agree that the cosmic...",
         "info": {
             "attack": 4,
@@ -609,7 +609,7 @@ const champions = [
             "difficulty": 9
         },
         "image": {
-            "full": "Bard.png",
+            "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Bard_0.jpg",
             "sprite": "champion0.png",
             "group": "champion",
             "x": 96,
@@ -618,7 +618,7 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Support",
+            "Suporte",
             "Mage"
         ],
         "partype": "Mana",
@@ -650,7 +650,7 @@ const champions = [
         "id": "Belveth",
         "key": "200",
         "name": "Bel'Veth",
-        "title": "the Empress of the Void",
+        "title": "A IMPERATRIZ DO VAZIO",
         "blurb": "A nightmarish empress created from the raw material of an entire devoured city, Bel'Veth is the end of Runeterra itself... and the beginning of a monstrous reality of her own design. Driven by epochs of repurposed history, knowledge, and memories from...",
         "info": {
             "attack": 4,
@@ -659,7 +659,7 @@ const champions = [
             "difficulty": 10
         },
         "image": {
-            "full": "Belveth.png",
+            "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Belveth_0.jpg",
             "sprite": "champion0.png",
             "group": "champion",
             "x": 144,
@@ -668,7 +668,7 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Fighter"
+            "Lutador"
         ],
         "partype": "",
         "stats": {
@@ -699,8 +699,8 @@ const champions = [
         "id": "Blitzcrank",
         "key": "53",
         "name": "Blitzcrank",
-        "title": "the Great Steam Golem",
-        "blurb": "Blitzcrank is an enormous, near-indestructible automaton from Zaun, originally built to dispose of hazardous waste. However, he found this primary purpose too restricting, and modified his own form to better serve the fragile people of the Sump...",
+        "title": "O GRANDE GOLEM A VAPOR",
+        "blurb": "Blitzcrank is an enormous, near-indestructible automatiradorn from Zaun, originally built to dispose of hazardous waste. However, he found this primary purpose too restricting, and modified his own form to better serve the fragile people of the Sump...",
         "info": {
             "attack": 4,
             "defense": 8,
@@ -708,7 +708,7 @@ const champions = [
             "difficulty": 4
         },
         "image": {
-            "full": "Blitzcrank.png",
+            "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Blitzcrank_0.jpg",
             "sprite": "champion0.png",
             "group": "champion",
             "x": 192,
@@ -717,8 +717,8 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Tank",
-            "Fighter"
+            "Tanque",
+            "Lutador"
         ],
         "partype": "Mana",
         "stats": {
@@ -749,7 +749,7 @@ const champions = [
         "id": "Brand",
         "key": "63",
         "name": "Brand",
-        "title": "the Burning Vengeance",
+        "title": "A VINGANÇA FLAMEJANTE",
         "blurb": "Once a tribesman of the icy Freljord named Kegan Rodhe, the creature known as Brand is a lesson in the temptation of greater power. Seeking one of the legendary World Runes, Kegan betrayed his companions and seized it for himself—and, in an instant, the...",
         "info": {
             "attack": 2,
@@ -758,7 +758,7 @@ const champions = [
             "difficulty": 4
         },
         "image": {
-            "full": "Brand.png",
+            "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Brand_0.jpg",
             "sprite": "champion0.png",
             "group": "champion",
             "x": 240,
@@ -798,7 +798,7 @@ const champions = [
         "id": "Braum",
         "key": "201",
         "name": "Braum",
-        "title": "the Heart of the Freljord",
+        "title": "O CORAÇÃO DE FRELJORD",
         "blurb": "Blessed with massive biceps and an even bigger heart, Braum is a beloved hero of the Freljord. Every mead hall north of Frostheld toasts his legendary strength, said to have felled a forest of oaks in a single night, and punched an entire mountain into...",
         "info": {
             "attack": 3,
@@ -807,7 +807,7 @@ const champions = [
             "difficulty": 3
         },
         "image": {
-            "full": "Braum.png",
+            "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Braum_0.jpg",
             "sprite": "champion0.png",
             "group": "champion",
             "x": 288,
@@ -816,8 +816,8 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Support",
-            "Tank"
+            "Suporte",
+            "Tanque"
         ],
         "partype": "Mana",
         "stats": {
@@ -848,7 +848,7 @@ const champions = [
         "id": "Briar",
         "key": "233",
         "name": "Briar",
-        "title": "the Restrained Hunger",
+        "title": "A FOME CONTIDA",
         "blurb": "A failed experiment by the Black Rose, Briar's uncontrollable bloodlust required a special pillory to focus her frenzied mind. After years of confinement, this living weapon broke free from her restraints and unleashed herself into the world. Now she's...",
         "info": {
             "attack": 9,
@@ -857,7 +857,7 @@ const champions = [
             "difficulty": 3
         },
         "image": {
-            "full": "Briar.png",
+            "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Briar_0.jpg",
             "sprite": "champion0.png",
             "group": "champion",
             "x": 336,
@@ -866,8 +866,8 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Fighter",
-            "Assassin"
+            "Lutador",
+            "Assassino"
         ],
         "partype": "Fury",
         "stats": {
@@ -898,7 +898,7 @@ const champions = [
         "id": "Caitlyn",
         "key": "51",
         "name": "Caitlyn",
-        "title": "the Sheriff of Piltover",
+        "title": "A XERIFE DE PILTOVER",
         "blurb": "Renowned as its finest peacekeeper, Caitlyn is also Piltover's best shot at ridding the city of its elusive criminal elements. She is often paired with Vi, acting as a cool counterpoint to her partner's more impetuous nature. Even though she carries a...",
         "info": {
             "attack": 8,
@@ -907,7 +907,7 @@ const champions = [
             "difficulty": 6
         },
         "image": {
-            "full": "Caitlyn.png",
+            "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Caitlyn_0.jpg",
             "sprite": "champion0.png",
             "group": "champion",
             "x": 384,
@@ -916,7 +916,7 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Marksman"
+            "Atirador"
         ],
         "partype": "Mana",
         "stats": {
@@ -947,7 +947,7 @@ const champions = [
         "id": "Camille",
         "key": "164",
         "name": "Camille",
-        "title": "the Steel Shadow",
+        "title": "A SOMBRA DE AÇO",
         "blurb": "Weaponized to operate outside the boundaries of the law, Camille is the Principal Intelligencer of Clan Ferros—an elegant and elite agent who ensures the Piltover machine and its Zaunite underbelly runs smoothly. Adaptable and precise, she views sloppy...",
         "info": {
             "attack": 8,
@@ -956,7 +956,7 @@ const champions = [
             "difficulty": 4
         },
         "image": {
-            "full": "Camille.png",
+            "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Camille_0.jpg",
             "sprite": "champion0.png",
             "group": "champion",
             "x": 432,
@@ -965,8 +965,8 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Fighter",
-            "Tank"
+            "Lutador",
+            "Tanque"
         ],
         "partype": "Mana",
         "stats": {
@@ -997,7 +997,7 @@ const champions = [
         "id": "Cassiopeia",
         "key": "69",
         "name": "Cassiopeia",
-        "title": "the Serpent's Embrace",
+        "title": "O ABRAÇO DA SERPENTE",
         "blurb": "Cassiopeia is a deadly creature bent on manipulating others to her sinister will. Youngest and most beautiful daughter of the noble Du Couteau family of Noxus, she ventured deep into the crypts beneath Shurima in search of ancient power. There, she was...",
         "info": {
             "attack": 2,
@@ -1006,7 +1006,7 @@ const champions = [
             "difficulty": 10
         },
         "image": {
-            "full": "Cassiopeia.png",
+            "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Cassiopeia_0.jpg",
             "sprite": "champion0.png",
             "group": "champion",
             "x": 0,
@@ -1046,7 +1046,7 @@ const champions = [
         "id": "Chogath",
         "key": "31",
         "name": "Cho'Gath",
-        "title": "the Terror of the Void",
+        "title": "O TERROR DO VAZIO",
         "blurb": "From the moment Cho'Gath first emerged into the harsh light of Runeterra's sun, the beast was driven by the most pure and insatiable hunger. A perfect expression of the Void's desire to consume all life, Cho'Gath's complex biology quickly converts...",
         "info": {
             "attack": 3,
@@ -1055,7 +1055,7 @@ const champions = [
             "difficulty": 5
         },
         "image": {
-            "full": "Chogath.png",
+            "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Chogath_0.jpg",
             "sprite": "champion0.png",
             "group": "champion",
             "x": 48,
@@ -1064,7 +1064,7 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Tank",
+            "Tanque",
             "Mage"
         ],
         "partype": "Mana",
@@ -1096,7 +1096,7 @@ const champions = [
         "id": "Corki",
         "key": "42",
         "name": "Corki",
-        "title": "the Daring Bombardier",
+        "title": "O BOMBARDEIRO OUSADO",
         "blurb": "The yordle pilot Corki loves two things above all others: flying, and his glamorous mustache... though not necessarily in that order. After leaving Bandle City, he settled in Piltover and fell in love with the wondrous machines he found there. He...",
         "info": {
             "attack": 8,
@@ -1105,7 +1105,7 @@ const champions = [
             "difficulty": 6
         },
         "image": {
-            "full": "Corki.png",
+            "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Corki_0.jpg",
             "sprite": "champion0.png",
             "group": "champion",
             "x": 96,
@@ -1114,7 +1114,7 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Marksman"
+            "Atirador"
         ],
         "partype": "Mana",
         "stats": {
@@ -1145,7 +1145,7 @@ const champions = [
         "id": "Darius",
         "key": "122",
         "name": "Darius",
-        "title": "the Hand of Noxus",
+        "title": "A MÃO DE NOXUS",
         "blurb": "There is no greater symbol of Noxian might than Darius, the nation's most feared and battle-hardened commander. Rising from humble origins to become the Hand of Noxus, he cleaves through the empire's enemies—many of them Noxians themselves. Knowing that...",
         "info": {
             "attack": 9,
@@ -1154,7 +1154,7 @@ const champions = [
             "difficulty": 2
         },
         "image": {
-            "full": "Darius.png",
+            "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Darius_0.jpg",
             "sprite": "champion0.png",
             "group": "champion",
             "x": 144,
@@ -1163,8 +1163,8 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Fighter",
-            "Tank"
+            "Lutador",
+            "Tanque"
         ],
         "partype": "Mana",
         "stats": {
@@ -1195,7 +1195,7 @@ const champions = [
         "id": "Diana",
         "key": "131",
         "name": "Diana",
-        "title": "Scorn of the Moon",
+        "title": "O ESCÁRNIO DA LUA",
         "blurb": "Bearing her crescent moonblade, Diana fights as a warrior of the Lunari—a faith all but quashed in the lands around Mount Targon. Clad in shimmering armor the color of winter snow at night, she is a living embodiment of the silver moon's power. Imbued...",
         "info": {
             "attack": 7,
@@ -1204,7 +1204,7 @@ const champions = [
             "difficulty": 4
         },
         "image": {
-            "full": "Diana.png",
+            "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Diana_0.jpg",
             "sprite": "champion0.png",
             "group": "champion",
             "x": 192,
@@ -1213,7 +1213,7 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Fighter",
+            "Lutador",
             "Mage"
         ],
         "partype": "Mana",
@@ -1245,7 +1245,7 @@ const champions = [
         "id": "Draven",
         "key": "119",
         "name": "Draven",
-        "title": "the Glorious Executioner",
+        "title": "O CARRASCO DE NOXUS",
         "blurb": "In Noxus, warriors known as Reckoners face one another in arenas where blood is spilled and strength tested—but none has ever been as celebrated as Draven. A former soldier, he found that the crowds uniquely appreciated his flair for the dramatic, and...",
         "info": {
             "attack": 9,
@@ -1254,7 +1254,7 @@ const champions = [
             "difficulty": 8
         },
         "image": {
-            "full": "Draven.png",
+            "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Draven_0.jpg",
             "sprite": "champion0.png",
             "group": "champion",
             "x": 240,
@@ -1263,7 +1263,7 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Marksman"
+            "Atirador"
         ],
         "partype": "Mana",
         "stats": {
@@ -1294,7 +1294,7 @@ const champions = [
         "id": "DrMundo",
         "key": "36",
         "name": "Dr. Mundo",
-        "title": "the Madman of Zaun",
+        "title": "O LOUCO DE ZAUN",
         "blurb": "Utterly mad, tragically homicidal, and horrifyingly purple, Dr. Mundo is what keeps many of Zaun's citizens indoors on particularly dark nights. Now a self-proclaimed physician, he was once a patient of Zaun's most infamous asylum. After \"curing\" the...",
         "info": {
             "attack": 5,
@@ -1303,7 +1303,7 @@ const champions = [
             "difficulty": 5
         },
         "image": {
-            "full": "DrMundo.png",
+            "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/DrMundo_0.jpg",
             "sprite": "champion0.png",
             "group": "champion",
             "x": 288,
@@ -1312,8 +1312,8 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Fighter",
-            "Tank"
+            "Lutador",
+            "Tanque"
         ],
         "partype": "None",
         "stats": {
@@ -1344,7 +1344,7 @@ const champions = [
         "id": "Ekko",
         "key": "245",
         "name": "Ekko",
-        "title": "the Boy Who Shattered Time",
+        "title": "O RAPAZ QUE ESTILHAÇOU O TEMPO",
         "blurb": "A prodigy from the rough streets of Zaun, Ekko manipulates time to twist any situation to his advantage. Using his own invention, the Zero Drive, he explores the branching possibilities of reality to craft the perfect moment. Though he revels in this...",
         "info": {
             "attack": 5,
@@ -1353,7 +1353,7 @@ const champions = [
             "difficulty": 8
         },
         "image": {
-            "full": "Ekko.png",
+            "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ekko_0.jpg",
             "sprite": "champion0.png",
             "group": "champion",
             "x": 336,
@@ -1362,8 +1362,8 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Assassin",
-            "Fighter"
+            "Assassino",
+            "Lutador"
         ],
         "partype": "Mana",
         "stats": {
@@ -1394,7 +1394,7 @@ const champions = [
         "id": "Elise",
         "key": "60",
         "name": "Elise",
-        "title": "the Spider Queen",
+        "title": "A ARANHA RAINHA",
         "blurb": "Elise is a deadly predator who dwells in a shuttered, lightless palace, deep within the oldest city of Noxus. Once mortal, she was the mistress of a powerful house, but the bite of a vile demigod transformed her into something beautiful, yet utterly...",
         "info": {
             "attack": 6,
@@ -1403,7 +1403,7 @@ const champions = [
             "difficulty": 9
         },
         "image": {
-            "full": "Elise.png",
+            "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Elise_0.jpg",
             "sprite": "champion0.png",
             "group": "champion",
             "x": 384,
@@ -1413,7 +1413,7 @@ const champions = [
         },
         "tags": [
             "Mage",
-            "Fighter"
+            "Lutador"
         ],
         "partype": "Mana",
         "stats": {
@@ -1444,7 +1444,7 @@ const champions = [
         "id": "Evelynn",
         "key": "28",
         "name": "Evelynn",
-        "title": "Agony's Embrace",
+        "title": "O ABRAÇO DA AGONIA",
         "blurb": "Within the dark seams of Runeterra, the demon Evelynn searches for her next victim. She lures in prey with the voluptuous façade of a human female, but once a person succumbs to her charms, Evelynn's true form is unleashed. She then subjects her victim...",
         "info": {
             "attack": 4,
@@ -1453,7 +1453,7 @@ const champions = [
             "difficulty": 10
         },
         "image": {
-            "full": "Evelynn.png",
+            "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Evelynn_0.jpg",
             "sprite": "champion0.png",
             "group": "champion",
             "x": 432,
@@ -1462,7 +1462,7 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Assassin",
+            "Assassino",
             "Mage"
         ],
         "partype": "Mana",
@@ -1494,7 +1494,7 @@ const champions = [
         "id": "Ezreal",
         "key": "81",
         "name": "Ezreal",
-        "title": "the Prodigal Explorer",
+        "title": "O EXPLORADOR PRÓDIGO",
         "blurb": "A dashing adventurer, unknowingly gifted in the magical arts, Ezreal raids long-lost catacombs, tangles with ancient curses, and overcomes seemingly impossible odds with ease. His courage and bravado knowing no bounds, he prefers to improvise his way...",
         "info": {
             "attack": 7,
@@ -1503,7 +1503,7 @@ const champions = [
             "difficulty": 7
         },
         "image": {
-            "full": "Ezreal.png",
+            "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ezreal_0.jpg",
             "sprite": "champion1.png",
             "group": "champion",
             "x": 0,
@@ -1512,7 +1512,7 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Marksman",
+            "Atirador",
             "Mage"
         ],
         "partype": "Mana",
@@ -1544,7 +1544,7 @@ const champions = [
         "id": "Fiddlesticks",
         "key": "9",
         "name": "Fiddlesticks",
-        "title": "the Ancient Fear",
+        "title": "O TERROR ANCESTRAL",
         "blurb": "Something has awoken in Runeterra. Something ancient. Something terrible. The ageless horror known as Fiddlesticks stalks the edges of mortal society, drawn to areas thick with paranoia where it feeds upon terrorized victims. Wielding a jagged scythe...",
         "info": {
             "attack": 2,
@@ -1553,7 +1553,7 @@ const champions = [
             "difficulty": 9
         },
         "image": {
-            "full": "Fiddlesticks.png",
+            "full": "https://i.pinimg.com/564x/1d/69/0a/1d690ac3d8f5b8d0ad8512e5e55baeaf.jpg",
             "sprite": "champion1.png",
             "group": "champion",
             "x": 48,
@@ -1563,7 +1563,7 @@ const champions = [
         },
         "tags": [
             "Mage",
-            "Support"
+            "Suporte"
         ],
         "partype": "Mana",
         "stats": {
@@ -1594,7 +1594,7 @@ const champions = [
         "id": "Fiora",
         "key": "114",
         "name": "Fiora",
-        "title": "the Grand Duelist",
+        "title": "A GRANDE DUELISTA",
         "blurb": "The most feared duelist in all Valoran, Fiora is as renowned for her brusque manner and cunning mind as she is for the speed of her bluesteel rapier. Born to House Laurent in the kingdom of Demacia, Fiora took control of the family from her father in...",
         "info": {
             "attack": 10,
@@ -1603,7 +1603,7 @@ const champions = [
             "difficulty": 3
         },
         "image": {
-            "full": "Fiora.png",
+            "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fiora_0.jpg",
             "sprite": "champion1.png",
             "group": "champion",
             "x": 96,
@@ -1612,8 +1612,8 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Fighter",
-            "Assassin"
+            "Lutador",
+            "Assassino"
         ],
         "partype": "Mana",
         "stats": {
@@ -1644,7 +1644,7 @@ const champions = [
         "id": "Fizz",
         "key": "105",
         "name": "Fizz",
-        "title": "the Tidal Trickster",
+        "title": "O TRAPACEIRO DAS MARÉS",
         "blurb": "Fizz is an amphibious yordle, who dwells among the reefs surrounding Bilgewater. He often retrieves and returns the tithes cast into the sea by superstitious captains, but even the saltiest of sailors know better than to cross him—for many are the tales...",
         "info": {
             "attack": 6,
@@ -1653,7 +1653,7 @@ const champions = [
             "difficulty": 6
         },
         "image": {
-            "full": "Fizz.png",
+            "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fizz_0.jpg",
             "sprite": "champion1.png",
             "group": "champion",
             "x": 144,
@@ -1662,8 +1662,8 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Assassin",
-            "Fighter"
+            "Assassino",
+            "Lutador"
         ],
         "partype": "Mana",
         "stats": {
@@ -1694,7 +1694,7 @@ const champions = [
         "id": "Galio",
         "key": "3",
         "name": "Galio",
-        "title": "the Colossus",
+        "title": "O COLOSSO",
         "blurb": "Outside the gleaming city of Demacia, the stone colossus Galio keeps vigilant watch. Built as a bulwark against enemy mages, he often stands motionless for decades until the presence of powerful magic stirs him to life. Once activated, Galio makes the...",
         "info": {
             "attack": 1,
@@ -1703,7 +1703,7 @@ const champions = [
             "difficulty": 5
         },
         "image": {
-            "full": "Galio.png",
+            "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Galio_0.jpg",
             "sprite": "champion1.png",
             "group": "champion",
             "x": 192,
@@ -1712,7 +1712,7 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Tank",
+            "Tanque",
             "Mage"
         ],
         "partype": "Mana",
@@ -1744,7 +1744,7 @@ const champions = [
         "id": "Gangplank",
         "key": "41",
         "name": "Gangplank",
-        "title": "the Saltwater Scourge",
+        "title": "O TERROR DOS DOZE MARES",
         "blurb": "As unpredictable as he is brutal, the dethroned reaver king Gangplank is feared far and wide. Once, he ruled the port city of Bilgewater, and while his reign is over, there are those who believe this has only made him more dangerous. Gangplank would see...",
         "info": {
             "attack": 7,
@@ -1753,7 +1753,7 @@ const champions = [
             "difficulty": 9
         },
         "image": {
-            "full": "Gangplank.png",
+            "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gangplank_0.jpg",
             "sprite": "champion1.png",
             "group": "champion",
             "x": 240,
@@ -1762,7 +1762,7 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Fighter"
+            "Lutador"
         ],
         "partype": "Mana",
         "stats": {
@@ -1793,7 +1793,7 @@ const champions = [
         "id": "Garen",
         "key": "86",
         "name": "Garen",
-        "title": "The Might of Demacia",
+        "title": "O PODER DE DEMACIA",
         "blurb": "A proud and noble warrior, Garen fights as one of the Dauntless Vanguard. He is popular among his fellows, and respected well enough by his enemies—not least as a scion of the prestigious Crownguard family, entrusted with defending Demacia and its...",
         "info": {
             "attack": 7,
@@ -1802,7 +1802,7 @@ const champions = [
             "difficulty": 5
         },
         "image": {
-            "full": "Garen.png",
+            "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Garen_0.jpg",
             "sprite": "champion1.png",
             "group": "champion",
             "x": 288,
@@ -1811,8 +1811,8 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Fighter",
-            "Tank"
+            "Lutador",
+            "Tanque"
         ],
         "partype": "None",
         "stats": {
@@ -1843,7 +1843,7 @@ const champions = [
         "id": "Gnar",
         "key": "150",
         "name": "Gnar",
-        "title": "the Missing Link",
+        "title": "O YORDLE PRÉ-HISTÓRICO",
         "blurb": "Gnar is a primeval yordle whose playful antics can erupt into a toddler's outrage in an instant, transforming him into a massive beast bent on destruction. Frozen in True Ice for millennia, the curious creature broke free and now hops about a changed...",
         "info": {
             "attack": 6,
@@ -1852,7 +1852,7 @@ const champions = [
             "difficulty": 8
         },
         "image": {
-            "full": "Gnar.png",
+            "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gnar_0.jpg",
             "sprite": "champion1.png",
             "group": "champion",
             "x": 336,
@@ -1861,8 +1861,8 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Fighter",
-            "Tank"
+            "Lutador",
+            "Tanque"
         ],
         "partype": "Rage",
         "stats": {
@@ -1893,7 +1893,7 @@ const champions = [
         "id": "Gragas",
         "key": "79",
         "name": "Gragas",
-        "title": "the Rabble Rouser",
+        "title": "O BADERNISTA",
         "blurb": "Equal parts jolly and imposing, Gragas is a massive, rowdy brewmaster on his own quest for the perfect pint of ale. Hailing from parts unknown, he now searches for rare ingredients among the unblemished wastes of the Freljord, trying each recipe as he...",
         "info": {
             "attack": 4,
@@ -1902,7 +1902,7 @@ const champions = [
             "difficulty": 5
         },
         "image": {
-            "full": "Gragas.png",
+            "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gragas_0.jpg",
             "sprite": "champion1.png",
             "group": "champion",
             "x": 384,
@@ -1911,8 +1911,7 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Fighter",
-            "Mage"
+            "Lutador", "Mage"
         ],
         "partype": "Mana",
         "stats": {
@@ -1961,7 +1960,7 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Marksman"
+            "Atirador"
         ],
         "partype": "Mana",
         "stats": {
@@ -2010,8 +2009,8 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Fighter",
-            "Assassin"
+            "Lutador",
+            "Assassino"
         ],
         "partype": "Mana",
         "stats": {
@@ -2060,8 +2059,8 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Fighter",
-            "Tank"
+            "Lutador",
+            "Tanque"
         ],
         "partype": "Mana",
         "stats": {
@@ -2111,7 +2110,7 @@ const champions = [
         },
         "tags": [
             "Mage",
-            "Support"
+            "Suporte"
         ],
         "partype": "Mana",
         "stats": {
@@ -2160,8 +2159,8 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Fighter",
-            "Tank"
+            "Lutador",
+            "Tanque"
         ],
         "partype": "Mana",
         "stats": {
@@ -2210,8 +2209,8 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Fighter",
-            "Assassin"
+            "Lutador",
+            "Assassino"
         ],
         "partype": "Mana",
         "stats": {
@@ -2260,7 +2259,7 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Support",
+            "Suporte",
             "Mage"
         ],
         "partype": "Mana",
@@ -2310,7 +2309,7 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Support",
+            "Suporte",
             "Mage"
         ],
         "partype": "Mana",
@@ -2360,8 +2359,8 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Tank",
-            "Fighter"
+            "Tanque",
+            "Lutador"
         ],
         "partype": "Mana",
         "stats": {
@@ -2410,8 +2409,8 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Fighter",
-            "Assassin"
+            "Lutador",
+            "Assassino"
         ],
         "partype": "Mana",
         "stats": {
@@ -2460,8 +2459,8 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Fighter",
-            "Marksman"
+            "Lutador",
+            "Atirador"
         ],
         "partype": "Mana",
         "stats": {
@@ -2493,7 +2492,7 @@ const champions = [
         "key": "202",
         "name": "Jhin",
         "title": "the Virtuoso",
-        "blurb": "Jhin is a meticulous criminal psychopath who believes murder is art. Once an Ionian prisoner, but freed by shadowy elements within Ionia's ruling council, the serial killer now works as their cabal's assassin. Using his gun as his paintbrush, Jhin...",
+        "blurb": "Jhin is a meticulous criminal psychopath who believes murder is art. Once an Ionian prisoner, but freed by shadowy elements within Ionia's ruling council, the serial killer now works as their cabal's Assassino. Using his gun as his paintbrush, Jhin...",
         "info": {
             "attack": 10,
             "defense": 2,
@@ -2510,7 +2509,7 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Marksman",
+            "Atirador",
             "Mage"
         ],
         "partype": "Mana",
@@ -2560,7 +2559,7 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Marksman"
+            "Atirador"
         ],
         "partype": "Mana",
         "stats": {
@@ -2609,7 +2608,7 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Marksman"
+            "Atirador"
         ],
         "partype": "Mana",
         "stats": {
@@ -2658,7 +2657,7 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Marksman"
+            "Atirador"
         ],
         "partype": "Mana",
         "stats": {
@@ -2708,7 +2707,7 @@ const champions = [
         },
         "tags": [
             "Mage",
-            "Support"
+            "Suporte"
         ],
         "partype": "Mana",
         "stats": {
@@ -2806,7 +2805,7 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Assassin",
+            "Assassino",
             "Mage"
         ],
         "partype": "Mana",
@@ -2839,7 +2838,7 @@ const champions = [
         "key": "55",
         "name": "Katarina",
         "title": "the Sinister Blade",
-        "blurb": "Decisive in judgment and lethal in combat, Katarina is a Noxian assassin of the highest caliber. Eldest daughter to the legendary General Du Couteau, she made her talents known with swift kills against unsuspecting enemies. Her fiery ambition has driven...",
+        "blurb": "Decisive in judgment and lethal in combat, Katarina is a Noxian Assassino of the highest caliber. Eldest daughter to the legendary General Du Couteau, she made her talents known with swift kills against unsuspecting enemies. Her fiery ambition has driven...",
         "info": {
             "attack": 4,
             "defense": 3,
@@ -2856,7 +2855,7 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Assassin",
+            "Assassino",
             "Mage"
         ],
         "partype": "None",
@@ -2906,8 +2905,8 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Fighter",
-            "Support"
+            "Lutador",
+            "Suporte"
         ],
         "partype": "Mana",
         "stats": {
@@ -2956,8 +2955,8 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Fighter",
-            "Assassin"
+            "Lutador",
+            "Assassino"
         ],
         "partype": "Mana",
         "stats": {
@@ -3007,7 +3006,7 @@ const champions = [
         },
         "tags": [
             "Mage",
-            "Marksman"
+            "Atirador"
         ],
         "partype": "Energy",
         "stats": {
@@ -3056,7 +3055,7 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Assassin"
+            "Assassino"
         ],
         "partype": "Mana",
         "stats": {
@@ -3105,7 +3104,7 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Marksman"
+            "Atirador"
         ],
         "partype": "Mana",
         "stats": {
@@ -3136,7 +3135,7 @@ const champions = [
         "id": "Kled",
         "key": "240",
         "name": "Kled",
-        "title": "the Cantankerous Cavalier",
+        "title": "the CanTanqueerous Cavalier",
         "blurb": "A warrior as fearless as he is ornery, the yordle Kled embodies the furious bravado of Noxus. He is an icon beloved by the empire's soldiers, distrusted by its officers, and loathed by the nobility. Many claim Kled has fought in every campaign the...",
         "info": {
             "attack": 8,
@@ -3154,8 +3153,8 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Fighter",
-            "Tank"
+            "Lutador",
+            "Tanque"
         ],
         "partype": "Courage",
         "stats": {
@@ -3204,7 +3203,7 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Marksman",
+            "Atirador",
             "Mage"
         ],
         "partype": "Mana",
@@ -3254,8 +3253,8 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Tank",
-            "Fighter"
+            "Tanque",
+            "Lutador"
         ],
         "partype": "Mana",
         "stats": {
@@ -3304,7 +3303,7 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Assassin",
+            "Assassino",
             "Mage"
         ],
         "partype": "Mana",
@@ -3337,7 +3336,7 @@ const champions = [
         "key": "64",
         "name": "Lee Sin",
         "title": "the Blind Monk",
-        "blurb": "A master of Ionia's ancient martial arts, Lee Sin is a principled fighter who channels the essence of the dragon spirit to face any challenge. Though he lost his sight many years ago, the warrior-monk has devoted his life to protecting his homeland...",
+        "blurb": "A master of Ionia's ancient martial arts, Lee Sin is a principled Lutador who channels the essence of the dragon spirit to face any challenge. Though he lost his sight many years ago, the warrior-monk has devoted his life to protecting his homeland...",
         "info": {
             "attack": 8,
             "defense": 5,
@@ -3354,8 +3353,8 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Fighter",
-            "Assassin"
+            "Lutador",
+            "Assassino"
         ],
         "partype": "Energy",
         "stats": {
@@ -3404,8 +3403,8 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Tank",
-            "Support"
+            "Tanque",
+            "Suporte"
         ],
         "partype": "Mana",
         "stats": {
@@ -3454,7 +3453,7 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Fighter",
+            "Lutador",
             "Mage"
         ],
         "partype": "Mana",
@@ -3553,7 +3552,7 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Marksman"
+            "Atirador"
         ],
         "partype": "Mana",
         "stats": {
@@ -3602,7 +3601,7 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Support",
+            "Suporte",
             "Mage"
         ],
         "partype": "Mana",
@@ -3653,7 +3652,7 @@ const champions = [
         },
         "tags": [
             "Mage",
-            "Support"
+            "Suporte"
         ],
         "partype": "Mana",
         "stats": {
@@ -3702,8 +3701,8 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Tank",
-            "Fighter"
+            "Tanque",
+            "Lutador"
         ],
         "partype": "Mana",
         "stats": {
@@ -3753,7 +3752,7 @@ const champions = [
         },
         "tags": [
             "Mage",
-            "Assassin"
+            "Assassino"
         ],
         "partype": "Mana",
         "stats": {
@@ -3802,7 +3801,7 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Tank",
+            "Tanque",
             "Mage"
         ],
         "partype": "Mana",
@@ -3852,8 +3851,8 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Assassin",
-            "Fighter"
+            "Assassino",
+            "Lutador"
         ],
         "partype": "Mana",
         "stats": {
@@ -3902,7 +3901,7 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Support"
+            "Suporte"
         ],
         "partype": "Mana",
         "stats": {
@@ -3951,7 +3950,7 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Marksman"
+            "Atirador"
         ],
         "partype": "Mana",
         "stats": {
@@ -4000,8 +3999,8 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Fighter",
-            "Tank"
+            "Lutador",
+            "Tanque"
         ],
         "partype": "Mana",
         "stats": {
@@ -4050,7 +4049,7 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Fighter"
+            "Lutador"
         ],
         "partype": "Shield",
         "stats": {
@@ -4100,7 +4099,7 @@ const champions = [
         },
         "tags": [
             "Mage",
-            "Support"
+            "Suporte"
         ],
         "partype": "Mana",
         "stats": {
@@ -4149,7 +4148,7 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Assassin"
+            "Assassino"
         ],
         "partype": "Mana",
         "stats": {
@@ -4198,7 +4197,7 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Support",
+            "Suporte",
             "Mage"
         ],
         "partype": "Mana",
@@ -4248,8 +4247,8 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Fighter",
-            "Tank"
+            "Lutador",
+            "Tanque"
         ],
         "partype": "Mana",
         "stats": {
@@ -4298,8 +4297,8 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Tank",
-            "Support"
+            "Tanque",
+            "Suporte"
         ],
         "partype": "Mana",
         "stats": {
@@ -4349,7 +4348,7 @@ const champions = [
         },
         "tags": [
             "Mage",
-            "Support"
+            "Suporte"
         ],
         "partype": "Mana",
         "stats": {
@@ -4398,7 +4397,7 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Assassin",
+            "Assassino",
             "Mage"
         ],
         "partype": "Mana",
@@ -4448,8 +4447,8 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Fighter",
-            "Assassin"
+            "Lutador",
+            "Assassino"
         ],
         "partype": "Mana",
         "stats": {
@@ -4498,8 +4497,8 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Assassin",
-            "Fighter"
+            "Assassino",
+            "Lutador"
         ],
         "partype": "Mana",
         "stats": {
@@ -4548,8 +4547,8 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Tank",
-            "Fighter"
+            "Tanque",
+            "Lutador"
         ],
         "partype": "Mana",
         "stats": {
@@ -4598,8 +4597,8 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Fighter",
-            "Tank"
+            "Lutador",
+            "Tanque"
         ],
         "partype": "Mana",
         "stats": {
@@ -4649,7 +4648,7 @@ const champions = [
         },
         "tags": [
             "Mage",
-            "Support"
+            "Suporte"
         ],
         "partype": "Mana",
         "stats": {
@@ -4698,8 +4697,8 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Tank",
-            "Fighter"
+            "Tanque",
+            "Lutador"
         ],
         "partype": "Mana",
         "stats": {
@@ -4748,8 +4747,8 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Fighter",
-            "Assassin"
+            "Lutador",
+            "Assassino"
         ],
         "partype": "Mana",
         "stats": {
@@ -4798,8 +4797,8 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Tank",
-            "Fighter"
+            "Tanque",
+            "Lutador"
         ],
         "partype": "Mana",
         "stats": {
@@ -4848,8 +4847,8 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Support",
-            "Assassin"
+            "Suporte",
+            "Assassino"
         ],
         "partype": "Mana",
         "stats": {
@@ -4898,8 +4897,8 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Assassin",
-            "Fighter"
+            "Assassino",
+            "Lutador"
         ],
         "partype": "Mana",
         "stats": {
@@ -4948,8 +4947,8 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Marksman",
-            "Assassin"
+            "Atirador",
+            "Assassino"
         ],
         "partype": "Mana",
         "stats": {
@@ -4998,7 +4997,7 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Support"
+            "Suporte"
         ],
         "partype": "Mana",
         "stats": {
@@ -5047,8 +5046,8 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Tank",
-            "Fighter"
+            "Tanque",
+            "Lutador"
         ],
         "partype": "Mana",
         "stats": {
@@ -5097,7 +5096,7 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Fighter"
+            "Lutador"
         ],
         "partype": "Rage",
         "stats": {
@@ -5146,8 +5145,8 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Tank",
-            "Support"
+            "Tanque",
+            "Suporte"
         ],
         "partype": "Mana",
         "stats": {
@@ -5196,7 +5195,7 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Support",
+            "Suporte",
             "Mage"
         ],
         "partype": "Mana",
@@ -5246,8 +5245,8 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Fighter",
-            "Tank"
+            "Lutador",
+            "Tanque"
         ],
         "partype": "Fury",
         "stats": {
@@ -5296,8 +5295,8 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Assassin",
-            "Fighter"
+            "Assassino",
+            "Lutador"
         ],
         "partype": "Ferocity",
         "stats": {
@@ -5346,8 +5345,8 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Fighter",
-            "Assassin"
+            "Lutador",
+            "Assassino"
         ],
         "partype": "None",
         "stats": {
@@ -5396,7 +5395,7 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Fighter",
+            "Lutador",
             "Mage"
         ],
         "partype": "Heat",
@@ -5447,7 +5446,7 @@ const champions = [
         },
         "tags": [
             "Mage",
-            "Fighter"
+            "Lutador"
         ],
         "partype": "Mana",
         "stats": {
@@ -5496,7 +5495,7 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Marksman"
+            "Atirador"
         ],
         "partype": "Mana",
         "stats": {
@@ -5545,8 +5544,8 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Tank",
-            "Fighter"
+            "Tanque",
+            "Lutador"
         ],
         "partype": "Mana",
         "stats": {
@@ -5595,8 +5594,8 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Marksman",
-            "Support"
+            "Atirador",
+            "Suporte"
         ],
         "partype": "Mana",
         "stats": {
@@ -5646,7 +5645,7 @@ const champions = [
         },
         "tags": [
             "Mage",
-            "Support"
+            "Suporte"
         ],
         "partype": "Mana",
         "stats": {
@@ -5695,8 +5694,8 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Fighter",
-            "Tank"
+            "Lutador",
+            "Tanque"
         ],
         "partype": "Grit",
         "stats": {
@@ -5745,7 +5744,7 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Assassin"
+            "Assassino"
         ],
         "partype": "Mana",
         "stats": {
@@ -5794,7 +5793,7 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Tank"
+            "Tanque"
         ],
         "partype": "Energy",
         "stats": {
@@ -5843,8 +5842,8 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Fighter",
-            "Tank"
+            "Lutador",
+            "Tanque"
         ],
         "partype": "Fury",
         "stats": {
@@ -5893,8 +5892,8 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Tank",
-            "Fighter"
+            "Tanque",
+            "Lutador"
         ],
         "partype": "Mana",
         "stats": {
@@ -5943,8 +5942,8 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Tank",
-            "Fighter"
+            "Tanque",
+            "Lutador"
         ],
         "partype": "Mana",
         "stats": {
@@ -5993,7 +5992,7 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Marksman"
+            "Atirador"
         ],
         "partype": "Mana",
         "stats": {
@@ -6042,8 +6041,8 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Fighter",
-            "Tank"
+            "Lutador",
+            "Tanque"
         ],
         "partype": "Mana",
         "stats": {
@@ -6092,7 +6091,7 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Support",
+            "Suporte",
             "Mage"
         ],
         "partype": "Mana",
@@ -6142,7 +6141,7 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Support",
+            "Suporte",
             "Mage"
         ],
         "partype": "Mana",
@@ -6193,7 +6192,7 @@ const champions = [
         },
         "tags": [
             "Mage",
-            "Fighter"
+            "Lutador"
         ],
         "partype": "Mana",
         "stats": {
@@ -6243,7 +6242,7 @@ const champions = [
         },
         "tags": [
             "Mage",
-            "Assassin"
+            "Assassino"
         ],
         "partype": "Mana",
         "stats": {
@@ -6341,8 +6340,8 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Support",
-            "Tank"
+            "Suporte",
+            "Tanque"
         ],
         "partype": "Mana",
         "stats": {
@@ -6392,7 +6391,7 @@ const champions = [
         },
         "tags": [
             "Mage",
-            "Support"
+            "Suporte"
         ],
         "partype": "Mana",
         "stats": {
@@ -6441,7 +6440,7 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Assassin"
+            "Assassino"
         ],
         "partype": "Mana",
         "stats": {
@@ -6490,8 +6489,8 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Support",
-            "Fighter"
+            "Suporte",
+            "Lutador"
         ],
         "partype": "Mana",
         "stats": {
@@ -6540,8 +6539,8 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Marksman",
-            "Assassin"
+            "Atirador",
+            "Assassino"
         ],
         "partype": "Mana",
         "stats": {
@@ -6590,8 +6589,8 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Support",
-            "Fighter"
+            "Suporte",
+            "Lutador"
         ],
         "partype": "Mana",
         "stats": {
@@ -6640,8 +6639,8 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Marksman",
-            "Assassin"
+            "Atirador",
+            "Assassino"
         ],
         "partype": "Mana",
         "stats": {
@@ -6690,8 +6689,8 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Fighter",
-            "Tank"
+            "Lutador",
+            "Tanque"
         ],
         "partype": "Mana",
         "stats": {
@@ -6740,8 +6739,8 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Fighter",
-            "Assassin"
+            "Lutador",
+            "Assassino"
         ],
         "partype": "Fury",
         "stats": {
@@ -6839,8 +6838,8 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Marksman",
-            "Assassin"
+            "Atirador",
+            "Assassino"
         ],
         "partype": "Mana",
         "stats": {
@@ -6889,8 +6888,8 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Fighter",
-            "Tank"
+            "Lutador",
+            "Tanque"
         ],
         "partype": "Mana",
         "stats": {
@@ -6939,8 +6938,8 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Fighter",
-            "Tank"
+            "Lutador",
+            "Tanque"
         ],
         "partype": "Mana",
         "stats": {
@@ -6989,7 +6988,7 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Marksman",
+            "Atirador",
             "Mage"
         ],
         "partype": "Mana",
@@ -7039,8 +7038,8 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Marksman",
-            "Assassin"
+            "Atirador",
+            "Assassino"
         ],
         "partype": "Mana",
         "stats": {
@@ -7236,8 +7235,8 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Fighter",
-            "Assassin"
+            "Lutador",
+            "Assassino"
         ],
         "partype": "Mana",
         "stats": {
@@ -7286,8 +7285,8 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Assassin",
-            "Fighter"
+            "Assassino",
+            "Lutador"
         ],
         "partype": "None",
         "stats": {
@@ -7434,8 +7433,8 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Fighter",
-            "Tank"
+            "Lutador",
+            "Tanque"
         ],
         "partype": "Mana",
         "stats": {
@@ -7484,8 +7483,8 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Fighter",
-            "Tank"
+            "Lutador",
+            "Tanque"
         ],
         "partype": "Mana",
         "stats": {
@@ -7534,7 +7533,7 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Marksman"
+            "Atirador"
         ],
         "partype": "Mana",
         "stats": {
@@ -7632,8 +7631,8 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Fighter",
-            "Assassin"
+            "Lutador",
+            "Assassino"
         ],
         "partype": "Mana",
         "stats": {
@@ -7682,8 +7681,8 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Fighter",
-            "Assassin"
+            "Lutador",
+            "Assassino"
         ],
         "partype": "Flow",
         "stats": {
@@ -7732,8 +7731,8 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Assassin",
-            "Fighter"
+            "Assassino",
+            "Lutador"
         ],
         "partype": "Flow",
         "stats": {
@@ -7782,8 +7781,8 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Fighter",
-            "Tank"
+            "Lutador",
+            "Tanque"
         ],
         "partype": "Mana",
         "stats": {
@@ -7832,7 +7831,7 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Support",
+            "Suporte",
             "Mage"
         ],
         "partype": "Mana",
@@ -7882,8 +7881,8 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Tank",
-            "Fighter"
+            "Tanque",
+            "Lutador"
         ],
         "partype": "None",
         "stats": {
@@ -7932,7 +7931,7 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Assassin"
+            "Assassino"
         ],
         "partype": "Energy",
         "stats": {
@@ -7981,7 +7980,7 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Marksman"
+            "Atirador"
         ],
         "partype": "Mana",
         "stats": {
@@ -8079,7 +8078,7 @@ const champions = [
             "h": 48
         },
         "tags": [
-            "Support",
+            "Suporte",
             "Mage"
         ],
         "partype": "Mana",
@@ -8130,7 +8129,7 @@ const champions = [
         },
         "tags": [
             "Mage",
-            "Support"
+            "Suporte"
         ],
         "partype": "Mana",
         "stats": {
@@ -8180,7 +8179,7 @@ const champions = [
         },
         "tags": [
             "Mage",
-            "Support"
+            "Suporte"
         ],
         "partype": "Mana",
         "stats": {

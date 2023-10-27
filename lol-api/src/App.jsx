@@ -1,16 +1,14 @@
 import React from 'react'
 import './App.css'
 import kaisa from './assets/lol-kaisa-image.jpg'
-import linkedinLogo from './assets/icon-linkedin.png'
-import githubLogo from './assets/icon-github.png'
-import emailLogo from './assets/icon-email.png'
+import jinx from './assets/lol-image-jinx-icon.png'
 
 function App() {
   return (
     <>
       <div className='bg-app'>
        <div className='filter-black-homepage'>
-          <div className='banner-homepage'>
+          <div className='banner-homepage-app'>
             
           <div className='banner-content'>
               <div className="menu-app">
@@ -24,7 +22,7 @@ function App() {
             <div className='banner-images'>
                 <div className='bi-1'></div>
                 <div className='bi-3'></div>
-                <div className='bi-2'><img src={kaisa} className='kaisa-img' alt="Kai'sa" /></div>
+                <div className='bi-2'></div>
             </div>
            
             </div>

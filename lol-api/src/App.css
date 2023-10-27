@@ -79,7 +79,7 @@ body{
   right: 80px;
   z-index: 1;
   border: 1px solid black;
-  box-shadow: -8px -6px 15px 0px rgba(0,0,0,0.5);
+  box-shadow: -8px -4px 15px 0px rgba(0,0,0,0.5);
 }
 
 .bi-3{
@@ -92,7 +92,7 @@ body{
   right: 110px;
   z-index: 2;
   border: 1px solid black;
-  box-shadow: -8px -6px 15px 0px rgba(0,0,0,0.5);
+  box-shadow: -8px -4px 15px 0px rgba(0,0,0,0.5);
 }
 
 .bi-2{
@@ -110,7 +110,7 @@ body{
   background-size: 670px;
   background-repeat: no-repeat;
   border: 1px solid black;
-  box-shadow: -8px -6px 15px 0px rgba(0,0,0,0.5);
+  box-shadow: -8px -4px 15px 0px rgba(0,0,0,0.5);
 }
 
 .kaisa-img{

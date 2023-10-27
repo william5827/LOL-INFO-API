@@ -1,7 +1,8 @@
 import React from 'react'
-import video from '../assets/Fiddlesticks-video-melhor.mp4'
+import video from '../assets/congregacao-bruxas-video.mp4'
 import './css/homepage.css'
-import logoLOL from './../assets/lol-icon-homepage.jpg'
+import logoLOL from './../assets/lol-image-white-icon.png'
+import lolWhite from './../assets/lol-image-white-logo.png'
 
 function Homepage() {
     return (
@@ -23,11 +24,10 @@ function Homepage() {
         <source src={video} type="video/mp4"/>
         </video>
         <div className='text-banner'>
-          <p className='p-title-banner'>LEAGUE OF LEGENDS INFO API</p>
-          <p className='p-subtitle-banner'>Veja aqui informações sobre os campeões, regiões do jogo,
-           histórias dos personagens e muito mais.</p>
+          <img src={lolWhite} alt="lol-white-logo" className="image-title-banner" />
         </div>
-      </div>
+      </div>    
+
       </div>
       </>
     )

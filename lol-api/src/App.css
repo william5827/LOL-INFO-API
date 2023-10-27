@@ -15,6 +15,15 @@ body{
   display: flex;
   justify-content: center;
   align-items: center;
+  background-image: url('./assets/lol-image-background-app.jpg');
+  background-size: cover;
+  background-position: center;
+}
+
+.filter-black-homepage{
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.815);
 }
 
 .banner-homepage{
@@ -34,11 +43,85 @@ body{
   display: flex;
   justify-content: center;
   align-items: center;
-  padding: 15px;
-  padding-right: 4%;
+  margin: 1%;
 }
 
-.banner-content-text{
+.menu-app{
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  flex-direction: column;
+  width: 100%;
+}
+
+.text-menu-app{
+  cursor: pointer;
+  color: white;
+  margin: 1%;
+  font-size: 70px;
+  margin-left: 10%;
+  font-weight: bolder;
+}
+
+.text-menu-app:hover{
+  transition: 0.3s;
+  color: #ca5df2d8;
+  margin-left: 100px;
+}
+
+.bi-1{
+  position: absolute;
+  background-color: #CB5DF2;
+  border-radius: 2px;
+  width: 400px;
+  height: 400px;
+  top: 90px;
+  right: 80px;
+  z-index: 1;
+  border: 1px solid black;
+  box-shadow: -8px -6px 15px 0px rgba(0,0,0,0.5);
+}
+
+.bi-3{
+  position: absolute;
+  background-color: #82F0F1;
+  border-radius: 2px;
+  width: 400px;
+  height: 400px;
+  top: 110px;
+  right: 110px;
+  z-index: 2;
+  border: 1px solid black;
+  box-shadow: -8px -6px 15px 0px rgba(0,0,0,0.5);
+}
+
+.bi-2{
+  position: absolute;
+  background-color: white;
+  border-radius: 2px;
+  width: 400px;
+  height: 400px;
+  top: 135px;
+  right: 140px;
+  z-index: 3;
+  background-color: #272b4c;
+  background-image: url('assets/lol-triangulo-img.png');
+  background-position: center;
+  background-size: 670px;
+  background-repeat: no-repeat;
+  border: 1px solid black;
+  box-shadow: -8px -6px 15px 0px rgba(0,0,0,0.5);
+}
+
+.kaisa-img{
+  position: absolute;
+  width: 390px;
+  height: 390px;
+  margin-top: 10px;
+}
+
+
+/*.banner-content-text{
   width: 100%;
   height: 80%;
   display: flex;
@@ -126,57 +209,4 @@ body{
   background-color: black;
   color: white;
   transition: 0.5s;
-}
-
-.bi-1{
-  position: absolute;
-  background-color: #CB5DF2;
-  border-radius: 2px;
-  width: 400px;
-  height: 400px;
-  top: 100px;
-  left: 80px;
-  z-index: 1;
-  border: 1px solid black;
-  box-shadow: -8px -6px 15px 0px rgba(0,0,0,0.5);
-}
-
-.bi-3{
-  position: absolute;
-  background-color: #82F0F1;
-  border-radius: 2px;
-  width: 400px;
-  height: 400px;
-  top: 120px;
-  left: 110px;
-  z-index: 2;
-  border: 1px solid black;
-  box-shadow: -8px -6px 15px 0px rgba(0,0,0,0.5);
-}
-
-.bi-2{
-  position: absolute;
-  background-color: white;
-  border-radius: 2px;
-  width: 400px;
-  height: 400px;
-  top: 145px;
-  left: 140px;
-  z-index: 3;
-  background-color: #272b4c;
-  background-image: url('assets/lol-triangulo-img.png');
-  background-position: center;
-  background-size: 670px;
-  background-repeat: no-repeat;
-  border: 1px solid black;
-  box-shadow: -8px -6px 15px 0px rgba(0,0,0,0.5);
-}
-
-.kaisa-img{
-  position: absolute;
-  width: 390px;
-  height: 390px;
-  margin-top: 10px;
-}
-
-
+}*/

@@ -47,9 +47,9 @@ body{
 
 .text-banner{
     position: absolute;
-    top: 250px;
-    display: flex;
-    flex-direction: column;
+    top: 140px;
+    left: 240px;
+    justify-content: center;
 }
 
 .banner-homepage video{
@@ -57,19 +57,11 @@ body{
     width: 100%;
 }
 
-.p-title-banner{
-    color: white;
-    font-size: 50px;
-    margin: 0;
-    text-align: center;
+.image-title-banner{
+    width: 800px;
+    height: 350px;
 }
 
-.p-subtitle-banner{
-    text-align: center;
-    color: white;
-    font-size: 20px;
-    margin-top: 5%;
-}
 
 .navbar_a{
     display: flex;
@@ -84,7 +76,22 @@ body{
     color: white;
 }
 
+
 .navbar-logo img{
     width: 25px;
     height: 25px;
 }
+
+.box-teste-z{
+    width: 200px;
+    height: 200px;
+    background-color: pink;
+    border: 1px solid black;
+  }
+  
+  .box-teste-x{
+    width: 200px;
+    height: 50px;
+    background-color: yellow;
+    border: 1px solid black;
+  }

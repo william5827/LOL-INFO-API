@@ -9,16 +9,34 @@ function App() {
   return (
     <>
       <div className='bg-app'>
-       
+       <div className='filter-black-homepage'>
           <div className='banner-homepage'>
+            
+          <div className='banner-content'>
+              <div className="menu-app">
+                <p className='text-menu-app'>INICIO</p>
+                <p className='text-menu-app'>SOBRE</p>
+                <p className='text-menu-app'>GITHUB</p>
+                <p className='text-menu-app'>LINKEDIN</p>
+              </div>
+            </div>
+
             <div className='banner-images'>
                 <div className='bi-1'></div>
                 <div className='bi-3'></div>
                 <div className='bi-2'><img src={kaisa} className='kaisa-img' alt="Kai'sa" /></div>
             </div>
-            <div className='banner-content'>
-              <div className='banner-content-text'>
-                <div className='banner-social-media'>
+           
+            </div>
+          </div>
+      </div>
+    
+    </>
+  )
+}
+
+ {/* <div className='banner-content-text'>
+               <div className='banner-social-media'>
                   <button className='linkedin-button'><img src={linkedinLogo} alt="linkedin" />William Matos</button>
                   <button className='github-button'><img src={githubLogo} alt="github" />william5827</button>
                   <button className='email-button'><img src={emailLogo} alt="email" />wiusk8@gmail.com</button>
@@ -34,13 +52,6 @@ function App() {
                 <div className='text-button'>
                   <button className='button-start'>Começar</button>
                 </div>
-              </div>
-            </div>
-          </div>
-      </div>
-    
-    </>
-  )
-}
+            </div>*/}
 
 export default App

@@ -77,7 +77,7 @@ body{
   width: 400px;
   height: 400px;
   top: 85px;
-  right: 75px;
+  right: 140px;
   z-index: 1;
   border: 1px solid black;
   box-shadow: 0px -4px 15px 5px rgba(0,0,0,0.5);
@@ -90,7 +90,7 @@ body{
   width: 400px;
   height: 400px;
   top: 110px;
-  right: 110px;
+  right: 180px;
   z-index: 2;
   border: 1px solid black;
   box-shadow: 0px -4px 15px 5px rgba(0,0,0,0.5);
@@ -103,7 +103,7 @@ body{
   width: 400px;
   height: 400px;
   top: 140px;
-  right: 145px;
+  right: 220px;
   z-index: 3;
   background-color: #272b4c;
   background-image: url('assets/lol-image-jinx-icon.png');
@@ -122,6 +122,8 @@ body{
   margin-left: 30px;
 }
 
+/*DATA CHAMPIONS*/
+
 .box-teste-z{
   width: 45%;
   height: 350px;
@@ -134,7 +136,7 @@ body{
   justify-content: flex-end;
   align-items: flex-end;
   float: left;
-  box-shadow: 0px -4px 15px 5px rgba(0,0,0,0.5);
+  box-shadow: 0px 0px 15px 5px rgba(0,0,0,0.5);
 }
 
 .texte-x{

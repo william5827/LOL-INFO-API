@@ -1,8 +1,8 @@
 import React from "react";
 import champions from '../data/champions'
-import '../pages/css/homepage.css'
+import './css/cardChampions.css'
 
-export default function teste(){
+export default function cardChampions(){
     return(
         <div className="list-champions">
         {champions &&

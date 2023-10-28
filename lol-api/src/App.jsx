@@ -1,7 +1,5 @@
 import React from 'react'
 import './App.css'
-import kaisa from './assets/lol-kaisa-image.jpg'
-import jinx from './assets/lol-image-jinx-icon.png'
 
 function App() {
   return (

@@ -4130,7 +4130,7 @@ const champions = [
         "id": "Naafiri",
         "key": "950",
         "name": "Naafiri",
-        "title": "FERA DAS CEM MORDIDAS",
+        "title": "A FERA DAS CEM MORDIDAS",
         "blurb": "Across the sands of Shurima, a chorus of howls rings out. It is the call of the dune hounds, voracious predators who form packs and compete for the right to hunt in these barren lands. Among them, one pack stands above all, for they are driven not only...",
         "info": {
             "attack": 9,

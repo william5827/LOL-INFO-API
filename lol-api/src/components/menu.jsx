@@ -11,7 +11,7 @@ export default function Menu(){
               <li><a className='navbar_a' href="/">HOME</a></li>
               <li><a className='navbar_a' href="/">CAMPEÕES</a></li>
               <li><a className='navbar_a' href="/">MAPA</a></li>
-              <li><a className='navbar_a' href="/">UNIVERSO MUSICAL</a></li>
+              <li><a className='navbar_a' href="/">UNIVERSO</a></li>
             </ul>
           </div>
         </div>

@@ -8,5 +8,5 @@ import CardsChampion from './pages/cardChampions.jsx'
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <Home />
-  </React.StrictMode>,
+  </React.StrictMode>
 )

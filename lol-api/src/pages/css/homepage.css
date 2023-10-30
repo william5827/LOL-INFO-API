@@ -123,6 +123,7 @@ body {
     width: 90%;
     margin-top: 4%;
     text-align: center;
+    margin-bottom: 2%;
 }
 
 .descrition-text-game p{
@@ -141,4 +142,49 @@ body {
     height: 100%;
 }
 
+.content-border-image.jinx{
+    border-top: 1px solid rgb(191, 15, 235);
+    border-bottom: 1px solid rgb(5, 105, 255);
+}
 
+.descrition-text-game.jinx{
+    width: 90%;
+    text-align: center;
+    margin-bottom: 0;
+}
+
+.content-game-video.jinx{
+    width: 80%;
+    height: 300px;
+    margin-bottom: 4%;
+}
+
+.content-game-text.jinx{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-evenly;
+    color: white;
+    width: 45%;
+    height: 95%;
+}
+
+.homepage-content-game.jinx{
+    background-color: rgb(71, 71, 71);
+    background-image: url('../../assets/img-background-jinx-homepage.jpeg');
+    background-size: cover;
+}
+
+.title-text-game.jinx{
+    border-bottom: 1px solid rgb(97, 97, 97);
+}
+
+.filter-img-background-jinx{
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.801);
+}
+
+.main-subtitle-text-game.jinx{
+    letter-spacing: 2px;
+}

@@ -6,6 +6,7 @@ import Footer from '../components/footer'
 import Menu from '../components/menu'
 import ImgAkali from '../assets/lol-image-akali.png'
 import videoAssassins from '../assets/video-assassins.webm'
+import ImgJinx from '../assets/lol-image-jinx.png'
 
 function Homepage() {
   return (
@@ -48,6 +49,33 @@ function Homepage() {
                 <img src={ImgAkali} alt="akali-img" />
               </div>
             </div>
+          </div>
+        </div>
+
+        <div className="homepage-content-game jinx">
+        <div className="filter-img-background-jinx">
+          <div className="container-homepage">
+          <div className="content-game-image">
+              <div className="content-border-image jinx">
+                <img src={ImgJinx} alt="akali-img" />
+              </div>
+            </div>
+            <div className="content-game-text jinx">
+              <div className="title-text-game jinx">
+                <div className="main-title-text-game"><p>ESCOLHA SEU</p></div>
+                <div className="main-subtitle-text-game jinx"><p>CAMPEÃO</p></div>
+              </div>
+              <div className="descrition-text-game jinx">
+                <p>Com mais de 140 Campeões, você encontrará a combinação perfeita para seu estilo de jogo.
+                  Especialize-se em um estilo ou em todos. Nenhum Campeão corresponde ao critério do filtro. </p>
+              </div>
+              <div className="content-game-video jinx">
+              <video className="video-assassins" autoPlay muted loop >
+              <source src={videoAssassins} type="video/mp4" />
+              </video>
+              </div>
+            </div>  
+          </div>
           </div>
         </div>
         

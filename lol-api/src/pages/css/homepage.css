@@ -38,7 +38,107 @@ body {
     height: auto;
 }
 
-.teste-xxxxxx{
+.homepage-content-game{
     width: 100%;
-    margin-top: 10%;
+    margin-top: 15%;
+    height: 60ch;
 }
+
+.homepage-content-game .container-homepage {
+    display: flex;
+    height: 100%;
+    width: 90%;
+    margin: 0 auto;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.content-game-image{
+    width: 50%;
+    height: 95%;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.content-border-image{
+    width: 500px;
+    height: 500px;
+    border-top: 1px solid yellowgreen;
+    border-bottom: 1px solid yellowgreen;
+    /*box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);*/
+    border-radius: 50%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.content-border-image img{
+    width: 140%;
+}
+
+.content-game-text{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-around;
+    color: black;
+    width: 45%;
+    height: 100%;
+}
+
+.title-text-game{
+    width: 90%;
+    text-align: center;
+    padding: 5px;
+    border-bottom: 1px solid rgb(226, 226, 226);
+}
+
+.main-title-text-game{
+    width: 100%;
+    margin-top: 20px;
+}
+
+.main-title-text-game p{
+    font-weight: 500;
+    font-size: 17px;
+    margin: 0;
+}
+
+.main-subtitle-text-game p{
+    font-size: 40px;
+    margin: 0;
+}
+
+.title-text-game{
+    margin: 0;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+
+.descrition-text-game{
+    width: 90%;
+    margin-top: 4%;
+    text-align: center;
+}
+
+.descrition-text-game p{
+    margin: 0;
+    font-size: 14px
+}
+
+.content-game-video{
+    width: 80%;
+    height: 300px;
+}
+
+.video-assassins{
+    border-radius: 3px;
+    width: 100%;
+    height: 100%;
+}
+
+

@@ -203,6 +203,6 @@ body {
 }
 
 .content-border-image.thresh{
-    border-top: 1px solid rgb(6, 252, 178);
-    border-bottom: 1px solid rgb(6, 252, 178);
+    border-top: 1px solid rgba(6, 252, 178, 0.562);
+    border-bottom: 1px solid rgba(6, 252, 178, 0.616);
 }

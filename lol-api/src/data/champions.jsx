@@ -14,7 +14,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aatrox_0.jpg",
-            "lane": "champion0.png",
+            "lane": "https://cdn3.emoji.gg/emojis/7990-lol-role-top.png",
             "group": "champion",
             "x": 0,
             "y": 0,
@@ -64,7 +64,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ahri_0.jpg",
-            "lane": "champion0.png",
+            "lane": "https://cdn3.emoji.gg/emojis/6934-lol-role-mid.png",
             "group": "champion",
             "x": 48,
             "y": 0,
@@ -114,7 +114,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Akali_0.jpg",
-            "lane": "champion0.png",
+            "lane": "https://cdn3.emoji.gg/emojis/6934-lol-role-mid.png",
             "group": "champion",
             "x": 96,
             "y": 0,
@@ -163,7 +163,7 @@ const champions = [
         },
         "image": {
             "full": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt58b3304a9d38b091/60f5d6e21929bc58854d00a6/072221_AkshanChampionTheme_Banner.jpg?quality=90&width=1215",
-            "lane": "champion0.png",
+            "lane": "https://cdn3.emoji.gg/emojis/6934-lol-role-mid.png",
             "group": "champion",
             "x": 144,
             "y": 0,
@@ -213,7 +213,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Alistar_0.jpg",
-            "lane": "champion0.png",
+            "lane": "https://cdn3.emoji.gg/emojis/7990-lol-role-support.png",
             "group": "champion",
             "x": 192,
             "y": 0,
@@ -263,7 +263,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Amumu_0.jpg",
-            "lane": "champion0.png",
+            "lane": "https://cdn3.emoji.gg/emojis/1152-lol-role-jungle.png",
             "group": "champion",
             "x": 240,
             "y": 0,
@@ -313,7 +313,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Anivia_0.jpg",
-            "lane": "champion0.png",
+            "lane": "https://cdn3.emoji.gg/emojis/6934-lol-role-mid.png",
             "group": "champion",
             "x": 288,
             "y": 0,
@@ -363,7 +363,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Annie_0.jpg",
-            "lane": "champion0.png",
+            "lane": "https://cdn3.emoji.gg/emojis/6934-lol-role-mid.png",
             "group": "champion",
             "x": 336,
             "y": 0,
@@ -412,7 +412,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aphelios_0.jpg",
-            "lane": "champion0.png",
+            "lane": "https://cdn3.emoji.gg/emojis/9366-lol-role-bot.png",
             "group": "champion",
             "x": 384,
             "y": 0,
@@ -461,7 +461,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ashe_0.jpg",
-            "lane": "champion0.png",
+            "lane": "https://cdn3.emoji.gg/emojis/9366-lol-role-bot.png",
             "group": "champion",
             "x": 432,
             "y": 0,
@@ -511,7 +511,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/AurelionSol_0.jpg",
-            "lane": "champion0.png",
+            "lane": "https://cdn3.emoji.gg/emojis/6934-lol-role-mid.png",
             "group": "champion",
             "x": 0,
             "y": 48,
@@ -560,7 +560,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Azir_0.jpg",
-            "lane": "champion0.png",
+            "lane": "https://cdn3.emoji.gg/emojis/6934-lol-role-mid.png",
             "group": "champion",
             "x": 48,
             "y": 48,
@@ -610,7 +610,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Bard_0.jpg",
-            "lane": "champion0.png",
+            "lane": "https://cdn3.emoji.gg/emojis/7990-lol-role-support.png",
             "group": "champion",
             "x": 96,
             "y": 48,
@@ -660,7 +660,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Belveth_0.jpg",
-            "lane": "champion0.png",
+            "lane": "https://cdn3.emoji.gg/emojis/1152-lol-role-jungle.png",
             "group": "champion",
             "x": 144,
             "y": 48,
@@ -709,7 +709,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Blitzcrank_0.jpg",
-            "lane": "champion0.png",
+            "lane": "https://cdn3.emoji.gg/emojis/7990-lol-role-support.png",
             "group": "champion",
             "x": 192,
             "y": 48,
@@ -759,7 +759,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Brand_0.jpg",
-            "lane": "champion0.png",
+            "lane": "https://cdn3.emoji.gg/emojis/7990-lol-role-support.png",
             "group": "champion",
             "x": 240,
             "y": 48,
@@ -808,7 +808,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Braum_0.jpg",
-            "lane": "champion0.png",
+            "lane": "https://cdn3.emoji.gg/emojis/7990-lol-role-support.png",
             "group": "champion",
             "x": 288,
             "y": 48,
@@ -858,7 +858,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Briar_0.jpg",
-            "lane": "champion0.png",
+            "lane": "https://cdn3.emoji.gg/emojis/1152-lol-role-jungle.png",
             "group": "champion",
             "x": 336,
             "y": 48,
@@ -908,7 +908,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Caitlyn_0.jpg",
-            "lane": "champion0.png",
+            "lane": "https://cdn3.emoji.gg/emojis/9366-lol-role-bot.png",
             "group": "champion",
             "x": 384,
             "y": 48,
@@ -957,7 +957,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Camille_0.jpg",
-            "lane": "champion0.png",
+            "lane": "https://cdn3.emoji.gg/emojis/7990-lol-role-top.png",
             "group": "champion",
             "x": 432,
             "y": 48,
@@ -1007,7 +1007,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Cassiopeia_0.jpg",
-            "lane": "champion0.png",
+            "lane": "https://cdn3.emoji.gg/emojis/6934-lol-role-mid.png",
             "group": "champion",
             "x": 0,
             "y": 96,
@@ -1056,7 +1056,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Chogath_0.jpg",
-            "lane": "champion0.png",
+            "lane": "https://cdn3.emoji.gg/emojis/7990-lol-role-top.png",
             "group": "champion",
             "x": 48,
             "y": 96,
@@ -1106,7 +1106,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Corki_0.jpg",
-            "lane": "champion0.png",
+            "lane": "https://cdn3.emoji.gg/emojis/6934-lol-role-mid.png",
             "group": "champion",
             "x": 96,
             "y": 96,
@@ -1155,7 +1155,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Darius_0.jpg",
-            "lane": "champion0.png",
+            "lane": "https://cdn3.emoji.gg/emojis/7990-lol-role-top.png",
             "group": "champion",
             "x": 144,
             "y": 96,
@@ -1205,7 +1205,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Diana_0.jpg",
-            "lane": "champion0.png",
+            "lane": "https://cdn3.emoji.gg/emojis/6934-lol-role-mid.png",
             "group": "champion",
             "x": 192,
             "y": 96,
@@ -1255,7 +1255,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Draven_0.jpg",
-            "lane": "champion0.png",
+            "lane": "https://cdn3.emoji.gg/emojis/9366-lol-role-bot.png",
             "group": "champion",
             "x": 240,
             "y": 96,
@@ -1304,7 +1304,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/DrMundo_0.jpg",
-            "lane": "champion0.png",
+            "lane": "https://cdn3.emoji.gg/emojis/7990-lol-role-top.png",
             "group": "champion",
             "x": 288,
             "y": 96,
@@ -1354,7 +1354,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ekko_0.jpg",
-            "lane": "champion0.png",
+            "lane": "https://cdn3.emoji.gg/emojis/6934-lol-role-mid.png",
             "group": "champion",
             "x": 336,
             "y": 96,
@@ -1404,7 +1404,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Elise_0.jpg",
-            "lane": "champion0.png",
+            "lane": "https://cdn3.emoji.gg/emojis/1152-lol-role-jungle.png",
             "group": "champion",
             "x": 384,
             "y": 96,
@@ -1454,7 +1454,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Evelynn_0.jpg",
-            "lane": "champion0.png",
+            "lane": "https://cdn3.emoji.gg/emojis/1152-lol-role-jungle.png",
             "group": "champion",
             "x": 432,
             "y": 96,
@@ -1504,7 +1504,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ezreal_0.jpg",
-            "lane": "champion1.png",
+            "lane": "https://cdn3.emoji.gg/emojis/9366-lol-role-bot.png",
             "group": "champion",
             "x": 0,
             "y": 0,
@@ -1554,7 +1554,7 @@ const champions = [
         },
         "image": {
             "full": "https://i.pinimg.com/564x/1d/69/0a/1d690ac3d8f5b8d0ad8512e5e55baeaf.jpg",
-            "lane": "champion1.png",
+            "lane": "https://cdn3.emoji.gg/emojis/1152-lol-role-jungle.png",
             "group": "champion",
             "x": 48,
             "y": 0,
@@ -1604,7 +1604,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fiora_0.jpg",
-            "lane": "champion1.png",
+            "lane": "https://cdn3.emoji.gg/emojis/7990-lol-role-top.png",
             "group": "champion",
             "x": 96,
             "y": 0,
@@ -1654,7 +1654,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fizz_0.jpg",
-            "lane": "champion1.png",
+            "lane": "https://cdn3.emoji.gg/emojis/6934-lol-role-mid.png",
             "group": "champion",
             "x": 144,
             "y": 0,
@@ -1704,7 +1704,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Galio_0.jpg",
-            "lane": "champion1.png",
+            "lane": "https://cdn3.emoji.gg/emojis/6934-lol-role-mid.png",
             "group": "champion",
             "x": 192,
             "y": 0,
@@ -1754,7 +1754,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gangplank_0.jpg",
-            "lane": "champion1.png",
+            "lane": "https://cdn3.emoji.gg/emojis/7990-lol-role-top.png",
             "group": "champion",
             "x": 240,
             "y": 0,
@@ -1803,7 +1803,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Garen_0.jpg",
-            "lane": "champion1.png",
+            "lane": "https://cdn3.emoji.gg/emojis/7990-lol-role-top.png",
             "group": "champion",
             "x": 288,
             "y": 0,
@@ -1853,7 +1853,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gnar_0.jpg",
-            "lane": "champion1.png",
+            "lane": "https://cdn3.emoji.gg/emojis/7990-lol-role-top.png",
             "group": "champion",
             "x": 336,
             "y": 0,
@@ -1903,7 +1903,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gragas_0.jpg",
-            "lane": "champion1.png",
+            "lane": "https://cdn3.emoji.gg/emojis/1152-lol-role-jungle.png",
             "group": "champion",
             "x": 384,
             "y": 0,
@@ -1952,7 +1952,7 @@ const champions = [
         },
         "image": {
             "full": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt5796e3d258e95471/5e83cb29cfad926479634951/Graves_00_Base-Cigar.jpg?quality=90&width=1215",
-            "lane": "champion1.png",
+            "lane": "https://cdn3.emoji.gg/emojis/1152-lol-role-jungle.png",
             "group": "champion",
             "x": 432,
             "y": 0,
@@ -2001,7 +2001,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gwen_0.jpg",
-            "lane": "champion1.png",
+            "lane": "https://cdn3.emoji.gg/emojis/7990-lol-role-top.png",
             "group": "champion",
             "x": 0,
             "y": 48,
@@ -2051,7 +2051,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Hecarim_0.jpg",
-            "lane": "champion1.png",
+            "lane": "https://cdn3.emoji.gg/emojis/1152-lol-role-jungle.png",
             "group": "champion",
             "x": 48,
             "y": 48,
@@ -2101,7 +2101,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Heimerdinger_0.jpg",
-            "lane": "champion1.png",
+            "lane": "https://cdn3.emoji.gg/emojis/7990-lol-role-top.png",
             "group": "champion",
             "x": 96,
             "y": 48,
@@ -2151,7 +2151,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Illaoi_0.jpg",
-            "lane": "champion1.png",
+            "lane": "https://cdn3.emoji.gg/emojis/7990-lol-role-top.png",
             "group": "champion",
             "x": 144,
             "y": 48,
@@ -2201,7 +2201,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Irelia_0.jpg",
-            "lane": "champion1.png",
+            "lane": "https://cdn3.emoji.gg/emojis/7990-lol-role-top.png",
             "group": "champion",
             "x": 192,
             "y": 48,
@@ -2251,7 +2251,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ivern_0.jpg",
-            "lane": "champion1.png",
+            "lane": "https://cdn3.emoji.gg/emojis/1152-lol-role-jungle.png",
             "group": "champion",
             "x": 240,
             "y": 48,
@@ -2301,7 +2301,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Janna_0.jpg",
-            "lane": "champion1.png",
+            "lane": "https://cdn3.emoji.gg/emojis/7990-lol-role-support.png",
             "group": "champion",
             "x": 288,
             "y": 48,
@@ -2351,7 +2351,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/JarvanIV_0.jpg",
-            "lane": "champion1.png",
+            "lane": "https://cdn3.emoji.gg/emojis/1152-lol-role-jungle.png",
             "group": "champion",
             "x": 336,
             "y": 48,
@@ -2401,7 +2401,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jax_0.jpg",
-            "lane": "champion1.png",
+            "lane": "https://cdn3.emoji.gg/emojis/7990-lol-role-top.png",
             "group": "champion",
             "x": 384,
             "y": 48,
@@ -2451,7 +2451,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jayce_0.jpg",
-            "lane": "champion1.png",
+            "lane": "https://cdn3.emoji.gg/emojis/7990-lol-role-top.png",
             "group": "champion",
             "x": 432,
             "y": 48,
@@ -2501,7 +2501,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jhin_0.jpg",
-            "lane": "champion1.png",
+            "lane": "https://cdn3.emoji.gg/emojis/9366-lol-role-bot.png",
             "group": "champion",
             "x": 0,
             "y": 96,
@@ -2551,7 +2551,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jinx_0.jpg",
-            "lane": "champion1.png",
+            "lane": "https://cdn3.emoji.gg/emojis/9366-lol-role-bot.png",
             "group": "champion",
             "x": 48,
             "y": 96,
@@ -2600,7 +2600,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kaisa_0.jpg",
-            "lane": "champion1.png",
+            "lane": "https://cdn3.emoji.gg/emojis/9366-lol-role-bot.png",
             "group": "champion",
             "x": 96,
             "y": 96,
@@ -2649,7 +2649,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kalista_0.jpg",
-            "lane": "champion1.png",
+            "lane": "https://cdn3.emoji.gg/emojis/9366-lol-role-bot.png",
             "group": "champion",
             "x": 144,
             "y": 96,
@@ -2698,7 +2698,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Karma_0.jpg",
-            "lane": "champion1.png",
+            "lane": "https://cdn3.emoji.gg/emojis/7990-lol-role-support.png",
             "group": "champion",
             "x": 192,
             "y": 96,
@@ -2748,7 +2748,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Karthus_0.jpg",
-            "lane": "champion1.png",
+            "lane": "https://cdn3.emoji.gg/emojis/1152-lol-role-jungle.png",
             "group": "champion",
             "x": 240,
             "y": 96,
@@ -2797,7 +2797,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kassadin_0.jpg",
-            "lane": "champion1.png",
+            "lane": "https://cdn3.emoji.gg/emojis/6934-lol-role-mid.png",
             "group": "champion",
             "x": 288,
             "y": 96,
@@ -2847,7 +2847,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Katarina_0.jpg",
-            "lane": "champion1.png",
+            "lane": "https://cdn3.emoji.gg/emojis/6934-lol-role-mid.png",
             "group": "champion",
             "x": 336,
             "y": 96,
@@ -2897,7 +2897,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kayle_0.jpg",
-            "lane": "champion1.png",
+            "lane": "https://cdn3.emoji.gg/emojis/7990-lol-role-top.png",
             "group": "champion",
             "x": 384,
             "y": 96,
@@ -2947,7 +2947,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kayn_0.jpg",
-            "lane": "champion1.png",
+            "lane": "https://cdn3.emoji.gg/emojis/1152-lol-role-jungle.png",
             "group": "champion",
             "x": 432,
             "y": 96,
@@ -2997,7 +2997,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kennen_0.jpg",
-            "lane": "champion2.png",
+            "lane": "https://cdn3.emoji.gg/emojis/7990-lol-role-top.png",
             "group": "champion",
             "x": 0,
             "y": 0,
@@ -3047,7 +3047,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Khazix_0.jpg",
-            "lane": "champion2.png",
+            "lane": "https://cdn3.emoji.gg/emojis/1152-lol-role-jungle.png",
             "group": "champion",
             "x": 48,
             "y": 0,
@@ -3096,7 +3096,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kindred_0.jpg",
-            "lane": "champion2.png",
+            "lane": "https://cdn3.emoji.gg/emojis/1152-lol-role-jungle.png",
             "group": "champion",
             "x": 96,
             "y": 0,
@@ -3145,7 +3145,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kled_0.jpg",
-            "lane": "champion2.png",
+            "lane": "https://cdn3.emoji.gg/emojis/7990-lol-role-top.png",
             "group": "champion",
             "x": 144,
             "y": 0,
@@ -3195,7 +3195,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/KogMaw_0.jpg",
-            "lane": "champion2.png",
+            "lane": "https://cdn3.emoji.gg/emojis/9366-lol-role-bot.png",
             "group": "champion",
             "x": 192,
             "y": 0,
@@ -3245,7 +3245,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/KSante_0.jpg",
-            "lane": "champion2.png",
+            "lane": "https://cdn3.emoji.gg/emojis/7990-lol-role-top.png",
             "group": "champion",
             "x": 240,
             "y": 0,
@@ -3295,7 +3295,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Leblanc_0.jpg",
-            "lane": "champion2.png",
+            "lane": "https://cdn3.emoji.gg/emojis/6934-lol-role-mid.png",
             "group": "champion",
             "x": 288,
             "y": 0,
@@ -3345,7 +3345,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/LeeSin_0.jpg",
-            "lane": "champion2.png",
+            "lane": "https://cdn3.emoji.gg/emojis/1152-lol-role-jungle.png",
             "group": "champion",
             "x": 336,
             "y": 0,
@@ -3395,7 +3395,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Leona_0.jpg",
-            "lane": "champion2.png",
+            "lane": "https://cdn3.emoji.gg/emojis/7990-lol-role-support.png",
             "group": "champion",
             "x": 384,
             "y": 0,
@@ -3445,7 +3445,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lillia_0.jpg",
-            "lane": "champion2.png",
+            "lane": "https://cdn3.emoji.gg/emojis/1152-lol-role-jungle.png",
             "group": "champion",
             "x": 432,
             "y": 0,
@@ -3495,7 +3495,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lissandra_0.jpg",
-            "lane": "champion2.png",
+            "lane": "https://cdn3.emoji.gg/emojis/6934-lol-role-mid.png",
             "group": "champion",
             "x": 0,
             "y": 48,
@@ -3544,7 +3544,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lucian_0.jpg",
-            "lane": "champion2.png",
+            "lane": "https://cdn3.emoji.gg/emojis/9366-lol-role-bot.png",
             "group": "champion",
             "x": 48,
             "y": 48,
@@ -3593,7 +3593,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lulu_0.jpg",
-            "lane": "champion2.png",
+            "lane": "https://cdn3.emoji.gg/emojis/7990-lol-role-support.png",
             "group": "champion",
             "x": 96,
             "y": 48,
@@ -3643,7 +3643,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lux_0.jpg",
-            "lane": "champion2.png",
+            "lane": "https://cdn3.emoji.gg/emojis/6934-lol-role-mid.png",
             "group": "champion",
             "x": 144,
             "y": 48,
@@ -3693,7 +3693,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Malphite_0.jpg",
-            "lane": "champion2.png",
+            "lane": "https://cdn3.emoji.gg/emojis/7990-lol-role-top.png",
             "group": "champion",
             "x": 192,
             "y": 48,
@@ -3743,7 +3743,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Malzahar_0.jpg",
-            "lane": "champion2.png",
+            "lane": "https://cdn3.emoji.gg/emojis/6934-lol-role-mid.png",
             "group": "champion",
             "x": 240,
             "y": 48,
@@ -3793,7 +3793,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Maokai_0.jpg",
-            "lane": "champion2.png",
+            "lane": "https://cdn3.emoji.gg/emojis/1152-lol-role-jungle.png",
             "group": "champion",
             "x": 288,
             "y": 48,
@@ -3843,7 +3843,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/MasterYi_0.jpg",
-            "lane": "champion2.png",
+            "lane": "https://cdn3.emoji.gg/emojis/1152-lol-role-jungle.png",
             "group": "champion",
             "x": 336,
             "y": 48,
@@ -3893,7 +3893,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Milio_0.jpg",
-            "lane": "champion2.png",
+            "lane": "https://cdn3.emoji.gg/emojis/7990-lol-role-support.png",
             "group": "champion",
             "x": 384,
             "y": 48,
@@ -3942,7 +3942,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/MissFortune_0.jpg",
-            "lane": "champion2.png",
+            "lane": "https://cdn3.emoji.gg/emojis/9366-lol-role-bot.png",
             "group": "champion",
             "x": 432,
             "y": 48,
@@ -3991,7 +3991,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/MonkeyKing_0.jpg",
-            "lane": "champion2.png",
+            "lane": "https://cdn3.emoji.gg/emojis/1152-lol-role-jungle.png",
             "group": "champion",
             "x": 0,
             "y": 96,
@@ -4041,7 +4041,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Mordekaiser_0.jpg",
-            "lane": "champion2.png",
+            "lane": "https://cdn3.emoji.gg/emojis/7990-lol-role-top.png",
             "group": "champion",
             "x": 48,
             "y": 96,
@@ -4090,7 +4090,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Morgana_0.jpg",
-            "lane": "champion2.png",
+            "lane": "https://cdn3.emoji.gg/emojis/7990-lol-role-support.png",
             "group": "champion",
             "x": 96,
             "y": 96,
@@ -4140,7 +4140,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Naafiri_0.jpg",
-            "lane": "champion2.png",
+            "lane": "https://cdn3.emoji.gg/emojis/6934-lol-role-mid.png",
             "group": "champion",
             "x": 144,
             "y": 96,
@@ -4189,7 +4189,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nami_0.jpg",
-            "lane": "champion2.png",
+            "lane": "https://cdn3.emoji.gg/emojis/7990-lol-role-support.png",
             "group": "champion",
             "x": 192,
             "y": 96,
@@ -4239,7 +4239,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nasus_0.jpg",
-            "lane": "champion2.png",
+            "lane": "https://cdn3.emoji.gg/emojis/7990-lol-role-top.png",
             "group": "champion",
             "x": 240,
             "y": 96,
@@ -4289,7 +4289,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nautilus_0.jpg",
-            "lane": "champion2.png",
+            "lane": "https://cdn3.emoji.gg/emojis/7990-lol-role-support.png",
             "group": "champion",
             "x": 288,
             "y": 96,
@@ -4339,7 +4339,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Neeko_0.jpg",
-            "lane": "champion2.png",
+            "lane": "https://cdn3.emoji.gg/emojis/6934-lol-role-mid.png",
             "group": "champion",
             "x": 336,
             "y": 96,
@@ -4389,7 +4389,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nidalee_0.jpg",
-            "lane": "champion2.png",
+            "lane": "https://cdn3.emoji.gg/emojis/1152-lol-role-jungle.png",
             "group": "champion",
             "x": 384,
             "y": 96,
@@ -4439,7 +4439,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nilah_0.jpg",
-            "lane": "champion2.png",
+            "lane": "https://cdn3.emoji.gg/emojis/9366-lol-role-bot.png",
             "group": "champion",
             "x": 432,
             "y": 96,
@@ -4489,7 +4489,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nocturne_0.jpg",
-            "lane": "champion3.png",
+            "lane": "https://cdn3.emoji.gg/emojis/1152-lol-role-jungle.png",
             "group": "champion",
             "x": 0,
             "y": 0,
@@ -4539,7 +4539,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nunu_0.jpg",
-            "lane": "champion3.png",
+            "lane": "https://cdn3.emoji.gg/emojis/1152-lol-role-jungle.png",
             "group": "champion",
             "x": 48,
             "y": 0,
@@ -4589,7 +4589,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Olaf_0.jpg",
-            "lane": "champion3.png",
+            "lane": "https://cdn3.emoji.gg/emojis/7990-lol-role-top.png",
             "group": "champion",
             "x": 96,
             "y": 0,
@@ -4639,7 +4639,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Orianna_0.jpg",
-            "lane": "champion3.png",
+            "lane": "https://cdn3.emoji.gg/emojis/6934-lol-role-mid.png",
             "group": "champion",
             "x": 144,
             "y": 0,
@@ -4689,7 +4689,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ornn_0.jpg",
-            "lane": "champion3.png",
+            "lane": "https://cdn3.emoji.gg/emojis/7990-lol-role-top.png",
             "group": "champion",
             "x": 192,
             "y": 0,
@@ -4739,7 +4739,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Pantheon_0.jpg",
-            "lane": "champion3.png",
+            "lane": "https://cdn3.emoji.gg/emojis/7990-lol-role-top.png",
             "group": "champion",
             "x": 240,
             "y": 0,
@@ -4789,7 +4789,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Poppy_0.jpg",
-            "lane": "champion3.png",
+            "lane": "https://cdn3.emoji.gg/emojis/7990-lol-role-top.png",
             "group": "champion",
             "x": 288,
             "y": 0,
@@ -4839,7 +4839,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Pyke_0.jpg",
-            "lane": "champion3.png",
+            "lane": "https://cdn3.emoji.gg/emojis/7990-lol-role-support.png",
             "group": "champion",
             "x": 336,
             "y": 0,
@@ -4889,7 +4889,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Qiyana_0.jpg",
-            "lane": "champion3.png",
+            "lane": "https://cdn3.emoji.gg/emojis/6934-lol-role-mid.png",
             "group": "champion",
             "x": 384,
             "y": 0,
@@ -4939,7 +4939,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Quinn_0.jpg",
-            "lane": "champion3.png",
+            "lane": "https://cdn3.emoji.gg/emojis/7990-lol-role-top.png",
             "group": "champion",
             "x": 432,
             "y": 0,
@@ -4989,7 +4989,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rakan_0.jpg",
-            "lane": "champion3.png",
+            "lane": "https://cdn3.emoji.gg/emojis/7990-lol-role-support.png",
             "group": "champion",
             "x": 0,
             "y": 48,
@@ -5038,7 +5038,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rammus_0.jpg",
-            "lane": "champion3.png",
+            "lane": "https://cdn3.emoji.gg/emojis/1152-lol-role-jungle.png",
             "group": "champion",
             "x": 48,
             "y": 48,
@@ -5088,7 +5088,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/RekSai_0.jpg",
-            "lane": "champion3.png",
+            "lane": "https://cdn3.emoji.gg/emojis/1152-lol-role-jungle.png",
             "group": "champion",
             "x": 96,
             "y": 48,
@@ -5137,7 +5137,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rell_0.jpg",
-            "lane": "champion3.png",
+            "lane": "https://cdn3.emoji.gg/emojis/7990-lol-role-support.png",
             "group": "champion",
             "x": 144,
             "y": 48,
@@ -5187,7 +5187,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Renata_0.jpg",
-            "lane": "champion3.png",
+            "lane": "https://cdn3.emoji.gg/emojis/7990-lol-role-support.png",
             "group": "champion",
             "x": 192,
             "y": 48,
@@ -5237,7 +5237,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Renekton_0.jpg",
-            "lane": "champion3.png",
+            "lane": "https://cdn3.emoji.gg/emojis/7990-lol-role-top.png",
             "group": "champion",
             "x": 240,
             "y": 48,
@@ -5287,7 +5287,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rengar_0.jpg",
-            "lane": "champion3.png",
+            "lane": "https://cdn3.emoji.gg/emojis/1152-lol-role-jungle.png",
             "group": "champion",
             "x": 288,
             "y": 48,
@@ -5337,7 +5337,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Riven_0.jpg",
-            "lane": "champion3.png",
+            "lane": "https://cdn3.emoji.gg/emojis/7990-lol-role-top.png",
             "group": "champion",
             "x": 336,
             "y": 48,
@@ -5387,7 +5387,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rumble_0.jpg",
-            "lane": "champion3.png",
+            "lane": "https://cdn3.emoji.gg/emojis/7990-lol-role-top.png",
             "group": "champion",
             "x": 384,
             "y": 48,
@@ -5437,7 +5437,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ryze_0.jpg",
-            "lane": "champion3.png",
+            "lane": "https://cdn3.emoji.gg/emojis/6934-lol-role-mid.png",
             "group": "champion",
             "x": 432,
             "y": 48,
@@ -5487,7 +5487,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Samira_0.jpg",
-            "lane": "champion3.png",
+            "lane": "https://cdn3.emoji.gg/emojis/9366-lol-role-bot.png",
             "group": "champion",
             "x": 0,
             "y": 96,
@@ -5536,7 +5536,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sejuani_0.jpg",
-            "lane": "champion3.png",
+            "lane": "https://cdn3.emoji.gg/emojis/1152-lol-role-jungle.png",
             "group": "champion",
             "x": 48,
             "y": 96,
@@ -5586,7 +5586,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Senna_0.jpg",
-            "lane": "champion3.png",
+            "lane": "https://cdn3.emoji.gg/emojis/7990-lol-role-support.png",
             "group": "champion",
             "x": 96,
             "y": 96,
@@ -5636,7 +5636,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Seraphine_0.jpg",
-            "lane": "champion3.png",
+            "lane": "https://cdn3.emoji.gg/emojis/7990-lol-role-support.png",
             "group": "champion",
             "x": 144,
             "y": 96,
@@ -5686,7 +5686,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sett_0.jpg",
-            "lane": "champion3.png",
+            "lane": "https://cdn3.emoji.gg/emojis/7990-lol-role-top.png",
             "group": "champion",
             "x": 192,
             "y": 96,
@@ -5736,7 +5736,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Shaco_0.jpg",
-            "lane": "champion3.png",
+            "lane": "https://cdn3.emoji.gg/emojis/1152-lol-role-jungle.png",
             "group": "champion",
             "x": 240,
             "y": 96,
@@ -5785,7 +5785,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Shen_0.jpg",
-            "lane": "champion3.png",
+            "lane": "https://cdn3.emoji.gg/emojis/7990-lol-role-top.png",
             "group": "champion",
             "x": 288,
             "y": 96,
@@ -5834,7 +5834,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Shyvana_0.jpg",
-            "lane": "champion3.png",
+            "lane": "https://cdn3.emoji.gg/emojis/1152-lol-role-jungle.png",
             "group": "champion",
             "x": 336,
             "y": 96,
@@ -5884,7 +5884,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Singed_0.jpg",
-            "lane": "champion3.png",
+            "lane": "https://cdn3.emoji.gg/emojis/7990-lol-role-top.png",
             "group": "champion",
             "x": 384,
             "y": 96,
@@ -5934,7 +5934,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sion_0.jpg",
-            "lane": "champion3.png",
+            "lane": "https://cdn3.emoji.gg/emojis/7990-lol-role-top.png",
             "group": "champion",
             "x": 432,
             "y": 96,
@@ -5984,7 +5984,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sivir_0.jpg",
-            "lane": "champion4.png",
+            "lane": "https://cdn3.emoji.gg/emojis/9366-lol-role-bot.png",
             "group": "champion",
             "x": 0,
             "y": 0,
@@ -6033,7 +6033,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Skarner_0.jpg",
-            "lane": "champion4.png",
+            "lane": "https://cdn3.emoji.gg/emojis/1152-lol-role-jungle.png",
             "group": "champion",
             "x": 48,
             "y": 0,
@@ -6083,7 +6083,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sona_0.jpg",
-            "lane": "champion4.png",
+            "lane": "https://cdn3.emoji.gg/emojis/7990-lol-role-support.png",
             "group": "champion",
             "x": 96,
             "y": 0,
@@ -6133,7 +6133,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Soraka_0.jpg",
-            "lane": "champion4.png",
+            "lane": "https://cdn3.emoji.gg/emojis/7990-lol-role-support.png",
             "group": "champion",
             "x": 144,
             "y": 0,
@@ -6183,7 +6183,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Swain_0.jpg",
-            "lane": "champion4.png",
+            "lane": "https://cdn3.emoji.gg/emojis/6934-lol-role-mid.png",
             "group": "champion",
             "x": 192,
             "y": 0,
@@ -6233,7 +6233,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sylas_0.jpg",
-            "lane": "champion4.png",
+            "lane": "https://cdn3.emoji.gg/emojis/6934-lol-role-mid.png",
             "group": "champion",
             "x": 240,
             "y": 0,
@@ -6283,7 +6283,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Syndra_0.jpg",
-            "lane": "champion4.png",
+            "lane": "https://cdn3.emoji.gg/emojis/6934-lol-role-mid.png",
             "group": "champion",
             "x": 288,
             "y": 0,
@@ -6332,7 +6332,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/TahmKench_0.jpg",
-            "lane": "champion4.png",
+            "lane": "https://cdn3.emoji.gg/emojis/7990-lol-role-support.png",
             "group": "champion",
             "x": 336,
             "y": 0,
@@ -6380,7 +6380,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Taliyah_0.jpg",
-            "lane": "champion4.png",
+            "lane": "https://cdn3.emoji.gg/emojis/6934-lol-role-mid.png",
             "group": "champion",
             "x": 384,
             "y": 0,
@@ -6430,7 +6430,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Talon_0.jpg",
-            "lane": "champion4.png",
+            "lane": "https://cdn3.emoji.gg/emojis/6934-lol-role-mid.png",
             "group": "champion",
             "x": 432,
             "y": 0,
@@ -6479,7 +6479,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Taric_0.jpg",
-            "lane": "champion4.png",
+            "lane": "https://cdn3.emoji.gg/emojis/7990-lol-role-support.png",
             "group": "champion",
             "x": 0,
             "y": 48,
@@ -6529,7 +6529,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Teemo_0.jpg",
-            "lane": "champion4.png",
+            "lane": "https://cdn3.emoji.gg/emojis/7990-lol-role-top.png",
             "group": "champion",
             "x": 48,
             "y": 48,
@@ -6579,7 +6579,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Thresh_0.jpg",
-            "lane": "champion4.png",
+            "lane": "https://cdn3.emoji.gg/emojis/7990-lol-role-support.png",
             "group": "champion",
             "x": 96,
             "y": 48,
@@ -6627,7 +6627,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Tristana_0.jpg",
-            "lane": "champion4.png",
+            "lane": "https://cdn3.emoji.gg/emojis/9366-lol-role-bot.png",
             "group": "champion",
             "x": 144,
             "y": 48,
@@ -6677,7 +6677,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Trundle_0.jpg",
-            "lane": "champion4.png",
+            "lane": "https://cdn3.emoji.gg/emojis/1152-lol-role-jungle.png",
             "group": "champion",
             "x": 192,
             "y": 48,
@@ -6727,7 +6727,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Tryndamere_0.jpg",
-            "lane": "champion4.png",
+            "lane": "https://cdn3.emoji.gg/emojis/7990-lol-role-top.png",
             "group": "champion",
             "x": 240,
             "y": 48,
@@ -6777,7 +6777,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/TwistedFate_0.jpg",
-            "lane": "champion4.png",
+            "lane": "https://cdn3.emoji.gg/emojis/6934-lol-role-mid.png",
             "group": "champion",
             "x": 288,
             "y": 48,
@@ -6826,7 +6826,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Twitch_0.jpg",
-            "lane": "champion4.png",
+            "lane": "https://cdn3.emoji.gg/emojis/9366-lol-role-bot.png",
             "group": "champion",
             "x": 336,
             "y": 48,
@@ -6876,7 +6876,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Udyr_0.jpg",
-            "lane": "champion4.png",
+            "lane": "https://cdn3.emoji.gg/emojis/1152-lol-role-jungle.png",
             "group": "champion",
             "x": 384,
             "y": 48,
@@ -6926,7 +6926,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Urgot_0.jpg",
-            "lane": "champion4.png",
+            "lane": "https://cdn3.emoji.gg/emojis/7990-lol-role-top.png",
             "group": "champion",
             "x": 432,
             "y": 48,
@@ -6976,7 +6976,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Varus_0.jpg",
-            "lane": "champion4.png",
+            "lane": "https://cdn3.emoji.gg/emojis/9366-lol-role-bot.png",
             "group": "champion",
             "x": 0,
             "y": 96,
@@ -7026,7 +7026,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vayne_0.jpg",
-            "lane": "champion4.png",
+            "lane": "https://cdn3.emoji.gg/emojis/9366-lol-role-bot.png",
             "group": "champion",
             "x": 48,
             "y": 96,
@@ -7076,7 +7076,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Veigar_0.jpg",
-            "lane": "champion4.png",
+            "lane": "https://cdn3.emoji.gg/emojis/6934-lol-role-mid.png",
             "group": "champion",
             "x": 96,
             "y": 96,
@@ -7125,7 +7125,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Velkoz_0.jpg",
-            "lane": "champion4.png",
+            "lane": "https://cdn3.emoji.gg/emojis/6934-lol-role-mid.png",
             "group": "champion",
             "x": 144,
             "y": 96,
@@ -7174,7 +7174,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vex_0.jpg",
-            "lane": "champion4.png",
+            "lane": "https://cdn3.emoji.gg/emojis/6934-lol-role-mid.png",
             "group": "champion",
             "x": 192,
             "y": 96,
@@ -7223,7 +7223,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vi_0.jpg",
-            "lane": "champion4.png",
+            "lane": "https://cdn3.emoji.gg/emojis/1152-lol-role-jungle.png",
             "group": "champion",
             "x": 240,
             "y": 96,
@@ -7273,7 +7273,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Viego_0.jpg",
-            "lane": "champion4.png",
+            "lane": "https://cdn3.emoji.gg/emojis/1152-lol-role-jungle.png",
             "group": "champion",
             "x": 288,
             "y": 96,
@@ -7323,7 +7323,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Viktor_0.jpg",
-            "lane": "champion4.png",
+            "lane": "https://cdn3.emoji.gg/emojis/6934-lol-role-mid.png",
             "group": "champion",
             "x": 336,
             "y": 96,
@@ -7372,7 +7372,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vladimir_0.jpg",
-            "lane": "champion4.png",
+            "lane": "https://cdn3.emoji.gg/emojis/6934-lol-role-mid.png",
             "group": "champion",
             "x": 384,
             "y": 96,
@@ -7421,7 +7421,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Volibear_0.jpg",
-            "lane": "champion4.png",
+            "lane": "https://cdn3.emoji.gg/emojis/1152-lol-role-jungle.png",
             "group": "champion",
             "x": 432,
             "y": 96,
@@ -7471,7 +7471,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Warwick_0.jpg",
-            "lane": "champion5.png",
+            "lane": "https://cdn3.emoji.gg/emojis/1152-lol-role-jungle.png",
             "group": "champion",
             "x": 0,
             "y": 0,
@@ -7521,7 +7521,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Xayah_0.jpg",
-            "lane": "champion5.png",
+            "lane": "https://cdn3.emoji.gg/emojis/9366-lol-role-bot.png",
             "group": "champion",
             "x": 48,
             "y": 0,
@@ -7570,7 +7570,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Xerath_0.jpg",
-            "lane": "champion5.png",
+            "lane": "https://cdn3.emoji.gg/emojis/6934-lol-role-mid.png",
             "group": "champion",
             "x": 96,
             "y": 0,
@@ -7619,7 +7619,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/XinZhao_0.jpg",
-            "lane": "champion5.png",
+            "lane": "https://cdn3.emoji.gg/emojis/1152-lol-role-jungle.png",
             "group": "champion",
             "x": 144,
             "y": 0,
@@ -7669,7 +7669,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yasuo_0.jpg",
-            "lane": "champion5.png",
+            "lane": "https://cdn3.emoji.gg/emojis/6934-lol-role-mid.png",
             "group": "champion",
             "x": 192,
             "y": 0,
@@ -7719,7 +7719,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yone_0.jpg",
-            "lane": "champion5.png",
+            "lane": "https://cdn3.emoji.gg/emojis/6934-lol-role-mid.png",
             "group": "champion",
             "x": 240,
             "y": 0,
@@ -7769,7 +7769,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yorick_0.jpg",
-            "lane": "champion5.png",
+            "lane": "https://cdn3.emoji.gg/emojis/7990-lol-role-top.png",
             "group": "champion",
             "x": 288,
             "y": 0,
@@ -7819,7 +7819,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yuumi_0.jpg",
-            "lane": "champion5.png",
+            "lane": "https://cdn3.emoji.gg/emojis/7990-lol-role-support.png",
             "group": "champion",
             "x": 336,
             "y": 0,
@@ -7869,7 +7869,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zac_0.jpg",
-            "lane": "champion5.png",
+            "lane": "https://cdn3.emoji.gg/emojis/1152-lol-role-jungle.png",
             "group": "champion",
             "x": 384,
             "y": 0,
@@ -7919,7 +7919,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zed_0.jpg",
-            "lane": "champion5.png",
+            "lane": "https://cdn3.emoji.gg/emojis/6934-lol-role-mid.png",
             "group": "champion",
             "x": 432,
             "y": 0,
@@ -7968,7 +7968,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zeri_0.jpg",
-            "lane": "champion5.png",
+            "lane": "https://cdn3.emoji.gg/emojis/9366-lol-role-bot.png",
             "group": "champion",
             "x": 0,
             "y": 48,
@@ -8017,7 +8017,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ziggs_0.jpg",
-            "lane": "champion5.png",
+            "lane": "https://cdn3.emoji.gg/emojis/6934-lol-role-mid.png",
             "group": "champion",
             "x": 48,
             "y": 48,
@@ -8066,7 +8066,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zilean_0.jpg",
-            "lane": "champion5.png",
+            "lane": "https://cdn3.emoji.gg/emojis/6934-lol-role-mid.png",
             "group": "champion",
             "x": 96,
             "y": 48,
@@ -8116,7 +8116,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zoe_0.jpg",
-            "lane": "champion5.png",
+            "lane": "https://cdn3.emoji.gg/emojis/6934-lol-role-mid.png",
             "group": "champion",
             "x": 144,
             "y": 48,
@@ -8166,7 +8166,7 @@ const champions = [
         },
         "image": {
             "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zyra_0.jpg",
-            "lane": "champion5.png",
+            "lane": "https://cdn3.emoji.gg/emojis/7990-lol-role-support.png",
             "group": "champion",
             "x": 192,
             "y": 48,

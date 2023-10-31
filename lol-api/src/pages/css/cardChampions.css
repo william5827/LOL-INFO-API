@@ -16,7 +16,7 @@
   .texte-x{
     color: white;
     width: 100%;
-    background-color: rgba(0, 0, 0, 0.555);
+    background-color: rgba(0, 0, 0, 0.671);
     display: flex;
     align-items: first baseline;
     flex-direction: column;
@@ -45,4 +45,27 @@
     margin: 2px;
     font-size: 18px;
     text-transform: lowercase;
+  }
+
+  .title-champion-text{
+    width: 100%;
+    display: flex;
+    align-items: center;
+  }
+
+  .main-title-text-champion{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 1%;
+  }
+
+  .main-title-text-champion p{
+    margin: 0;
+  }
+
+  .img-icon-lane{
+    width: 25px;
+    height: 25px;
   }

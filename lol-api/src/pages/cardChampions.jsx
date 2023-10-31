@@ -11,7 +11,10 @@ export default function cardChampions(){
                     <div key={index} style={{backgroundImage: `url(${item.image.full})`}} className="box-teste-z">
                         <div className="texte-x">
                             <div className="title-champion-text">
+                                <div className="main-title-text-champion">
                                 <p>{item.name}</p>
+                                <img className="img-icon-lane" src={item.image.lane} alt="top lane" />
+                                </div>
                             </div>
                             <div className="subtitle-champion-text">
                                 <p>{item.title}</p>

@@ -6,6 +6,8 @@ import Footer from '../components/footer'
 import Menu from '../components/menu'
 import ImgAkali from '../assets/lol-image-akali.png'
 import videoAssassins from '../assets/video-assassins.webm'
+import videoCarrys from '../assets/video-carrys.webm'
+import videoSups from '../assets/video-sups.webm'
 import ImgJinx from '../assets/lol-image-jinx.png'
 import ImgThresh from '../assets/lol-image-thresh.png'
 
@@ -73,7 +75,7 @@ function Homepage() {
               </div>
               <div className="content-game-video jinx">
               <video className="video-assassins" autoPlay muted loop >
-              <source src={videoAssassins} type="video/mp4" />
+              <source src={videoCarrys} type="video/mp4" />
               </video>
               </div>
             </div>  
@@ -98,7 +100,7 @@ function Homepage() {
               </div>
               <div className="content-game-video jinx">
               <video className="video-assassins" autoPlay muted loop >
-              <source src={videoAssassins} type="video/mp4" />
+              <source src={videoSups} type="video/mp4" />
               </video>
               </div>
             </div> 

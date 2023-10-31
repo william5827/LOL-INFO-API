@@ -29,8 +29,7 @@ body {
 
 .banner-homepage video {
     object-fit: fill;
-    width: 100%;
-    box-shadow: 0px 0px 28px -5px rgba(66, 68, 90, 1);
+    width: 100%;;
 }
 
 .image-title-banner {
@@ -66,8 +65,8 @@ body {
 .content-border-image{
     width: 500px;
     height: 500px;
-    border-top: 1px solid yellowgreen;
-    border-bottom: 1px solid yellowgreen;
+    border-top: 1px solid rgb(162, 233, 19);
+    border-bottom: 1px solid rgb(162, 233, 19);
     /*box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);*/
     border-radius: 50%;
     justify-content: center;
@@ -93,7 +92,7 @@ body {
     width: 90%;
     text-align: center;
     padding: 5px;
-    border-bottom: 1px solid rgb(226, 226, 226);
+    border-bottom: 1px solid rgb(97, 97, 97);
 }
 
 .main-title-text-game{
@@ -123,7 +122,7 @@ body {
     width: 90%;
     margin-top: 4%;
     text-align: center;
-    margin-bottom: 2%;
+    margin-bottom: 1%;
 }
 
 .descrition-text-game p{
@@ -143,7 +142,7 @@ body {
 }
 
 .content-border-image.jinx{
-    border-top: 1px solid rgb(191, 15, 235);
+    border-top: 1px solid rgb(203, 6, 252);
     border-bottom: 1px solid rgb(5, 105, 255);
 }
 
@@ -164,7 +163,7 @@ body {
     align-items: center;
     flex-direction: column;
     justify-content: space-evenly;
-    color: white;
+    color:white;
     width: 45%;
     height: 95%;
 }
@@ -186,5 +185,24 @@ body {
 }
 
 .main-subtitle-text-game.jinx{
-    letter-spacing: 2px;
+    letter-spacing: 1px;
+}
+
+.homepage-content-game.akali{
+    background-image: url('../../assets/img-background-akali-homepage.jpg');
+    background-size: cover;
+}
+
+.content-game-text.akali{
+    color:white;
+}
+
+.homepage-content-game.thresh{
+    background-size: cover;
+    background-image: url('../../assets/img-background-thresh-homepage.jpg');
+}
+
+.content-border-image.thresh{
+    border-top: 1px solid rgb(6, 252, 178);
+    border-bottom: 1px solid rgb(6, 252, 178);
 }

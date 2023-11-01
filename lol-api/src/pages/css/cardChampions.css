@@ -1,24 +1,21 @@
 .box-teste-z{
-    width: 45%;
+    width: 100%;
     height: 350px;
     background-color: pink;
-    margin: 2%;
     border-radius: 3px;
     display: flex;
     background-size: cover;
     background-position: center;
     justify-content: flex-end;
     align-items: flex-end;
-    float: left;
     box-shadow: 0px 0px 15px 5px rgba(0,0,0,0.5);
   }
-  
+
   .texte-x{
     color: white;
     width: 100%;
     background-color: rgba(0, 0, 0, 0.671);
     display: flex;
-    align-items: first baseline;
     flex-direction: column;
     padding: 4%;
     border-bottom-left-radius: 3px;
@@ -68,4 +65,29 @@
   .img-icon-lane{
     width: 25px;
     height: 25px;
+    margin-top: 2px;
   }
+
+.listagem-campeoes{
+  width: 46%;
+  height: auto;
+  display: flex;
+  float: left;
+  justify-content: center;
+  align-items: center;
+  margin: 2%;
+  border-radius: 3px;
+}
+
+.container-listagem{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+}
+
+.list-champions{
+  width: 100%;
+  height: 100%;
+}

@@ -1,2 +1,2 @@
 # LOL-INFO-API
-projeto para prática de criação de api e outras tecnologias
+projeto feito em react para prática de criação de api e outras tecnologias

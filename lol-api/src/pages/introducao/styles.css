@@ -1,0 +1,115 @@
+body{
+    margin: 0;
+    padding: 0;
+  }
+  
+  .bg-app{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url('../../assets/lol-image-background-app.jpg');
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .filter-black-homepage{
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.815);
+  }
+  
+  .banner-homepage-app{
+    width: 90%;
+    height: 90%;
+    display: flex;
+  }
+  
+  .banner-images{
+    width: 50%;
+    height: 100%;
+  }
+  
+  .banner-content{
+    width: 50%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 1%;
+    margin-top: 4%;
+  }
+  
+  .menu-app{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: column;
+    width: 100%;
+  }
+
+  .menu-app a{
+    outline: none;
+    text-decoration: none;
+    margin-left: 10%;
+  }
+  
+  .text-menu-app{
+    color: rgba(255, 255, 255, 0.795);
+    margin: 0;
+    font-size: 70px;
+    font-weight: 200px;
+    letter-spacing: -1px;
+  }
+  
+  .menu-app a:hover{
+    transition: 0.3s;
+    color: #ca5df2d8;
+    margin-left: 10px;
+  }
+  
+  .bi-1{
+    position: absolute;
+    background-color: #ca5df2d8;
+    border-radius: 3px;
+    width: 400px;
+    height: 400px;
+    top: 85px;
+    right: 140px;
+    z-index: 1;
+    border: 1px solid black;
+    box-shadow: 0px -4px 15px 5px rgba(0,0,0,0.5);
+  }
+  
+  .bi-3{
+    position: absolute;
+    background-color: #62C1DC;
+    border-radius: 3px;
+    width: 400px;
+    height: 400px;
+    top: 110px;
+    right: 180px;
+    z-index: 2;
+    border: 1px solid black;
+    box-shadow: 0px -4px 15px 5px rgba(0,0,0,0.5);
+  }
+  
+  .bi-2{
+    position: absolute;
+    background-color: white;
+    border-radius: 3px;
+    width: 400px;
+    height: 400px;
+    top: 140px;
+    right: 220px;
+    z-index: 3;
+    background-color: #272b4c;
+    /*background-image: url('assets/lol-image-jinx-icon.png');*/
+    background-position: bottom;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border: 1px solid black;
+    box-shadow: 0px -4px 15px 5px rgba(0,0,0,0.5);
+    transition: 3s;
+  }

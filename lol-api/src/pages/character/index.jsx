@@ -11,11 +11,7 @@ function characterPage(props){
         <>
         <div className="character-page">
             <div className="info-character">
-                <div className="">sssssssssssss</div>
-                <div className="">sssssssssssss</div>
-                <div className="">sssssssssssss</div>
-                <div className="">sssssssssssss</div>
-                <div className="">sssssssssssss</div>
+                <div className="image-character">sssssssssssss</div>
                 <div className="info-champions-text"></div>
             </div>
         </div>

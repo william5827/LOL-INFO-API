@@ -1,15 +1,28 @@
 import React, { useEffect } from "react";
-import './css/cardChampions.css'
+import './style.css'
+import iconChampion from '../../assets/icon-champions-page-white.png'
 
 export default function cardChampions({ champions }) {
+
     return (
         <div className="list-champions">
             {champions &&
                 champions.map((item, index) => {
                     return (
-                    <div className="listagem-campeoes">
+                    <div key={index} className="listagem-campeoes">
                         <div className="container-listagem">
-                        <div key={index} style={{ backgroundImage: `url(${item.image.full})` }} className="box-teste-z">
+                        <div style={{ backgroundImage: `url(${item.image.full})` }} className="box-teste-z">
+                            <div className="more-content-button">
+                                
+                                <a href={`/character/${item.name}`}>
+                                <button  className="informations-champion-button">
+                                    <div className="filter-inset-champion">
+                                    <img className="icon-inset-button" src={iconChampion} />
+                                    </div>
+                                </button>
+                                </a>
+
+                            </div>
                             <div className="texte-x">
                                 <div className="title-champion-text">
                                     <div className="main-title-text-champion">

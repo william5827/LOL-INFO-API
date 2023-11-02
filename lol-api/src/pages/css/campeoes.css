@@ -6,22 +6,17 @@ body {
 
 .champions-content{
     width: 100%;
-    height: auto;
     margin-top: 1%;
-    display: flex;
-    justify-content: center;
 }
 
 
 .title-champions-text-page{
     width: 100%;
     margin-top: 15%;
-    height: auto;
 }
 
 .title-champions-text-page .container-champions {
     display: flex;
-    height: 100%;
     width: 95%;
     margin: 0 auto;
     align-items: center;
@@ -117,7 +112,7 @@ body {
     margin-left: 2%;
 }
 
-.iconeteste{
+.icon-capacete{
     width: 60px;
     height: 60px;
 }

@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    padding: 0;
+    cursor: url('../../assets/cursor.png'),pointer;
+}
+
+.character-page {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.info-character{
+    display: flex;
+    align-items: center;
+    width: 90%;
+    height: 80%;
+    background-color: rgb(71, 3, 3);
+    justify-content: space-evenly;
+}
+
+.image-character{
+    width: 40%;
+    height: 90%;
+    background-color: rgb(3, 3, 114);
+}
+
+.info-champions-text{
+    width: 40%;
+    height: 90%;
+    background-color: rgb(129, 129, 3);
+}

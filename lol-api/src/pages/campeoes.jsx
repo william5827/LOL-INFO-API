@@ -16,14 +16,14 @@ function Campeoes() {
     
       <div className='homepage'>
 
-        {/* <div className='banner-homepage'>
+        <div className='banner-homepage'>
           <video autoPlay muted loop >
             <source src={video} type="video/mp4" />
           </video>
         </div>
         <div className='text-banner'>
-          <img src={lolWhite} alt="lol-white-logo" className="image-title-banner" />
-        </div>
+            <img src={lolWhite} alt="lol-white-logo" className="image-title-banner" />
+          </div>
 
         <div className="title-champions-text-page">
           <div className="container-champions">
@@ -37,7 +37,7 @@ function Campeoes() {
         </div>
 
         <div className="champions-content">
-          
+          <Champions champions={championsList[page]} />
         </div>
 
         <div className="buttons-next-page">
@@ -45,8 +45,8 @@ function Campeoes() {
             <button className="button-pages previus" onClick={() => setPage(page - 1)} disabled={page === 0}><img className="icon-pages-button backpage" src={backPage} alt="Voltar pagina" />Pagina Anterior</button>
             <button className="button-pages next" onClick={() => setPage(page + 1)} disabled={page === championsList.length - 1}>Avançar Pagina <img className="icon-pages-button nextpage" src={nextPage} alt="Próxima pagina" /></button>
           </div>
-        </div> */}
-        <Champions champions={championsList[page]} />
+        </div> 
+       
 
       </div>
 

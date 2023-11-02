@@ -1,29 +1,34 @@
 body {
     margin: 0;
     padding: 0;
-    cursor: url('../../assets/cursor.png'),pointer;
+    cursor: url('../../assets/cursor.png'), pointer;
 }
 
 .banner-homepage {
     width: 100%;
-    height: 100vh;
-    position: absolute;
     left: 0;
     top: 0;
+    position: relative;
 }
 
 .text-banner {
-    position: relative;
+    position: absolute;
     margin: auto;
     display: flex;
     justify-content: center;
     align-items: center;
     height: 100%;
+    left:0;
+    right:0;
+    margin-left:auto;
+    top: 0;
+    margin-right:auto;
 }
 
 .banner-homepage video {
     object-fit: fill;
-    width: 100%;;
+    width: 100%;
+    ;
 }
 
 .image-title-banner {
@@ -31,7 +36,7 @@ body {
     height: auto;
 }
 
-.homepage-content-game{
+.homepage-content-game {
     width: 100%;
     margin-top: 15%;
     height: 60ch;
@@ -46,7 +51,7 @@ body {
     justify-content: space-evenly;
 }
 
-.content-game-image{
+.content-game-image {
     width: 50%;
     height: 95%;
     background-size: cover;
@@ -56,7 +61,7 @@ body {
     justify-content: center;
 }
 
-.content-border-image{
+.content-border-image {
     width: 500px;
     height: 500px;
     border-top: 1px solid rgb(162, 233, 19);
@@ -68,11 +73,11 @@ body {
     display: flex;
 }
 
-.content-border-image img{
+.content-border-image img {
     width: 140%;
 }
 
-.content-game-text{
+.content-game-text {
     display: flex;
     align-items: center;
     flex-direction: column;
@@ -82,121 +87,121 @@ body {
     height: 100%;
 }
 
-.title-text-game{
+.title-text-game {
     width: 90%;
     text-align: center;
     padding: 5px;
     border-bottom: 1px solid rgb(97, 97, 97);
 }
 
-.main-title-text-game{
+.main-title-text-game {
     width: 100%;
     margin-top: 20px;
 }
 
-.main-title-text-game p{
+.main-title-text-game p {
     font-weight: 500;
     font-size: 17px;
     margin: 0;
 }
 
-.main-subtitle-text-game p{
+.main-subtitle-text-game p {
     font-size: 40px;
     margin: 0;
 }
 
-.title-text-game{
+.title-text-game {
     margin: 0;
     font-size: 30px;
     font-weight: bold;
 }
 
 
-.descrition-text-game{
+.descrition-text-game {
     width: 90%;
     margin-top: 4%;
     text-align: center;
     margin-bottom: 1%;
 }
 
-.descrition-text-game p{
+.descrition-text-game p {
     margin: 0;
     font-size: 14px
 }
 
-.content-game-video{
+.content-game-video {
     width: 80%;
     height: 300px;
 }
 
-.video-assassins{
+.video-assassins {
     border-radius: 3px;
     width: 100%;
     height: 100%;
 }
 
-.content-border-image.jinx{
+.content-border-image.jinx {
     border-top: 1px solid rgb(203, 6, 252);
     border-bottom: 1px solid rgb(5, 105, 255);
 }
 
-.descrition-text-game.jinx{
+.descrition-text-game.jinx {
     width: 90%;
     text-align: center;
     margin-bottom: 0;
 }
 
-.content-game-video.jinx{
+.content-game-video.jinx {
     width: 80%;
     height: 300px;
     margin-bottom: 4%;
 }
 
-.content-game-text.jinx{
+.content-game-text.jinx {
     display: flex;
     align-items: center;
     flex-direction: column;
     justify-content: space-evenly;
-    color:white;
+    color: white;
     width: 45%;
     height: 95%;
 }
 
-.homepage-content-game.jinx{
+.homepage-content-game.jinx {
     background-color: rgb(71, 71, 71);
     background-image: url('../../assets/img-background-jinx-homepage.jpeg');
     background-size: cover;
 }
 
-.title-text-game.jinx{
+.title-text-game.jinx {
     border-bottom: 1px solid rgb(97, 97, 97);
 }
 
-.filter-img-background-jinx{
+.filter-img-background-jinx {
     width: 100%;
     height: 100%;
     background-color: rgba(0, 0, 0, 0.801);
 }
 
-.main-subtitle-text-game.jinx{
+.main-subtitle-text-game.jinx {
     letter-spacing: 1px;
 }
 
-.homepage-content-game.akali{
+.homepage-content-game.akali {
     background-image: url('../../assets/img-background-akali-homepage.jpg');
     background-size: cover;
 }
 
-.content-game-text.akali{
-    color:white;
+.content-game-text.akali {
+    color: white;
 }
 
-.homepage-content-game.thresh{
+.homepage-content-game.thresh {
     background-size: cover;
     background-image: url('../../assets/img-background-thresh-homepage.jpg');
 }
 
-.content-border-image.thresh{
+.content-border-image.thresh {
     border-top: 1px solid rgba(6, 252, 178, 0.562);
     border-bottom: 1px solid rgba(6, 252, 178, 0.616);
 }

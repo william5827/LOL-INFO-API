@@ -15,15 +15,15 @@ function Homepage() {
   return (
     <>
       <div className='homepage'>
-        <Menu />
+
         <div className='banner-homepage'>
           <video autoPlay muted loop >
             <source src={video} type="video/mp4" />
           </video>
         </div>
-        <div className='text-banner'>
+         <div className='text-banner'>
           <img src={lolWhite} alt="lol-white-logo" className="image-title-banner" />
-        </div>
+        </div> 
 
         <div className="homepage-content-game akali">
         <div className="filter-img-background-jinx">
@@ -113,7 +113,6 @@ function Homepage() {
           </div>
         </div>
         
-        <Footer />
       </div>
     </>
   )

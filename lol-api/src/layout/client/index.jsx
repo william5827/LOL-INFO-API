@@ -8,7 +8,6 @@ const Layout = ({children}) => {
             <div className="layout">
                 <Menu />
                 <div className="content">
-                    sd
                     {children}
                 </div>
                 <Footer />   

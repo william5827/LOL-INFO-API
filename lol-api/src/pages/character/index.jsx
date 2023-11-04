@@ -31,11 +31,21 @@ function characterPage() {
                             {
                                 name: "HISTORÍA", content:
                                     <>
-                                        <div className="image-character" style={{ backgroundImage: `url(${championsData.image.full})` }} />
+                                        <div className="image-character" style={{ backgroundImage: `url(${championsData.image.full})` }}>
+                                            <div className="filter-image-character"/>
+                                        </div>
                                         <div className="info-champions-text">
-                                            <div className="teste-champions-character">
+                                            <div className="champions-character-texts">
                                             <p className="subtitle-character-page">{championsData.title}</p>
                                             <p className="title-character-page">{championsData.name}</p>
+                                            </div>
+                                            <div className="content-characters-page-description">
+                                                <div className="character-type-history">
+                                                <div className="character-page-description-type">
+                                                    <p className="title-description-character"></p>
+                                                </div>
+                                                <div className="character-page-history"></div>
+                                                </div>
                                             </div>
                                         </div>
                                     </>

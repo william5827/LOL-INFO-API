@@ -18,11 +18,11 @@ function App() {
             <Inicio/>
           </Route>
 
-          <LayoutClient>
-
           <Route path='/character/:id'>
             <CharacterPage />
           </Route>
+
+          <LayoutClient>
 
           <Route path='/champions'>
             <Campeoes />

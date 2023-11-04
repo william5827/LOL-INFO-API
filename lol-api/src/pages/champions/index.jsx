@@ -2,7 +2,8 @@ import React, { useEffect } from "react";
 import './style.css'
 import iconChampion from '../../assets/icon-champions-page-white.png'
 
-export default function cardChampions({ champions }) {
+
+export default function cardChampions({ champions, page }) {
 
     return (
         <div className="list-champions">
@@ -14,7 +15,7 @@ export default function cardChampions({ champions }) {
                         <div style={{ backgroundImage: `url(${item.image.full})` }} className="box-teste-z">
                             <div className="more-content-button">
                                 
-                                <a href={`/character/${item.name}`}>
+                                <a href={`/character/${item.name}?page=${page}`}>
                                 <button  className="informations-champion-button">
                                     <div className="filter-inset-champion">
                                     <img className="icon-inset-button" src={iconChampion} />

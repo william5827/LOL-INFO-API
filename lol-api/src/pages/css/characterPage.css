@@ -6,28 +6,80 @@ body {
 
 .character-page {
     width: 100%;
+    height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
+    background-size: cover;
+    background-position: center;
+}
+
+
+.filter-character-page{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    background-color: rgba(0, 0, 0, 0.699);
+    backdrop-filter: blur(9px);
 }
 
 .info-character{
+    width: 100%;
+    height: 95%;
     display: flex;
-    align-items: center;
-    width: 90%;
-    height: 80%;
-    background-color: rgb(71, 3, 3);
-    justify-content: space-evenly;
+    justify-content: center;
+    align-items: flex-start;
+    border-radius: 1px;
+    background-color: transparent;
 }
 
 .image-character{
-    width: 40%;
-    height: 90%;
-    background-color: rgb(3, 3, 114);
+    width: 100%;
+    height: 600px;
+    margin: 0 auto;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    background-size: cover;
+    background-position: center;
 }
 
 .info-champions-text{
-    width: 40%;
-    height: 90%;
-    background-color: rgb(129, 129, 3);
+    width: 95%;
+    height: 300px;
+    margin: 0 auto;
+    border: 1px solid rgb(131, 131, 131);
+    border-top: none;
+    border-radius: 1px;
+    overflow: visible;
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
+
+.teste-champions-character{
+    width: 50%;
+    height: 200px;
+    position: absolute;
+    top: -32%;
+    color: white;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.subtitle-character-page{
+    margin: 0;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+
+.title-character-page{
+    margin: 0;
+    font-size: 100px;
+    font-weight: 400;
+    text-transform: uppercase;
 }

@@ -56,8 +56,8 @@ export default function Footer(){
                   </div>
                   <div className="menu-footer">
                     <ul className='navbar-footer'>
-                      <li><a className='navbar_a_footer' href="/">HOME</a></li>
-                      <li><a className='navbar_a_footer' href="/">CAMPEÕES</a></li>
+                      <li><a className='navbar_a_footer' href="/home">HOME</a></li>
+                      <li><a className='navbar_a_footer' href="/champions">CAMPEÕES</a></li>
                       <li><a className='navbar_a_footer' href="/">MAPA</a></li>
                       <li><a className='navbar_a_footer' href="/">UNIVERSO</a></li>
                     </ul>

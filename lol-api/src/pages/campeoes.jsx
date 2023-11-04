@@ -37,7 +37,7 @@ function Campeoes() {
         </div>
 
         <div className="champions-content">
-          <Champions champions={championsList[page]} />
+          <Champions page={page} champions={championsList[page]} />
         </div>
 
         <div className="buttons-next-page">

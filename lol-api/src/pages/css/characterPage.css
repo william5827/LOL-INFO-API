@@ -43,7 +43,7 @@ body {
     align-items: flex-end;
     justify-content: center;
     background-size: cover;
-    background-position: center;
+    background-position: top;
 }
 
 .info-champions-text {
@@ -110,12 +110,18 @@ body {
 .character-page-description-type {
     width: 50%;
     height: 80%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
 .character-page-history {
     width: 50%;
     height: 80%;
     border-left: 1px solid rgb(131, 131, 131);
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .character-type-history {
@@ -133,4 +139,55 @@ body {
             hsl(0deg 0% 2%) 0%,
             hsla(0, 0%, 71%, 0) 50%,
             hsla(0, 0%, 100%, 0) 100%);
+}
+
+.title-description-role{
+    text-transform: uppercase;
+    font-size: 20px;
+    margin: 0;
+    margin-bottom: 2%;
+}
+
+.description-content-type img{
+    width: 40px;
+    height: 40px;
+    margin-bottom: 1%;
+}
+
+.type-description-character{
+    text-transform: uppercase;
+    font-size: 20px;
+    margin: 0;
+    margin-bottom: 1%;
+}
+
+.description-content-type{
+    width: 45%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.description-content-function{
+    width: 65%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.text-function-character{
+   text-transform: uppercase;
+   font-size: 25px;
+   margin: 0;
+   margin-top: 2%;
+   color: #CBAB70;
+}
+
+.text-content-history{
+    font-size: 16px;
+    width: 80%;
 }

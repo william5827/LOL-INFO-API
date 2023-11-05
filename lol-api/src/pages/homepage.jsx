@@ -2,8 +2,6 @@ import React from 'react'
 import video from '../assets/congregacao-bruxas-video.mp4'
 import './css/homepage.css'
 import lolWhite from './../assets/lol-image-white-logo.png'
-import Footer from '../components/footer'
-import Menu from '../components/menu'
 import ImgAkali from '../assets/lol-image-akali.png'
 import videoAssassins from '../assets/video-assassins.webm'
 import videoCarrys from '../assets/video-carrys.webm'
@@ -40,7 +38,7 @@ function Homepage() {
                 com cada equipe ocupando e defendendo sua metade do mapa. Cada um dos dez jogadores
                 controla um personagem, conhecido como "campeão", com habilidades únicas e diferentes estilos de jogo. </p>
               </div>
-              <div className="content-game-video">
+              <div className="content-game-video akali">
               <video className="video-assassins" autoPlay muted loop >
               <source src={videoAssassins} type="video/mp4" />
               </video>

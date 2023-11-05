@@ -57,11 +57,12 @@
    width: 160px;
    height: 30px;
    border: none;
+   margin-top: 6%;
    border-radius: 1px;
    text-transform: uppercase;
    font-weight: bold;
    background-color: transparent;
-   border: 1px solid #1054a19c;
+   /*border: 1px solid #1054a19c;*/
    color: white;
    cursor: pointer;
    display: flex;
@@ -77,7 +78,7 @@
 }
 
 .back-champions-page:hover{
-    border: 1px solid #1054a1;
+    /*border: 1px solid #1054a1;*/
     transition: 0.5s;
 }
 
@@ -91,13 +92,13 @@
 .icon-champions-back-homepage img{
     width: 15px;
     height: 15px;
-    margin-top: 5px;
+    margin-top: 8px;
 }
 
 .icon-back-button{
     width: 25px;
     height: 25px;
-    margin-top: 2px;
+    /*margin-top: 1px;*/
 }
 
 .champions-list-p-text{

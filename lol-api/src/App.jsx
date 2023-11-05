@@ -18,7 +18,7 @@ function App() {
             <Inicio/>
           </Route>
 
-          <Route path='/character/:id'>
+          <Route path='/character/:name'>
             <CharacterPage />
           </Route>
 

@@ -1,107 +1,107 @@
 .container-character-page {
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-start;
-    width: 95%;
-    height: 100%;
-  }
-  
-  .header {
-    width: 100%;
-    display: flex;
-    justify-content: center;
-    .tab-item {
-      border: none;
-      margin: 10px;
-      height: 30px;
-      border-radius: 1px;
-      background-color: transparent;
-      color: rgb(168, 168, 168);
-      font-size: 18px;
-      cursor: pointer;
-      transition: all .2s;
-    }
-
-    .tab-item:hover{
-        font-weight: 500;
-        color: white;
-        transition: 0.3s;
-    }
-  }
-  
-  .content-character-component {
-    width: 100%;
-    height: 100%;
-    overflow-y: scroll;
-  }
-
-  .content-character-component::-webkit-scrollbar{
-    width: 4px;
-    background-color:transparent;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  width: 95%;
+  height: 100%;
 }
 
-  .content-character-component::-webkit-scrollbar-thumb{
+.header {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+
+  .tab-item {
     border: none;
-    background-color: rgb(207, 207, 207);
-    border-radius: 5px;
-}
+    margin: 10px;
+    height: 30px;
+    border-radius: 1px;
+    background-color: transparent;
+    color: rgb(168, 168, 168);
+    font-size: 18px;
+    cursor: pointer;
+    transition: all .2s;
+  }
 
-.div-button-back-champions{
-    width: 40%;
-    display: flex;
-    justify-self: flex-start;
-    align-items: center;
-}
-
-.back-champions-page{
-   width: 160px;
-   height: 30px;
-   border: none;
-   margin-top: 6%;
-   border-radius: 1px;
-   text-transform: uppercase;
-   font-weight: bold;
-   background-color: transparent;
-   /*border: 1px solid #1054a19c;*/
-   color: white;
-   cursor: pointer;
-   display: flex;
-   align-items: center;
-   justify-content: center;
-   font-size: 11px;
-}
-
- a{
-    outline: none;
-    text-decoration: none;
+  .tab-item:hover {
+    font-weight: 500;
     color: white;
+    transition: 0.3s;
+  }
 }
 
-.back-champions-page:hover{
-    /*border: 1px solid #1054a1;*/
-    transition: 0.5s;
+.content-character-component {
+  width: 100%;
+  height: 100%;
+  overflow-y: scroll;
 }
 
-.icon-champions-back-homepage{
-    width: 40%;
-    display: flex;
-    align-items: center;
-    justify-content: flex-end;
+.content-character-component::-webkit-scrollbar {
+  width: 4px;
+  background-color: transparent;
 }
 
-.icon-champions-back-homepage img{
-    width: 15px;
-    height: 15px;
-    margin-top: 8px;
+.content-character-component::-webkit-scrollbar-thumb {
+  border: none;
+  background-color: rgb(207, 207, 207);
+  border-radius: 5px;
 }
 
-.icon-back-button{
-    width: 25px;
-    height: 25px;
-    /*margin-top: 1px;*/
+.div-button-back-champions {
+  width: 40%;
+  display: flex;
+  justify-self: flex-start;
+  align-items: center;
 }
 
-.champions-list-p-text{
-    margin: 0;
-    margin-left: 10px;
+.back-champions-page {
+  width: 160px;
+  height: 30px;
+  border: none;
+  margin-top: 6%;
+  border-radius: 1px;
+  text-transform: uppercase;
+  font-weight: bold;
+  background-color: transparent;
+  color: white;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 11px;
+}
+
+a {
+  outline: none;
+  text-decoration: none;
+  color: white;
+}
+
+.back-champions-page:hover {
+  /*border: 1px solid #1054a1;*/
+  transition: 0.5s;
+}
+
+.icon-champions-back-homepage {
+  width: 40%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.icon-champions-back-homepage img {
+  width: 15px;
+  height: 15px;
+  margin-top: 8px;
+}
+
+.icon-back-button {
+  width: 25px;
+  height: 25px;
+  /*margin-top: 1px;*/
+}
+
+.champions-list-p-text {
+  margin: 0;
+  margin-left: 10px;
 }

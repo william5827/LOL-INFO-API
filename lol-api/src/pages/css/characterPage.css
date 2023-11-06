@@ -135,33 +135,38 @@ body {
 .filter-image-character {
     width: 100%;
     height: 100%;
-    background-image: linear-gradient(0deg,
+    /*background-image: linear-gradient(0deg,
             hsl(0deg 0% 2%) 0%,
             hsla(0, 0%, 71%, 0) 50%,
+            hsla(0, 0%, 100%, 0) 100%);*/
+    background-image: linear-gradient(0deg,
+            hsl(0, 0%, 0%) 0%,
+            hsla(0, 0%, 71%, 0) 50%,
             hsla(0, 0%, 100%, 0) 100%);
+    ;
 }
 
-.title-description-role{
+.title-description-role {
     text-transform: uppercase;
     font-size: 20px;
     margin: 0;
     margin-bottom: 2%;
 }
 
-.description-content-type img{
+.description-content-type img {
     width: 40px;
     height: 40px;
     margin-bottom: 1%;
 }
 
-.type-description-character{
+.type-description-character {
     text-transform: uppercase;
     font-size: 20px;
     margin: 0;
     margin-bottom: 1%;
 }
 
-.description-content-type{
+.description-content-type {
     width: 45%;
     height: 100%;
     display: flex;
@@ -170,7 +175,7 @@ body {
     flex-direction: column;
 }
 
-.description-content-function{
+.description-content-function {
     width: 65%;
     height: 100%;
     display: flex;
@@ -179,15 +184,148 @@ body {
     flex-direction: column;
 }
 
-.text-function-character{
-   text-transform: uppercase;
-   font-size: 25px;
-   margin: 0;
-   margin-top: 2%;
-   color: #CBAB70;
+.text-function-character {
+    text-transform: uppercase;
+    font-size: 25px;
+    margin: 0;
+    margin-top: 2%;
+    color: #CBAB70;
 }
 
-.text-content-history{
+.text-content-history {
     font-size: 16px;
     width: 80%;
+}
+
+/*skills page*/
+
+.content-video-skills-champions {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.video-skill {
+    width: 50%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.description-skill-champions {
+    width: 50%;
+    height: 70%;
+    /*background-color: yellow;*/
+    border: 1px solid rgb(150, 150, 150);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgba(7, 7, 7, 0.575);
+}
+
+.title-skills-champion {
+    width: 10%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.title-skills-champion p {
+    margin: 0;
+    transform: rotate(270deg);
+    color: white;
+    text-transform: uppercase;
+    font-size: 40px;
+    text-align: center;
+}
+
+.title-skills-champion-q-w {
+    width: 10%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.title-skills-champion-q-w p {
+    margin: 0;
+    color: white;
+    text-transform: uppercase;
+    font-size: 40px;
+    text-align: center;
+}
+
+.video-skill-champion {
+    width: 80%;
+    height: 70%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /*border: 1px solid rgb(167, 167, 167);*/
+}
+
+.video-info-skill {
+    object-fit: fill;
+    width: 100%;
+    height: 100%;
+}
+
+.border-video-skill {
+    width: 490px;
+    margin-right: 2%;
+    height: 335px;
+    position: absolute;
+    background-color: transparent;
+    border: 1px solid rgb(150, 150, 150);
+    border-radius: 1px;
+}
+
+.img-button-tabs {
+    width: 55px;
+    height: 55px;
+    background-size: cover;
+    border: 1px solid rgb(150, 150, 150);
+    border-radius: 1px;
+}
+
+.img-button-tabs:hover {
+    border: 1px solid #da971a;
+    transition: 0.5s;
+}
+
+.main-text-description-skill {
+    width: 95%;
+    display: flex;
+}
+
+.main-text-description-skill p {
+    font-size: 20px;
+    text-transform: uppercase;
+    margin-left: 1%;
+}
+
+.description-text-skill {
+    width: 95%;
+    height: 55%;
+}
+
+.description-text-skill p {
+    color: white;
+    margin-left: 1%;
+    font-size: 18px;
+}
+
+.type-text-skill {
+    color: #da971a;
+}
+
+.type-text-skill-name {
+    color: white;
+}
+
+.traco {
+    color: white;
 }

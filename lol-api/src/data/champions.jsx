@@ -48,7 +48,38 @@ const champions = [
                 "attackdamageperlevel": 5,
                 "attackspeedperlevel": 2.5,
                 "attackspeed": 0.651
-            }
+            },
+            "skills": [{
+                "type": "Passiva",
+                "name": "POSTURA DO ARAUTO DA MORTE",
+                "description": "Periodicamente, o próximo ataque básico de Aatrox causa Dano Físico adicional e o cura com base na Vida máxima do alvo.",
+                "image": "https://ddragon.leagueoflegends.com/cdn/13.21.1/img/passive/Aatrox_Passive.png",
+                "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0266/ability_0266_P1.webm"
+            }, {
+                "type": "Q",
+                "name": "A ESPADA DARKIN",
+                "description": "Aatrox bate sua espada no chão, causando Dano Físico. Ele pode bater até três vezes, cada vez em uma área de ação diferente.",
+                "image": "https://ddragon.leagueoflegends.com/cdn/13.21.1/img/spell/AatroxQ.png",
+                "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0266/ability_0266_Q1.webm"
+            }, {
+                "type": "W",
+                "name": "CORRENTES INFERNAIS",
+                "description": "Aatrox bate no chão, causando dano ao primeiro inimigo atingido. Campeões e Monstros Grandes precisam sair da área de impacto rapidamente ou serão arrastados para o centro e receberão dano novamente.",
+                "image": "https://ddragon.leagueoflegends.com/cdn/13.21.1/img/spell/AatroxW.png",
+                "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0266/ability_0266_W1.webm"
+            }, {
+                "type": "E",
+                "name": "AVANÇO UMBRAL",
+                "description": "Passivamente, Aatrox se cura quando causa dano a Campeões inimigos. Quando ativado, ele avança em uma direção.",
+                "image": "https://ddragon.leagueoflegends.com/cdn/13.21.1/img/spell/AatroxE.png",
+                "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0266/ability_0266_E1.webm"
+            }, {
+                "type": "Ultimate",
+                "name": "CORRENTES INFERNAIS",
+                "description": "Aatrox libera sua forma demoníaca, aterrorizando tropas inimigas próximas, ganhando Dano de Ataque, cura aumentada e Velocidade de Movimento. Se ele conseguir um abate, este efeito é estendido.",
+                "image": "https://ddragon.leagueoflegends.com/cdn/13.21.1/img/spell/AatroxR.png",
+                "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0266/ability_0266_R1.webm"
+            }]
         },
         {
             "version": "13.21.1",
@@ -98,7 +129,38 @@ const champions = [
                 "attackdamageperlevel": 3,
                 "attackspeedperlevel": 2,
                 "attackspeed": 0.668
-            }
+            },
+            "skills": [{
+                "type": "Passiva",
+                "name": "FURTO DE ESSÊNCIA",
+                "description": "Depois de abater 9 tropas ou monstros, Ahri se cura. Depois de eliminar um Campeão inimigo, Ahri se cura em uma quantidade ainda maior.",
+                "image": "https://ddragon.leagueoflegends.com/cdn/13.21.1/img/passive/Ahri_SoulEater2.png",
+                "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0103/ability_0103_P1.webm"
+            }, {
+                "type": "Q",
+                "name": "ORBE DA ILUSÃO",
+                "description": "Ahri lança e puxa de volta seu orbe, causando Dano Mágico na ida e Dano Verdadeiro na volta.",
+                "image": "https://ddragon.leagueoflegends.com/cdn/13.21.1/img/spell/AhriQ.png",
+                "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0103/ability_0103_Q1.webm"
+            }, {
+                "type": "W",
+                "name": "FOGO DE RAPOSA",
+                "description": "Ahri recebe um breve impulso de Velocidade de Movimento e lança três Fogos de Raposa que perseguem e atacam inimigos próximos.",
+                "image": "https://ddragon.leagueoflegends.com/cdn/13.21.1/img/spell/AhriW.png",
+                "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0103/ability_0103_W1.webm"
+            }, {
+                "type": "E",
+                "name": "ENCANTO",
+                "description": "Ahri manda um beijo que causa dano e encanta um inimigo, interrompendo imediatamente qualquer habilidade de movimento em progresso e fazendo com que ele ande inofensivamente em sua direção.",
+                "image": "https://ddragon.leagueoflegends.com/cdn/13.21.1/img/spell/AhriE.png",
+                "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0103/ability_0103_E1.webm"
+            }, {
+                "type": "Ultimate",
+                "name": "ÍMPETO ESPIRITUAL",
+                "description": "Ahri avança e dispara raios de essência, causando dano a inimigos próximos. Ímpeto Espiritual pode ser conjurada até três vezes antes de entrar em Tempo de Recarga e ganha reconjurações adicionais ao eliminar Campeões inimigos.",
+                "image": "https://ddragon.leagueoflegends.com/cdn/13.21.1/img/spell/AhriR.png",
+                "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0103/ability_0103_R1.webm"
+            }]
         },
         {
             "version": "13.21.1",
@@ -147,7 +209,38 @@ const champions = [
                 "attackdamageperlevel": 3.3,
                 "attackspeedperlevel": 3.2,
                 "attackspeed": 0.625
-            }
+            },
+            "skills": [{
+                "type": "Passiva",
+                "name": "MARCA DO ASSASSINO",
+                "description": "Causar dano a Campeões com habilidades cria um círculo de energia em volta deles. Sair desse círculo fortalece o próximo Ataque de Akali com alcance e dano adicionais.",
+                "image": "https://ddragon.leagueoflegends.com/cdn/13.21.1/img/passive/Akali_P.png",
+                "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0084/ability_0084_P1.webm"
+            }, {
+                "type": "Q",
+                "name": "GOLPE DOS CINCO PONTOS",
+                "description": "Akali atira cinco kunais, causando redução de velocidade e dano com base em seu Dano de Ataque adicional e Poder de Habilidade.",
+                "image": "https://ddragon.leagueoflegends.com/cdn/13.21.1/img/spell/AkaliQ.png",
+                "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0084/ability_0084_Q1.webm"
+            }, {
+                "type": "W",
+                "name": "PROTEÇÃO DO CREPÚSCULO",
+                "description": "Akali solta uma proteção de fumaça e recebe Velocidade de Movimento por um curto período. Enquanto estiver dentro da proteção, Akali se torna invisível e não pode ser selecionada como alvo de habilidades e ataques inimigos. Atacar ou usar habilidades fará com que ela seja revelada brevemente.",
+                "image": "https://ddragon.leagueoflegends.com/cdn/13.21.1/img/spell/AkaliW.png",
+                "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0084/ability_0084_W1.webm"
+            }, {
+                "type": "E",
+                "name": "INVESTIDA SHURIKEN",
+                "description": "Salta para trás e atira uma shuriken para a frente, causando Dano Mágico. O primeiro inimigo ou nuvem de fumaça que forem atingidos são marcados. Conjure novamente para avançar ao alvo marcado, causando dano adicional.",
+                "image": "https://ddragon.leagueoflegends.com/cdn/13.21.1/img/spell/AkaliE.png",
+                "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0084/ability_0084_E1.webm"
+            }, {
+                "type": "Ultimate",
+                "name": "EXECUÇÃO PERFEITA",
+                "description": "Akali salta em uma direção, causando dano aos inimigos que atingir. Conjurar novamente: Akali avança em uma direção, executando todos os inimigos que atingir.",
+                "image": "https://ddragon.leagueoflegends.com/cdn/13.21.1/img/spell/AkaliR.png",
+                "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0084/ability_0084_R1.webm"
+            }]
         },
         {
             "version": "13.21.1",
@@ -197,7 +290,38 @@ const champions = [
                 "attackdamageperlevel": 3,
                 "attackspeedperlevel": 4,
                 "attackspeed": 0.638
-            }
+            },
+            "skills": [{
+                "type": "Passiva",
+                "name": "LUTANDO SUJO",
+                "description": "Os Ataques e Habilidades de Akshan causam dano adicional a cada terceiro acerto e concedem a ele um Escudo se o alvo for um Campeão. Ao Atacar, ele desfere um Ataque adicional que causa dano reduzido. Se cancelar o Ataque adicional, ele recebe Velocidade de Movimento.",
+                "image": "https://ddragon.leagueoflegends.com/cdn/13.21.1/img/passive/akshan_p.png",
+                "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0166/ability_0166_P1.webm"
+            }, {
+                "type": "Q",
+                "name": "BUMERANGUE VINGATIVO",
+                "description": "Akshan arremessa um bumerangue que causa dano na ida e na volta, ganhando alcance a cada vez que atingir um inimigo.",
+                "image": "https://ddragon.leagueoflegends.com/cdn/13.21.1/img/spell/AkshanQ.png",
+                "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0166/ability_0166_Q1.webm"
+            }, {
+                "type": "W",
+                "name": "REBELDIA",
+                "description": "Akshan marca Campeões inimigos passivamente como Canalhas quando eles abatem Campeões aliados. Se Akshan abater um Canalha, ressuscita o aliado abatido, recebendo ouro adicional e removendo todas as marcas. Quando a Habilidade é ativada, Akshan fica camuflado, recebendo Velocidade de Movimento e Regeneração de Mana enquanto se move em direção a Canalhas. Akshan perde a camuflagem rapidamente enquanto não estiver em um arbusto ou próximo a um terreno.",
+                "image": "https://ddragon.leagueoflegends.com/cdn/13.21.1/img/spell/AkshanW.png",
+                "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0166/ability_0166_W1.webm"
+            }, {
+                "type": "E",
+                "name": "IMPULSO HEROICO",
+                "description": "Akshan dispara um arpéu em um terreno e se balança ao redor dele, atirando repetidamente no inimigo mais próximo enquanto estiver se balançando. Ele pode saltar antecipadamente ou ser derrubado ao colidir com Campeões ou terrenos.",
+                "image": "https://ddragon.leagueoflegends.com/cdn/13.21.1/img/spell/AkshanE.png",
+                "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0166/ability_0166_E1.webm"
+            }, {
+                "type": "Ultimate",
+                "name": "PUNIÇÃO",
+                "description": "Akshan trava a mira em um Campeão inimigo e começa a armazenar balas. Ao terminar, ele dispara todas as balas armazenadas, causando dano com base na Vida perdida do primeiro Campeão, tropa ou estrutura que atingir.",
+                "image": "https://ddragon.leagueoflegends.com/cdn/13.21.1/img/spell/AkshanR.png",
+                "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0166/ability_0166_R1.webm"
+            }]
         },
         {
             "version": "13.21.1",
@@ -247,7 +371,38 @@ const champions = [
                 "attackdamageperlevel": 3.75,
                 "attackspeedperlevel": 2.125,
                 "attackspeed": 0.625
-            }
+            },
+            "skills": [{
+                "type": "Passiva",
+                "name": "URRO TRIUNFANTE",
+                "description": "Alistar carrega seu urro ao atordoar, deslocar a posição de Campeões inimigos ou quando inimigos próximos morrem. Quando estiver com o máximo de cargas, ele cura a si mesmo e aos Campeões aliados próximos.",
+                "image": "https://ddragon.leagueoflegends.com/cdn/13.21.1/img/passive/Alistar_E.png",
+                "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0012/ability_0012_P1.webm"
+            }, {
+                "type": "Q",
+                "name": "PULVERIZAR",
+                "description": "Alistar golpeia o chão, causando dano a inimigos próximos e arremessando-os ao ar.",
+                "image": "https://ddragon.leagueoflegends.com/cdn/13.21.1/img/spell/Pulverize.png",
+                "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0012/ability_0012_Q1.webm"
+            }, {
+                "type": "W",
+                "name": "CABEÇADA",
+                "description": "Alistar atinge o inimigo com sua cabeça, causando dano e jogando o alvo para trás.",
+                "image": "https://ddragon.leagueoflegends.com/cdn/13.21.1/img/spell/Headbutt.png",
+                "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0012/ability_0012_W1.webm"
+            }, {
+                "type": "E",
+                "name": "ATROPELAR",
+                "description": "Alistar atropela unidades inimigas próximas, ignorando colisão com unidades e recebendo acúmulos caso cause dano a um Campeão inimigo. O próximo ataque básico com o máximo de acúmulos contra um Campeão inimigo causa Dano Mágico adicional e o atordoa.",
+                "image": "https://ddragon.leagueoflegends.com/cdn/13.21.1/img/spell/AlistarE.png",
+                "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0012/ability_0012_E1.webm"
+            }, {
+                "type": "Ultimate",
+                "name": "VONTADE INDESTRUTÍVEL",
+                "description": "Alistar solta um urro selvagem, removendo todos os efeitos de Controle de Grupo de si mesmo, além de reduzir o Dano Físico e Mágico enquanto durar o efeito.",
+                "image": "https://ddragon.leagueoflegends.com/cdn/13.21.1/img/spell/FerociousHowl.png",
+                "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0012/ability_0012_R1.webm"
+            }]
         },
         {
             "version": "13.21.1",
@@ -297,7 +452,38 @@ const champions = [
                 "attackdamageperlevel": 3.8,
                 "attackspeedperlevel": 2.18,
                 "attackspeed": 0.736
-            }
+            },
+            "skills": [{
+                "type": "Passiva",
+                "name": "TOQUE AMALDIÇOADO",
+                "description": "Os ataques básicos de Amumu Amaldiçoam seus inimigos, fazendo com que recebam Dano Verdadeiro adicional de qualquer Dano Mágico causado a eles.",
+                "image": "https://ddragon.leagueoflegends.com/cdn/13.21.1/img/passive/Amumu_Passive.png",
+                "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0032/ability_0032_P1.webm"
+            }, {
+                "type": "Q",
+                "name": "LANÇAR BANDAGENS",
+                "description": "Amumu lança uma bandagem pegajosa em seu alvo e se lança em sua direção, causando dano e atordoamento.",
+                "image": "https://ddragon.leagueoflegends.com/cdn/13.21.1/img/spell/BandageToss.png",
+                "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0032/ability_0032_Q1.webm"
+            }, {
+                "type": "W",
+                "name": "DESESPERO",
+                "description": "Tomados pela angústia, inimigos próximos perdem um percentual de sua Vida máxima a cada segundo e suas Maldições são restauradas.",
+                "image": "https://ddragon.leagueoflegends.com/cdn/13.21.1/img/spell/AuraofDespair.png",
+                "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0032/ability_0032_W1.webm"
+            }, {
+                "type": "E",
+                "name": "CHILIQUE",
+                "description": "Reduz permanentemente o Dano Físico que Amumu sofreria. Amumu pode liberar sua fúria, causando dano a inimigos próximos. Sempre que Amumu é atingido, o Tempo de Recarga de Chilique é reduzido.",
+                "image": "https://ddragon.leagueoflegends.com/cdn/13.21.1/img/spell/Tantrum.png",
+                "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0032/ability_0032_E1.webm"
+            }, {
+                "type": "Ultimate",
+                "name": "A MALDIÇÃO DA MÚMIA TRISTE",
+                "description": "Amumu amarra unidades inimigas ao seu redor com ataduras, aplicando Maldição, causando dano e atordoando-as.",
+                "image": "https://ddragon.leagueoflegends.com/cdn/13.21.1/img/spell/CurseoftheSadMummy.png",
+                "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0032/ability_0032_R1.webm"
+            }]
         },
         {
             "version": "13.21.1",
@@ -347,7 +533,38 @@ const champions = [
                 "attackdamageperlevel": 3.2,
                 "attackspeedperlevel": 1.68,
                 "attackspeed": 0.625
-            }
+            },
+            "skills": [{
+                "type": "Passiva",
+                "name": "RENASCIMENTO",
+                "description": "Ao receber dano letal, Anivia volta à forma de ovo e renasce com a Vida completa.",
+                "image": "https://ddragon.leagueoflegends.com/cdn/13.21.1/img/passive/Anivia_P.png",
+                "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0034/ability_0034_P1.webm"
+            }, {
+                "type": "Q",
+                "name": "LAMPEJO GELADO",
+                "description": "Anivia junta suas asas e invoca uma esfera de gelo que voa em direção ao oponente, congelando e causando dano a qualquer um em seu caminho. Ao explodir, ela causa dano moderado em um raio, atordoando qualquer um dentro da área.",
+                "image": "https://ddragon.leagueoflegends.com/cdn/13.21.1/img/spell/FlashFrost.png",
+                "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0034/ability_0034_Q1.webm"
+            }, {
+                "type": "W",
+                "name": "CRISTALIZAR",
+                "description": "Anivia condensa a umidade do ar, transformando-a num muro impenetrável de gelo que bloqueia todo o movimento. O muro dura um curto período antes de derreter.",
+                "image": "https://ddragon.leagueoflegends.com/cdn/13.21.1/img/spell/Crystallize.png",
+                "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0034/ability_0034_W1.webm"
+            }, {
+                "type": "E",
+                "name": "CONGELAMENTO",
+                "description": "Com um bater de asas, Anivia dispara uma rajada congelante de vento no alvo, causando dano. Se o alvo tiver sido atingido recentemente por Lampejo Gelado ou sofrido dano de uma Tempestade Glacial totalmente formada, o dano sofrido é dobrado.",
+                "image": "https://ddragon.leagueoflegends.com/cdn/13.21.1/img/spell/Frostbite.png",
+                "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0034/ability_0034_E1.webm"
+            }, {
+                "type": "Ultimate",
+                "name": "TEMPESTADE GLACIAL",
+                "description": "Anivia invoca uma chuva torrencial de gelo e granizo para causar dano aos inimigos e atrasar seu avanço.",
+                "image": "https://ddragon.leagueoflegends.com/cdn/13.21.1/img/spell/GlacialStorm.png",
+                "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0034/ability_0034_R1.webm"
+            }]
         },
         {
             "version": "13.21.1",
@@ -396,7 +613,38 @@ const champions = [
                 "attackdamageperlevel": 2.65,
                 "attackspeedperlevel": 1.36,
                 "attackspeed": 0.579
-            }
+            },
+            "skills": [{
+                "type": "Passiva",
+                "name": "PIROMANIA",
+                "description": "Após conjurar 4 Habilidades, a próxima Habilidade ofensiva de Annie atordoará o alvo. Annie começa a partida e ressurge com Piromania disponível.",
+                "image": "https://ddragon.leagueoflegends.com/cdn/13.21.1/img/passive/Annie_Passive.png",
+                "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0001/ability_0001_P1.webm"
+            }, {
+                "type": "Q",
+                "name": "DESINTEGRAR",
+                "description": "Annie arremessa uma bola de fogo infundida em Mana, causando dano e recuperando o custo de Mana caso o alvo seja destruído.",
+                "image": "https://ddragon.leagueoflegends.com/cdn/13.21.1/img/spell/AnnieQ.png",
+                "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0001/ability_0001_Q1.webm"
+            }, {
+                "type": "W",
+                "name": "INCINERAR",
+                "description": "Annie conjura um ardente cone de fogo, causando dano em todos os inimigos na área.",
+                "image": "https://ddragon.leagueoflegends.com/cdn/13.21.1/img/spell/AnnieW.png",
+                "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0001/ability_0001_W1.webm"
+            }, {
+                "type": "E",
+                "name": "ESCUDO FUNDIDO",
+                "description": "Annie concede um Escudo e um impulso de Velocidade de Movimento a si ou a um aliado, causando dano a inimigos que a atingirem com Ataques ou Habilidades.",
+                "image": "https://ddragon.leagueoflegends.com/cdn/13.21.1/img/spell/AnnieE.png",
+                "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0001/ability_0001_E1.webm"
+            }, {
+                "type": "Ultimate",
+                "name": "INVOCAR: TIBBERS",
+                "description": "Annie dá vida ao urso Tibbers, causando dano a unidades na área. Tibbers pode atacar e também queimar inimigos que ficarem próximos a ele.",
+                "image": "https://ddragon.leagueoflegends.com/cdn/13.21.1/img/spell/AnnieR.png",
+                "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0001/ability_0001_R1.webm"
+            }]
         },
         {
             "version": "13.21.1",
@@ -445,7 +693,38 @@ const champions = [
                 "attackdamageperlevel": 3,
                 "attackspeedperlevel": 2.1,
                 "attackspeed": 0.64
-            }
+            },
+            "skills": [{
+                "type": "Passiva",
+                "name": "O ASSASSINO E A PROFETISA",
+                "description": "Aphelios empunha 5 Armas Lunari criadas por sua irmã, Alune. Ele tem acesso a duas ao mesmo tempo: uma principal e uma secundária. Cada arma tem um ataque básico e uma Habilidade únicos. Ataques e habilidades consomem uma munição da arma. Quando fica sem munição, Aphelios descarta a arma e Alune invoca a próxima.",
+                "image": "https://ddragon.leagueoflegends.com/cdn/13.21.1/img/passive/ApheliosP.png",
+                "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0523/ability_0523_P1.webm"
+            }, {
+                "type": "Q",
+                "name": "HABILIDADES DA ARMA",
+                "description": "Aphelios tem 5 habilidades diferentes que são ativadas com base em sua arma principal: Calibrum (Rifle): Tiro de longo alcance que marca seu alvo para um disparo de longo alcance subsequente. Severum (Pistola-Foice): Corre rapidamente enquanto ataca inimigos próximos com ambas as armas. Gravitum (Canhão): Enraíza todos os inimigos afetados pela redução de velocidade desta arma. Infernum (Lança-chamas): Explode inimigos em área de cone e os ataca com sua arma secundária. Crescendum (Chakram): Posiciona uma atalaia que dispara com sua arma secundária.",
+                "image": "https://ddragon.leagueoflegends.com/cdn/13.21.1/img/spell/ApheliosQ_ClientTooltipWrapper.png",
+                "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0523/ability_0523_Q1.webm"
+            }, {
+                "type": "W",
+                "name": "FASE",
+                "description": "Aphelios troca a arma principal por sua arma secundária, substituindo seu ataque básico e a habilidade ativada.",
+                "image": "https://ddragon.leagueoflegends.com/cdn/13.21.1/img/spell/ApheliosW.png",
+                "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0523/ability_0523_W1.webm"
+            }, {
+                "type": "E",
+                "name": "SISTEMA DE ORDENAÇÃO DE ARMAS",
+                "description": "Aphelios não tem uma terceira habilidade. Este espaço mostra a próxima arma que Alune concederá a ele. A ordem das armas é fixa, mas pode variar ao longo da partida. Quando uma arma estiver sem munição, ela volta para o fim da sequência.",
+                "image": "https://ddragon.leagueoflegends.com/cdn/13.21.1/img/spell/ApheliosE_ClientTooltipWrapper.png",
+                "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0523/ability_0523_W1.webm"
+            }, {
+                "type": "Ultimate",
+                "name": "VIGÍLIA DO PLENILÚNIO",
+                "description": "Dispara uma rajada concentrada de luar que explode ao atingir Campeões inimigos. Aplica o efeito único da arma principal de Aphelios.",
+                "image": "https://ddragon.leagueoflegends.com/cdn/13.21.1/img/spell/ApheliosR.png",
+                "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0523/ability_0523_R1.webm"
+            }]
         },
         {
             "version": "13.21.1",
@@ -495,506 +774,537 @@ const champions = [
                 "attackdamageperlevel": 2.95,
                 "attackspeedperlevel": 3.33,
                 "attackspeed": 0.658
-            }
+            },
+            "skills": [{
+                "type": "Passiva",
+                "name": "TIRO CONGELADO",
+                "description": "Os ataques de Ashe reduzem a velocidade do alvo e fazem com que ela cause mais dano a ele. Os Acertos Críticos de Ashe não causam dano adicional, mas reduzem ainda mais a velocidade do alvo.",
+                "image": "https://ddragon.leagueoflegends.com/cdn/13.21.1/img/passive/Ashe_P.png",
+                "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0022/ability_0022_P1.webm"
+            }, {
+                "type": "Q",
+                "name": "CONCENTRAÇÃO",
+                "description": "Ashe acumula Foco ao atacar. Quando o Foco chega ao máximo, Ashe pode conjurar Concentração para consumir todos os acúmulos de Foco, aumentando temporariamente sua Velocidade de Ataque e transformando seu ataque básico em uma poderosa rajada de ataques pela duração do efeito.",
+                "image": "https://ddragon.leagueoflegends.com/cdn/13.21.1/img/spell/AsheQ.png",
+                "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0022/ability_0022_Q1.webm"
+            }, {
+                "type": "W",
+                "name": "RAJADA",
+                "description": "Ashe dispara flechas em cone, causando dano aumentado. Também aplica Tiro Congelado.",
+                "image": "https://ddragon.leagueoflegends.com/cdn/13.21.1/img/spell/Volley.png",
+                "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0022/ability_0022_W1.webm"
+            }, {
+                "type": "E",
+                "name": "OLHAR DO FALCÃO",
+                "description": "Ashe envia seu Espírito do Falcão em uma missão de exploração em qualquer ponto do mapa.",
+                "image": "https://ddragon.leagueoflegends.com/cdn/13.21.1/img/spell/AsheSpiritOfTheHawk.png",
+                "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0022/ability_0022_E1.webm"
+            }, {
+                "type": "Ultimate",
+                "name": "FLECHA DE CRISTAL ENCANTADA",
+                "description": "Ashe dispara um projétil de gelo em linha reta. Se a flecha colidir com um Campeão inimigo, ela causa dano e o atordoa. A duração do atordoamento depende da distância percorrida pela flecha. Além disso, unidades inimigas próximas recebem dano e lentidão.",
+                "image": "https://ddragon.leagueoflegends.com/cdn/13.21.1/img/spell/EnchantedCrystalArrow.png",
+                "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0022/ability_0022_R1.webm"
+            }]
         }
     ],
     [
         {
-        "version": "13.21.1",
-        "id": "AurelionSol",
-        "key": "136",
-        "name": "Aurelion Sol",
-        "title": "O FORJADOR DE ESTRELAS",
-        "blurb": "Aurelion Sol costumava agraciar a vasta imensidão vazia dos cosmos com maravilhas celestiais concebidas por ele mesmo. Agora, ele é forçado a usar seu incrível poder a mando de um império espacial remoto que o enganou e o mantém sob servidão. Desejando voltar a forjar estrelas, Aurelion Sol arrastará as próprias estrelas dos céus se for preciso para recuperar sua liberdade.",
-        "info": {
-            "attack": 2,
-            "defense": 3,
-            "magic": 8,
-            "difficulty": 7
+            "version": "13.21.1",
+            "id": "AurelionSol",
+            "key": "136",
+            "name": "Aurelion Sol",
+            "title": "O FORJADOR DE ESTRELAS",
+            "blurb": "Aurelion Sol costumava agraciar a vasta imensidão vazia dos cosmos com maravilhas celestiais concebidas por ele mesmo. Agora, ele é forçado a usar seu incrível poder a mando de um império espacial remoto que o enganou e o mantém sob servidão. Desejando voltar a forjar estrelas, Aurelion Sol arrastará as próprias estrelas dos céus se for preciso para recuperar sua liberdade.",
+            "info": {
+                "attack": 2,
+                "defense": 3,
+                "magic": 8,
+                "difficulty": 7
+            },
+            "image": {
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/AurelionSol_0.jpg",
+                "lane": "https://cdn3.emoji.gg/emojis/6934-lol-role-mid.png",
+                "group": "champion",
+                "x": 0,
+                "y": 48,
+                "w": 48,
+                "h": 48
+            },
+            "tags": [
+                "Mago"
+            ],
+            "partype": "Mana",
+            "stats": {
+                "hp": 620,
+                "hpperlevel": 90,
+                "mp": 530,
+                "mpperlevel": 40,
+                "movespeed": 335,
+                "armor": 22,
+                "armorperlevel": 4,
+                "spellblock": 30,
+                "spellblockperlevel": 1.3,
+                "attackrange": 550,
+                "hpregen": 5.5,
+                "hpregenperlevel": 0.55,
+                "mpregen": 8,
+                "mpregenperlevel": 0.75,
+                "crit": 0,
+                "critperlevel": 0,
+                "attackdamage": 55,
+                "attackdamageperlevel": 3.2,
+                "attackspeedperlevel": 1.5,
+                "attackspeed": 0.625
+            }
         },
-        "image": {
-            "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/AurelionSol_0.jpg",
-            "lane": "https://cdn3.emoji.gg/emojis/6934-lol-role-mid.png",
-            "group": "champion",
-            "x": 0,
-            "y": 48,
-            "w": 48,
-            "h": 48
+        {
+            "version": "13.21.1",
+            "id": "Azir",
+            "key": "268",
+            "name": "Azir",
+            "title": "O IMPERADOR DAS AREIAS",
+            "blurb": "Azir foi um imperador mortal de Shurima em uma era muito antiga e um homem orgulhoso que esteve a um passo da imortalidade. Sua insolência fez com que fosse traído e assassinado no momento de seu maior triunfo, mas agora, milênios depois, ele renasceu como um Ascendente de poder imenso. Com sua cidade antes soterrada agora erguida, Azir busca devolver Shurima à sua antiga glória.",
+            "info": {
+                "attack": 6,
+                "defense": 3,
+                "magic": 8,
+                "difficulty": 9
+            },
+            "image": {
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Azir_0.jpg",
+                "lane": "https://cdn3.emoji.gg/emojis/6934-lol-role-mid.png",
+                "group": "champion",
+                "x": 48,
+                "y": 48,
+                "w": 48,
+                "h": 48
+            },
+            "tags": [
+                "Mago, ",
+                " Atirador"
+            ],
+            "partype": "Mana",
+            "stats": {
+                "hp": 550,
+                "hpperlevel": 119,
+                "mp": 320,
+                "mpperlevel": 40,
+                "movespeed": 335,
+                "armor": 22,
+                "armorperlevel": 5,
+                "spellblock": 30,
+                "spellblockperlevel": 1.3,
+                "attackrange": 525,
+                "hpregen": 7,
+                "hpregenperlevel": 0.75,
+                "mpregen": 8,
+                "mpregenperlevel": 0.8,
+                "crit": 0,
+                "critperlevel": 0,
+                "attackdamage": 52,
+                "attackdamageperlevel": 3.5,
+                "attackspeedperlevel": 6,
+                "attackspeed": 0.625
+            }
         },
-        "tags": [
-            "Mago"
-        ],
-        "partype": "Mana",
-        "stats": {
-            "hp": 620,
-            "hpperlevel": 90,
-            "mp": 530,
-            "mpperlevel": 40,
-            "movespeed": 335,
-            "armor": 22,
-            "armorperlevel": 4,
-            "spellblock": 30,
-            "spellblockperlevel": 1.3,
-            "attackrange": 550,
-            "hpregen": 5.5,
-            "hpregenperlevel": 0.55,
-            "mpregen": 8,
-            "mpregenperlevel": 0.75,
-            "crit": 0,
-            "critperlevel": 0,
-            "attackdamage": 55,
-            "attackdamageperlevel": 3.2,
-            "attackspeedperlevel": 1.5,
-            "attackspeed": 0.625
+        {
+            "version": "13.21.1",
+            "id": "Bard",
+            "key": "432",
+            "name": "Bardo",
+            "title": "O PROTETOR ANDARILHO",
+            "blurb": "Viajante de galáxias distantes, Bardo é um agente do acaso que luta para manter um equilíbrio em que a vida possa suportar a indiferença do caos. Muitos habitantes de Runeterra entoam canções que louvam sua extraordinária índole, mas todos concordam que o andarilho cósmico é chegado a artefatos de grande poder mágico. Cercado por um jubiloso coral de prestativos mipes espirituais, é impossível enxergar suas ações como malevolentes, pois Bardo sempre serve ao bem maior... de sua própria maneira estranha.",
+            "info": {
+                "attack": 4,
+                "defense": 4,
+                "magic": 5,
+                "difficulty": 9
+            },
+            "image": {
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Bard_0.jpg",
+                "lane": "https://cdn3.emoji.gg/emojis/7990-lol-role-support.png",
+                "group": "champion",
+                "x": 96,
+                "y": 48,
+                "w": 48,
+                "h": 48
+            },
+            "tags": [
+                "Suporte, ",
+                " Mago"
+            ],
+            "partype": "Mana",
+            "stats": {
+                "hp": 630,
+                "hpperlevel": 103,
+                "mp": 350,
+                "mpperlevel": 50,
+                "movespeed": 330,
+                "armor": 34,
+                "armorperlevel": 5.2,
+                "spellblock": 30,
+                "spellblockperlevel": 1.3,
+                "attackrange": 500,
+                "hpregen": 5.5,
+                "hpregenperlevel": 0.55,
+                "mpregen": 6,
+                "mpregenperlevel": 0.45,
+                "crit": 0,
+                "critperlevel": 0,
+                "attackdamage": 52,
+                "attackdamageperlevel": 3,
+                "attackspeedperlevel": 2,
+                "attackspeed": 0.625
+            }
+        },
+        {
+            "version": "13.21.1",
+            "id": "Belveth",
+            "key": "200",
+            "name": "Bel'Veth",
+            "title": "A IMPERATRIZ DO VAZIO",
+            "blurb": "Bel'Veth, uma imperatriz tenebrosa nascida da essência de uma cidade devorada, é o fim da própria Runeterra... E o início de uma realidade monstruosa criada à sua imagem. Guiada por eras de história, conhecimento e lembranças adaptadas do mundo superior, ela se alimenta vorazmente de uma necessidade cada vez maior de novas experiências e emoções, consumindo tudo que cruza o seu caminho. Mas seus desejos jamais serão saciados por apenas um mundo, e é por isso que ela volta seus olhos famintos para os antigos mestres do Vazio...",
+            "info": {
+                "attack": 4,
+                "defense": 2,
+                "magic": 7,
+                "difficulty": 10
+            },
+            "image": {
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Belveth_0.jpg",
+                "lane": "https://cdn3.emoji.gg/emojis/1152-lol-role-jungle.png",
+                "group": "champion",
+                "x": 144,
+                "y": 48,
+                "w": 48,
+                "h": 48
+            },
+            "tags": [
+                "Lutador"
+            ],
+            "partype": "",
+            "stats": {
+                "hp": 610,
+                "hpperlevel": 99,
+                "mp": 60,
+                "mpperlevel": 0,
+                "movespeed": 340,
+                "armor": 32,
+                "armorperlevel": 4.7,
+                "spellblock": 32,
+                "spellblockperlevel": 2.05,
+                "attackrange": 175,
+                "hpregen": 6,
+                "hpregenperlevel": 0.6,
+                "mpregen": 0,
+                "mpregenperlevel": 0,
+                "crit": 0,
+                "critperlevel": 0,
+                "attackdamage": 60,
+                "attackdamageperlevel": 1.5,
+                "attackspeedperlevel": 0,
+                "attackspeed": 0.85
+            }
+        },
+        {
+            "version": "13.21.1",
+            "id": "Blitzcrank",
+            "key": "53",
+            "name": "Blitzcrank",
+            "title": "O GRANDE GOLEM A VAPOR",
+            "blurb": "Blitzcrank é um autômato enorme e praticamente indestrutível de Zaun, construído originalmente para lidar com lixo tóxico. No entanto, ele achou seu propósito principal muito restritivo e modificou sua própria forma para ajudar as pessoas menos favorecidas do Sumidouro. Blitzcrank usa sua força e robustez para proteger os outros sem pedir nada em troca, estendendo seu punho de metal ou surto de energia para derrotar qualquer encrenqueiro.",
+            "info": {
+                "attack": 4,
+                "defense": 8,
+                "magic": 5,
+                "difficulty": 4
+            },
+            "image": {
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Blitzcrank_0.jpg",
+                "lane": "https://cdn3.emoji.gg/emojis/7990-lol-role-support.png",
+                "group": "champion",
+                "x": 192,
+                "y": 48,
+                "w": 48,
+                "h": 48
+            },
+            "tags": [
+                "Tanque, ",
+                " Lutador"
+            ],
+            "partype": "Mana",
+            "stats": {
+                "hp": 650,
+                "hpperlevel": 109,
+                "mp": 267,
+                "mpperlevel": 40,
+                "movespeed": 325,
+                "armor": 40,
+                "armorperlevel": 4.7,
+                "spellblock": 32,
+                "spellblockperlevel": 2.05,
+                "attackrange": 125,
+                "hpregen": 7.5,
+                "hpregenperlevel": 0.75,
+                "mpregen": 8.5,
+                "mpregenperlevel": 0.8,
+                "crit": 0,
+                "critperlevel": 0,
+                "attackdamage": 62,
+                "attackdamageperlevel": 3.5,
+                "attackspeedperlevel": 1.13,
+                "attackspeed": 0.625
+            }
+        },
+        {
+            "version": "13.21.1",
+            "id": "Brand",
+            "key": "63",
+            "name": "Brand",
+            "title": "A VINGANÇA FLAMEJANTE",
+            "blurb": "A criatura conhecida como Brand já se chamou Kegan Rodhe, um membro da gélida Freljord, e é hoje uma lição do que a tentação por poderes maiores pode fazer. Enquanto buscava uma das lendárias Runas Globais, Kegan traiu seus companheiros e a pegou para si e, em um instante, o homem já não existia mais. Com sua alma consumida pelo fogo e seu corpo um invólucro de uma chama viva, Brand agora vaga por Valoran em busca de outras runas, jurando vingança por erros que ele nunca poderia ter sofrido em uma dúzia de vidas mortais.",
+            "info": {
+                "attack": 2,
+                "defense": 2,
+                "magic": 9,
+                "difficulty": 4
+            },
+            "image": {
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Brand_0.jpg",
+                "lane": "https://cdn3.emoji.gg/emojis/7990-lol-role-support.png",
+                "group": "champion",
+                "x": 240,
+                "y": 48,
+                "w": 48,
+                "h": 48
+            },
+            "tags": [
+                "Mago"
+            ],
+            "partype": "Mana",
+            "stats": {
+                "hp": 570,
+                "hpperlevel": 105,
+                "mp": 469,
+                "mpperlevel": 21,
+                "movespeed": 340,
+                "armor": 27,
+                "armorperlevel": 4.2,
+                "spellblock": 30,
+                "spellblockperlevel": 1.3,
+                "attackrange": 550,
+                "hpregen": 5.5,
+                "hpregenperlevel": 0.55,
+                "mpregen": 10.65,
+                "mpregenperlevel": 0.6,
+                "crit": 0,
+                "critperlevel": 0,
+                "attackdamage": 57,
+                "attackdamageperlevel": 3,
+                "attackspeedperlevel": 2,
+                "attackspeed": 0.681
+            }
+        },
+        {
+            "version": "13.21.1",
+            "id": "Braum",
+            "key": "201",
+            "name": "Braum",
+            "title": "O CORAÇÃO DE FRELJORD",
+            "blurb": "Abençoado com bíceps gigantescos e um coração maior ainda, Braum é um amado herói de Freljord. Cada salão de hidromel ao norte de Frostheld brinda sua força lendária que teria derrubado uma floresta de carvalhos em uma única noite e demolido uma montanha inteira com um soco. Carregando uma porta de cofre encantada como seu escudo, Braum vaga pelo norte congelado com seu sorriso abigodado tão grande quanto seus músculos, um verdadeiro amigo para os necessitados.",
+            "info": {
+                "attack": 3,
+                "defense": 9,
+                "magic": 4,
+                "difficulty": 3
+            },
+            "image": {
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Braum_0.jpg",
+                "lane": "https://cdn3.emoji.gg/emojis/7990-lol-role-support.png",
+                "group": "champion",
+                "x": 288,
+                "y": 48,
+                "w": 48,
+                "h": 48
+            },
+            "tags": [
+                "Suporte, ",
+                " Tanque"
+            ],
+            "partype": "Mana",
+            "stats": {
+                "hp": 610,
+                "hpperlevel": 112,
+                "mp": 311,
+                "mpperlevel": 45,
+                "movespeed": 335,
+                "armor": 47,
+                "armorperlevel": 5.2,
+                "spellblock": 32,
+                "spellblockperlevel": 2.05,
+                "attackrange": 125,
+                "hpregen": 8.5,
+                "hpregenperlevel": 1,
+                "mpregen": 6,
+                "mpregenperlevel": 0.8,
+                "crit": 0,
+                "critperlevel": 0,
+                "attackdamage": 55,
+                "attackdamageperlevel": 3.2,
+                "attackspeedperlevel": 3.5,
+                "attackspeed": 0.644
+            }
+        },
+        {
+            "version": "13.21.1",
+            "id": "Briar",
+            "key": "233",
+            "name": "Briar",
+            "title": "A FOME CONTIDA",
+            "blurb": "A incontrolável sede de sangue de Briar, um experimento fracassado da Rosa Negra, exigia uma estrutura especial para controlar sua mente frenética. Após anos de confinamento, essa arma viva se libertou de todas as restrições e ficou livre no mundo. Agora ela não é controlada por ninguém, seguindo apenas sua própria fome de conhecimento e sangue... e aproveitando as oportunidades para se soltar, mesmo que controlar o frenesi não seja fácil.",
+            "info": {
+                "attack": 9,
+                "defense": 5,
+                "magic": 3,
+                "difficulty": 3
+            },
+            "image": {
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Briar_0.jpg",
+                "lane": "https://cdn3.emoji.gg/emojis/1152-lol-role-jungle.png",
+                "group": "champion",
+                "x": 336,
+                "y": 48,
+                "w": 48,
+                "h": 48
+            },
+            "tags": [
+                "Lutador, ",
+                " Assassino"
+            ],
+            "partype": "Fury",
+            "stats": {
+                "hp": 610,
+                "hpperlevel": 100,
+                "mp": 0,
+                "mpperlevel": 0,
+                "movespeed": 340,
+                "armor": 32,
+                "armorperlevel": 4.2,
+                "spellblock": 32,
+                "spellblockperlevel": 2.05,
+                "attackrange": 125,
+                "hpregen": 0,
+                "hpregenperlevel": 0,
+                "mpregen": 0,
+                "mpregenperlevel": 0,
+                "crit": 0,
+                "critperlevel": 0,
+                "attackdamage": 60,
+                "attackdamageperlevel": 3,
+                "attackspeedperlevel": 2,
+                "attackspeed": 0.644
+            }
+        },
+        {
+            "version": "13.21.1",
+            "id": "Caitlyn",
+            "key": "51",
+            "name": "Caitlyn",
+            "title": "A XERIFE DE PILTOVER",
+            "blurb": "Conhecida como sua melhor pacificadora, Caitlyn também é a melhor escolha de Piltover para livrar a cidade de seus elementos criminosos elusivos. É comum que ela faça dupla com Vi, agindo como um contraponto de calmaria para a natureza impetuosa de sua parceira. Mesmo carregando um rifle hextec único, a arma mais poderosa de Caitlyn é seu intelecto superior, que permite que ela prepare elaboradas armadilhas para qualquer fora da lei tolo o suficiente para operar na Cidade do Progresso",
+            "info": {
+                "attack": 8,
+                "defense": 2,
+                "magic": 2,
+                "difficulty": 6
+            },
+            "image": {
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Caitlyn_0.jpg",
+                "lane": "https://cdn3.emoji.gg/emojis/9366-lol-role-bot.png",
+                "group": "champion",
+                "x": 384,
+                "y": 48,
+                "w": 48,
+                "h": 48
+            },
+            "tags": [
+                "Atirador"
+            ],
+            "partype": "Mana",
+            "stats": {
+                "hp": 580,
+                "hpperlevel": 107,
+                "mp": 315,
+                "mpperlevel": 40,
+                "movespeed": 325,
+                "armor": 27,
+                "armorperlevel": 4.7,
+                "spellblock": 30,
+                "spellblockperlevel": 1.3,
+                "attackrange": 650,
+                "hpregen": 3.5,
+                "hpregenperlevel": 0.55,
+                "mpregen": 7.4,
+                "mpregenperlevel": 0.7,
+                "crit": 0,
+                "critperlevel": 0,
+                "attackdamage": 60,
+                "attackdamageperlevel": 3.8,
+                "attackspeedperlevel": 4,
+                "attackspeed": 0.681
+            }
+        },
+        {
+            "version": "13.21.1",
+            "id": "Camille",
+            "key": "164",
+            "name": "Camille",
+            "title": "A SOMBRA DE AÇO",
+            "blurb": "Munida para agir além dos limites da lei, Camille é a chefe de inteligência do Clã Ferros e uma elegante agente de elite, responsável pelo bom funcionamento da máquina de Piltover e de Zaun, seu submundo. Adaptável e precisa, ela vê técnicas medíocres como uma vergonha que precisa ser consertada. Com uma mente tão afiada quanto suas lâminas, a busca de Camille por superioridade através de aprimoramentos hextec para seu corpo fez com que muitos se perguntassem se ela é agora mais máquina do que mulher.",
+            "info": {
+                "attack": 8,
+                "defense": 6,
+                "magic": 3,
+                "difficulty": 4
+            },
+            "image": {
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Camille_0.jpg",
+                "lane": "https://cdn3.emoji.gg/emojis/7990-lol-role-top.png",
+                "group": "champion",
+                "x": 432,
+                "y": 48,
+                "w": 48,
+                "h": 48
+            },
+            "tags": [
+                "Lutador, ",
+                " Tanque"
+            ],
+            "partype": "Mana",
+            "stats": {
+                "hp": 646,
+                "hpperlevel": 99,
+                "mp": 339,
+                "mpperlevel": 52,
+                "movespeed": 340,
+                "armor": 35,
+                "armorperlevel": 5,
+                "spellblock": 32,
+                "spellblockperlevel": 2.05,
+                "attackrange": 125,
+                "hpregen": 8.5,
+                "hpregenperlevel": 0.8,
+                "mpregen": 8.15,
+                "mpregenperlevel": 0.75,
+                "crit": 0,
+                "critperlevel": 0,
+                "attackdamage": 68,
+                "attackdamageperlevel": 3.8,
+                "attackspeedperlevel": 2.5,
+                "attackspeed": 0.644
+            }
         }
-    },
-    {
-        "version": "13.21.1",
-        "id": "Azir",
-        "key": "268",
-        "name": "Azir",
-        "title": "O IMPERADOR DAS AREIAS",
-        "blurb": "Azir foi um imperador mortal de Shurima em uma era muito antiga e um homem orgulhoso que esteve a um passo da imortalidade. Sua insolência fez com que fosse traído e assassinado no momento de seu maior triunfo, mas agora, milênios depois, ele renasceu como um Ascendente de poder imenso. Com sua cidade antes soterrada agora erguida, Azir busca devolver Shurima à sua antiga glória.",
-        "info": {
-            "attack": 6,
-            "defense": 3,
-            "magic": 8,
-            "difficulty": 9
-        },
-        "image": {
-            "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Azir_0.jpg",
-            "lane": "https://cdn3.emoji.gg/emojis/6934-lol-role-mid.png",
-            "group": "champion",
-            "x": 48,
-            "y": 48,
-            "w": 48,
-            "h": 48
-        },
-        "tags": [
-            "Mago, ",
-            " Atirador"
-        ],
-        "partype": "Mana",
-        "stats": {
-            "hp": 550,
-            "hpperlevel": 119,
-            "mp": 320,
-            "mpperlevel": 40,
-            "movespeed": 335,
-            "armor": 22,
-            "armorperlevel": 5,
-            "spellblock": 30,
-            "spellblockperlevel": 1.3,
-            "attackrange": 525,
-            "hpregen": 7,
-            "hpregenperlevel": 0.75,
-            "mpregen": 8,
-            "mpregenperlevel": 0.8,
-            "crit": 0,
-            "critperlevel": 0,
-            "attackdamage": 52,
-            "attackdamageperlevel": 3.5,
-            "attackspeedperlevel": 6,
-            "attackspeed": 0.625
-        }
-    },
-    {
-        "version": "13.21.1",
-        "id": "Bard",
-        "key": "432",
-        "name": "Bardo",
-        "title": "O PROTETOR ANDARILHO",
-        "blurb": "Viajante de galáxias distantes, Bardo é um agente do acaso que luta para manter um equilíbrio em que a vida possa suportar a indiferença do caos. Muitos habitantes de Runeterra entoam canções que louvam sua extraordinária índole, mas todos concordam que o andarilho cósmico é chegado a artefatos de grande poder mágico. Cercado por um jubiloso coral de prestativos mipes espirituais, é impossível enxergar suas ações como malevolentes, pois Bardo sempre serve ao bem maior... de sua própria maneira estranha.",
-        "info": {
-            "attack": 4,
-            "defense": 4,
-            "magic": 5,
-            "difficulty": 9
-        },
-        "image": {
-            "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Bard_0.jpg",
-            "lane": "https://cdn3.emoji.gg/emojis/7990-lol-role-support.png",
-            "group": "champion",
-            "x": 96,
-            "y": 48,
-            "w": 48,
-            "h": 48
-        },
-        "tags": [
-            "Suporte, ",
-            " Mago"
-        ],
-        "partype": "Mana",
-        "stats": {
-            "hp": 630,
-            "hpperlevel": 103,
-            "mp": 350,
-            "mpperlevel": 50,
-            "movespeed": 330,
-            "armor": 34,
-            "armorperlevel": 5.2,
-            "spellblock": 30,
-            "spellblockperlevel": 1.3,
-            "attackrange": 500,
-            "hpregen": 5.5,
-            "hpregenperlevel": 0.55,
-            "mpregen": 6,
-            "mpregenperlevel": 0.45,
-            "crit": 0,
-            "critperlevel": 0,
-            "attackdamage": 52,
-            "attackdamageperlevel": 3,
-            "attackspeedperlevel": 2,
-            "attackspeed": 0.625
-        }
-    },
-    {
-        "version": "13.21.1",
-        "id": "Belveth",
-        "key": "200",
-        "name": "Bel'Veth",
-        "title": "A IMPERATRIZ DO VAZIO",
-        "blurb": "Bel'Veth, uma imperatriz tenebrosa nascida da essência de uma cidade devorada, é o fim da própria Runeterra... E o início de uma realidade monstruosa criada à sua imagem. Guiada por eras de história, conhecimento e lembranças adaptadas do mundo superior, ela se alimenta vorazmente de uma necessidade cada vez maior de novas experiências e emoções, consumindo tudo que cruza o seu caminho. Mas seus desejos jamais serão saciados por apenas um mundo, e é por isso que ela volta seus olhos famintos para os antigos mestres do Vazio...",
-        "info": {
-            "attack": 4,
-            "defense": 2,
-            "magic": 7,
-            "difficulty": 10
-        },
-        "image": {
-            "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Belveth_0.jpg",
-            "lane": "https://cdn3.emoji.gg/emojis/1152-lol-role-jungle.png",
-            "group": "champion",
-            "x": 144,
-            "y": 48,
-            "w": 48,
-            "h": 48
-        },
-        "tags": [
-            "Lutador"
-        ],
-        "partype": "",
-        "stats": {
-            "hp": 610,
-            "hpperlevel": 99,
-            "mp": 60,
-            "mpperlevel": 0,
-            "movespeed": 340,
-            "armor": 32,
-            "armorperlevel": 4.7,
-            "spellblock": 32,
-            "spellblockperlevel": 2.05,
-            "attackrange": 175,
-            "hpregen": 6,
-            "hpregenperlevel": 0.6,
-            "mpregen": 0,
-            "mpregenperlevel": 0,
-            "crit": 0,
-            "critperlevel": 0,
-            "attackdamage": 60,
-            "attackdamageperlevel": 1.5,
-            "attackspeedperlevel": 0,
-            "attackspeed": 0.85
-        }
-    },
-    {
-        "version": "13.21.1",
-        "id": "Blitzcrank",
-        "key": "53",
-        "name": "Blitzcrank",
-        "title": "O GRANDE GOLEM A VAPOR",
-        "blurb": "Blitzcrank é um autômato enorme e praticamente indestrutível de Zaun, construído originalmente para lidar com lixo tóxico. No entanto, ele achou seu propósito principal muito restritivo e modificou sua própria forma para ajudar as pessoas menos favorecidas do Sumidouro. Blitzcrank usa sua força e robustez para proteger os outros sem pedir nada em troca, estendendo seu punho de metal ou surto de energia para derrotar qualquer encrenqueiro.",
-        "info": {
-            "attack": 4,
-            "defense": 8,
-            "magic": 5,
-            "difficulty": 4
-        },
-        "image": {
-            "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Blitzcrank_0.jpg",
-            "lane": "https://cdn3.emoji.gg/emojis/7990-lol-role-support.png",
-            "group": "champion",
-            "x": 192,
-            "y": 48,
-            "w": 48,
-            "h": 48
-        },
-        "tags": [
-            "Tanque, ",
-            " Lutador"
-        ],
-        "partype": "Mana",
-        "stats": {
-            "hp": 650,
-            "hpperlevel": 109,
-            "mp": 267,
-            "mpperlevel": 40,
-            "movespeed": 325,
-            "armor": 40,
-            "armorperlevel": 4.7,
-            "spellblock": 32,
-            "spellblockperlevel": 2.05,
-            "attackrange": 125,
-            "hpregen": 7.5,
-            "hpregenperlevel": 0.75,
-            "mpregen": 8.5,
-            "mpregenperlevel": 0.8,
-            "crit": 0,
-            "critperlevel": 0,
-            "attackdamage": 62,
-            "attackdamageperlevel": 3.5,
-            "attackspeedperlevel": 1.13,
-            "attackspeed": 0.625
-        }
-    },
-    {
-        "version": "13.21.1",
-        "id": "Brand",
-        "key": "63",
-        "name": "Brand",
-        "title": "A VINGANÇA FLAMEJANTE",
-        "blurb": "A criatura conhecida como Brand já se chamou Kegan Rodhe, um membro da gélida Freljord, e é hoje uma lição do que a tentação por poderes maiores pode fazer. Enquanto buscava uma das lendárias Runas Globais, Kegan traiu seus companheiros e a pegou para si e, em um instante, o homem já não existia mais. Com sua alma consumida pelo fogo e seu corpo um invólucro de uma chama viva, Brand agora vaga por Valoran em busca de outras runas, jurando vingança por erros que ele nunca poderia ter sofrido em uma dúzia de vidas mortais.",
-        "info": {
-            "attack": 2,
-            "defense": 2,
-            "magic": 9,
-            "difficulty": 4
-        },
-        "image": {
-            "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Brand_0.jpg",
-            "lane": "https://cdn3.emoji.gg/emojis/7990-lol-role-support.png",
-            "group": "champion",
-            "x": 240,
-            "y": 48,
-            "w": 48,
-            "h": 48
-        },
-        "tags": [
-            "Mago"
-        ],
-        "partype": "Mana",
-        "stats": {
-            "hp": 570,
-            "hpperlevel": 105,
-            "mp": 469,
-            "mpperlevel": 21,
-            "movespeed": 340,
-            "armor": 27,
-            "armorperlevel": 4.2,
-            "spellblock": 30,
-            "spellblockperlevel": 1.3,
-            "attackrange": 550,
-            "hpregen": 5.5,
-            "hpregenperlevel": 0.55,
-            "mpregen": 10.65,
-            "mpregenperlevel": 0.6,
-            "crit": 0,
-            "critperlevel": 0,
-            "attackdamage": 57,
-            "attackdamageperlevel": 3,
-            "attackspeedperlevel": 2,
-            "attackspeed": 0.681
-        }
-    },
-    {
-        "version": "13.21.1",
-        "id": "Braum",
-        "key": "201",
-        "name": "Braum",
-        "title": "O CORAÇÃO DE FRELJORD",
-        "blurb": "Abençoado com bíceps gigantescos e um coração maior ainda, Braum é um amado herói de Freljord. Cada salão de hidromel ao norte de Frostheld brinda sua força lendária que teria derrubado uma floresta de carvalhos em uma única noite e demolido uma montanha inteira com um soco. Carregando uma porta de cofre encantada como seu escudo, Braum vaga pelo norte congelado com seu sorriso abigodado tão grande quanto seus músculos, um verdadeiro amigo para os necessitados.",
-        "info": {
-            "attack": 3,
-            "defense": 9,
-            "magic": 4,
-            "difficulty": 3
-        },
-        "image": {
-            "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Braum_0.jpg",
-            "lane": "https://cdn3.emoji.gg/emojis/7990-lol-role-support.png",
-            "group": "champion",
-            "x": 288,
-            "y": 48,
-            "w": 48,
-            "h": 48
-        },
-        "tags": [
-            "Suporte, ",
-            " Tanque"
-        ],
-        "partype": "Mana",
-        "stats": {
-            "hp": 610,
-            "hpperlevel": 112,
-            "mp": 311,
-            "mpperlevel": 45,
-            "movespeed": 335,
-            "armor": 47,
-            "armorperlevel": 5.2,
-            "spellblock": 32,
-            "spellblockperlevel": 2.05,
-            "attackrange": 125,
-            "hpregen": 8.5,
-            "hpregenperlevel": 1,
-            "mpregen": 6,
-            "mpregenperlevel": 0.8,
-            "crit": 0,
-            "critperlevel": 0,
-            "attackdamage": 55,
-            "attackdamageperlevel": 3.2,
-            "attackspeedperlevel": 3.5,
-            "attackspeed": 0.644
-        }
-    },
-    {
-        "version": "13.21.1",
-        "id": "Briar",
-        "key": "233",
-        "name": "Briar",
-        "title": "A FOME CONTIDA",
-        "blurb": "A incontrolável sede de sangue de Briar, um experimento fracassado da Rosa Negra, exigia uma estrutura especial para controlar sua mente frenética. Após anos de confinamento, essa arma viva se libertou de todas as restrições e ficou livre no mundo. Agora ela não é controlada por ninguém, seguindo apenas sua própria fome de conhecimento e sangue... e aproveitando as oportunidades para se soltar, mesmo que controlar o frenesi não seja fácil.",
-        "info": {
-            "attack": 9,
-            "defense": 5,
-            "magic": 3,
-            "difficulty": 3
-        },
-        "image": {
-            "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Briar_0.jpg",
-            "lane": "https://cdn3.emoji.gg/emojis/1152-lol-role-jungle.png",
-            "group": "champion",
-            "x": 336,
-            "y": 48,
-            "w": 48,
-            "h": 48
-        },
-        "tags": [
-            "Lutador, ",
-            " Assassino"
-        ],
-        "partype": "Fury",
-        "stats": {
-            "hp": 610,
-            "hpperlevel": 100,
-            "mp": 0,
-            "mpperlevel": 0,
-            "movespeed": 340,
-            "armor": 32,
-            "armorperlevel": 4.2,
-            "spellblock": 32,
-            "spellblockperlevel": 2.05,
-            "attackrange": 125,
-            "hpregen": 0,
-            "hpregenperlevel": 0,
-            "mpregen": 0,
-            "mpregenperlevel": 0,
-            "crit": 0,
-            "critperlevel": 0,
-            "attackdamage": 60,
-            "attackdamageperlevel": 3,
-            "attackspeedperlevel": 2,
-            "attackspeed": 0.644
-        }
-    },
-    {
-        "version": "13.21.1",
-        "id": "Caitlyn",
-        "key": "51",
-        "name": "Caitlyn",
-        "title": "A XERIFE DE PILTOVER",
-        "blurb": "Conhecida como sua melhor pacificadora, Caitlyn também é a melhor escolha de Piltover para livrar a cidade de seus elementos criminosos elusivos. É comum que ela faça dupla com Vi, agindo como um contraponto de calmaria para a natureza impetuosa de sua parceira. Mesmo carregando um rifle hextec único, a arma mais poderosa de Caitlyn é seu intelecto superior, que permite que ela prepare elaboradas armadilhas para qualquer fora da lei tolo o suficiente para operar na Cidade do Progresso",
-        "info": {
-            "attack": 8,
-            "defense": 2,
-            "magic": 2,
-            "difficulty": 6
-        },
-        "image": {
-            "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Caitlyn_0.jpg",
-            "lane": "https://cdn3.emoji.gg/emojis/9366-lol-role-bot.png",
-            "group": "champion",
-            "x": 384,
-            "y": 48,
-            "w": 48,
-            "h": 48
-        },
-        "tags": [
-            "Atirador"
-        ],
-        "partype": "Mana",
-        "stats": {
-            "hp": 580,
-            "hpperlevel": 107,
-            "mp": 315,
-            "mpperlevel": 40,
-            "movespeed": 325,
-            "armor": 27,
-            "armorperlevel": 4.7,
-            "spellblock": 30,
-            "spellblockperlevel": 1.3,
-            "attackrange": 650,
-            "hpregen": 3.5,
-            "hpregenperlevel": 0.55,
-            "mpregen": 7.4,
-            "mpregenperlevel": 0.7,
-            "crit": 0,
-            "critperlevel": 0,
-            "attackdamage": 60,
-            "attackdamageperlevel": 3.8,
-            "attackspeedperlevel": 4,
-            "attackspeed": 0.681
-        }
-    },
-    {
-        "version": "13.21.1",
-        "id": "Camille",
-        "key": "164",
-        "name": "Camille",
-        "title": "A SOMBRA DE AÇO",
-        "blurb": "Munida para agir além dos limites da lei, Camille é a chefe de inteligência do Clã Ferros e uma elegante agente de elite, responsável pelo bom funcionamento da máquina de Piltover e de Zaun, seu submundo. Adaptável e precisa, ela vê técnicas medíocres como uma vergonha que precisa ser consertada. Com uma mente tão afiada quanto suas lâminas, a busca de Camille por superioridade através de aprimoramentos hextec para seu corpo fez com que muitos se perguntassem se ela é agora mais máquina do que mulher.",
-        "info": {
-            "attack": 8,
-            "defense": 6,
-            "magic": 3,
-            "difficulty": 4
-        },
-        "image": {
-            "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Camille_0.jpg",
-            "lane": "https://cdn3.emoji.gg/emojis/7990-lol-role-top.png",
-            "group": "champion",
-            "x": 432,
-            "y": 48,
-            "w": 48,
-            "h": 48
-        },
-        "tags": [
-            "Lutador, ",
-            " Tanque"
-        ],
-        "partype": "Mana",
-        "stats": {
-            "hp": 646,
-            "hpperlevel": 99,
-            "mp": 339,
-            "mpperlevel": 52,
-            "movespeed": 340,
-            "armor": 35,
-            "armorperlevel": 5,
-            "spellblock": 32,
-            "spellblockperlevel": 2.05,
-            "attackrange": 125,
-            "hpregen": 8.5,
-            "hpregenperlevel": 0.8,
-            "mpregen": 8.15,
-            "mpregenperlevel": 0.75,
-            "crit": 0,
-            "critperlevel": 0,
-            "attackdamage": 68,
-            "attackdamageperlevel": 3.8,
-            "attackspeedperlevel": 2.5,
-            "attackspeed": 0.644
-        }
-    }
     ],
     [{
         "version": "13.21.1",

@@ -856,7 +856,38 @@ const champions = [
                 "attackdamageperlevel": 3.2,
                 "attackspeedperlevel": 1.5,
                 "attackspeed": 0.625
-            }
+            },
+            "skills": [{
+                "type": "Passiva",
+                "name": "CRIADOR CÓSMICO",
+                "description": "As Habilidades de dano de Aurelion Sol reduzem inimigos a acúmulos de Poeira Estelar, melhorando permanentemente cada uma das Habilidades dele.",
+                "image": "https://ddragon.leagueoflegends.com/cdn/13.21.1/img/passive/AurelionSolP.png",
+                "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0136/ability_0136_P1.webm"
+            }, {
+                "type": "Q",
+                "name": "SOPRO DE LUZ",
+                "description": "Aurelion Sol canaliza seu hálito de dragão por alguns segundos, causando dano ao primeiro inimigo atingido e espalhando dano reduzido a inimigos próximos. O hálito causará dano adicional para cada segundo que for canalizado diretamente em um inimigo, ficando mais forte à medida que coleta mais Poeira Estelar. Essa habilidade coleta Poeira Estelar se o alvo for um Campeão.",
+                "image": "https://ddragon.leagueoflegends.com/cdn/13.21.1/img/spell/AurelionSolQ.png",
+                "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0136/ability_0136_Q1.webm"
+            }, {
+                "type": "W",
+                "name": "VOO ASTRAL",
+                "description": "Aurelion Sol voa sobre terrenos na direção-alvo. Enquanto estiver nesse estado, ele pode conjurar outras habilidades. Sopro de Luz não tem mais Tempo de Recarga ou duração máxima de canalização e causa dano aumentado durante o voo. O Tempo de Recarga restante de Voo Astral é reduzido sempre que um Campeão inimigo que sofreu dano recente de Aurelion Sol morre. Poeira Estelar aumenta o alcance máximo de Voo Astral.",
+                "image": "https://ddragon.leagueoflegends.com/cdn/13.21.1/img/spell/AurelionSolW.png",
+                "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0136/ability_0136_W1.webm"
+            }, {
+                "type": "E",
+                "name": "SINGULARIDADE",
+                "description": "Aurelion Sol invoca um buraco negro, causando dano aos inimigos e puxando-os lentamente para o centro. A Habilidade concede Poeira Estelar sempre que um inimigo morre dentro do buraco negro e a cada segundo que um Campeão inimigo passar preso dentro dele. O centro do buraco negro executa inimigos que estiverem com a Vida abaixo de uma determinada porcentagem da Vida máxima. Poeira Estelar aumenta a área e o limiar de execução de Singularidade.",
+                "image": "https://ddragon.leagueoflegends.com/cdn/13.21.1/img/spell/AurelionSolE.png",
+                "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0136/ability_0136_E1.webm"
+            }, {
+                "type": "Ultimate",
+                "name": "ESTRELA CADENTE/OS CÉUS CAEM",
+                "description": "Estrela Cadente: Aurelion Sol faz uma estrela cair na terra. O impacto causa Dano Mágico e atordoa inimigos, além de conceder Poeira Estelar a cada Campeão inimigo atingido. Obter Poeira Estelar suficiente transformará a próxima Estrela Cadente de Aurelion Sol em Os Céus Caem. Os Céus Caem: Aurelion Sol faz cair uma estrela gigante dos céus com zona de impacto e dano aumentados, além de arremessar os inimigos ao ar em vez de atordoá-los. Depois, uma onda de choque se espalha a partir do limite da zona de impacto, causando dano e Lentidão aos inimigos atingidos. Poeira Estelar aumenta a área de impacto tanto de Estrela Cadente quanto de Os Céus Caem.",
+                "image": "https://ddragon.leagueoflegends.com/cdn/13.21.1/img/spell/AurelionSolR.png",
+                "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0136/ability_0136_R1.webm"
+            }]
         },
         {
             "version": "13.21.1",
@@ -906,7 +937,38 @@ const champions = [
                 "attackdamageperlevel": 3.5,
                 "attackspeedperlevel": 6,
                 "attackspeed": 0.625
-            }
+            },
+            "skills": [{
+                "type": "Passiva",
+                "name": "LEGADO DE SHURIMA",
+                "description": "Azir pode invocar o Disco Solar das ruínas de uma torre aliada ou inimiga.",
+                "image": "https://ddragon.leagueoflegends.com/cdn/13.21.1/img/passive/Azir_Passive.png",
+                "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0268/ability_0268_P1.webm"
+            }, {
+                "type": "Q",
+                "name": "AREIAS DA CONQUISTA",
+                "description": "Azir comanda todos os Soldados de Areia na direção do local-alvo. Eles causam Dano Mágico aos inimigos que atravessam e aplicam redução de velocidade por 1 segundo.",
+                "image": "https://ddragon.leagueoflegends.com/cdn/13.21.1/img/spell/AzirQWrapper.png",
+                "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0268/ability_0268_Q1.webm"
+            }, {
+                "type": "W",
+                "name": "SURJA!",
+                "description": "Azir invoca um Soldado de Areia para atacar alvos próximos por ele, substituindo seu ataque básico contra alvos dentro do alcance do soldado. Seu ataque causa Dano Mágico a inimigos em linha reta. Surja! também concede Velocidade de Ataque passiva a Azir e seus Soldados de Areia.",
+                "image": "https://ddragon.leagueoflegends.com/cdn/13.21.1/img/spell/AzirW.png",
+                "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0268/ability_0268_W1.webm"
+            }, {
+                "type": "E",
+                "name": "AREIAS OSCILANTES",
+                "description": "Azir se protege com um escudo por um momento e avança na direção de um de seus Soldados de Areia, causando dano aos inimigos atingidos. Se Azir acertar um Campeão inimigo, ele prepara instantaneamente um novo Soldado de Areia para mobilização e cessa seu avanço.",
+                "image": "https://ddragon.leagueoflegends.com/cdn/13.21.1/img/spell/AzirEWrapper.png",
+                "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0268/ability_0268_E1.webm"
+            }, {
+                "type": "Ultimate",
+                "name": "DECRETO DO IMPERADOR",
+                "description": "Azir invoca uma parede de soldados que marcha em frente, causando dano e empurrando para trás os inimigos.",
+                "image": "https://ddragon.leagueoflegends.com/cdn/13.21.1/img/spell/AzirR.png",
+                "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0268/ability_0268_R1.webm"
+            }]
         },
         {
             "version": "13.21.1",
@@ -956,7 +1018,38 @@ const champions = [
                 "attackdamageperlevel": 3,
                 "attackspeedperlevel": 2,
                 "attackspeed": 0.625
-            }
+            },
+            "skills": [{
+                "type": "Passiva",
+                "name": "CHAMADO DO VIAJANTE",
+                "description": "Mipes: Bardo atrai pequenos espíritos que ajudam em seus ataques básicos e causam Dano Mágico adicional. Quando Bardo coleta sinos o suficiente, os mipes também causam dano em uma área e reduzem a velocidade de inimigos atingidos. Sinos: sinos ancestrais aparecem aleatoriamente para Bardo coletar. Eles concedem experiência, Velocidade de Movimento fora de combate e restauram Mana.",
+                "image": "https://ddragon.leagueoflegends.com/cdn/13.21.1/img/passive/Bard_Passive.png",
+                "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0432/ability_0432_P1.webm"
+            }, {
+                "type": "Q",
+                "name": "PRISÃO CÓSMICA",
+                "description": "Bardo dispara um projétil que causa Lentidão ao primeiro inimigo atingido, mantendo seu trajeto em seguida. Caso atinja uma parede, atordoará o alvo inicial; caso atinja outro inimigo, ambos serão atordoados.",
+                "image": "https://ddragon.leagueoflegends.com/cdn/13.21.1/img/spell/BardQ.png",
+                "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0432/ability_0432_Q1.webm"
+            }, {
+                "type": "W",
+                "name": "SANTUÁRIO DO PROTETOR",
+                "description": "Revela um santuário de Vida que fica mais forte ao longo de um curto período, desaparecendo depois de curar e acelerar o primeiro aliado que o tocar.",
+                "image": "https://ddragon.leagueoflegends.com/cdn/13.21.1/img/spell/BardW.png",
+                "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0432/ability_0432_W1.webm"
+            }, {
+                "type": "E",
+                "name": "JORNADA MÁGICA",
+                "description": "Bardo abre um portal em terreno próximo. Tanto aliados quanto inimigos podem fazer uma viagem de ida através deste terreno ao entrar pelo portal.",
+                "image": "https://ddragon.leagueoflegends.com/cdn/13.21.1/img/spell/BardE.png",
+                "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0432/ability_0432_E1.webm"
+            }, {
+                "type": "Ultimate",
+                "name": "TÊMPERA DO DESTINO",
+                "description": "Bardo desfere um arco de energia espiritual em um local-alvo, colocando todos os Campeões, tropas, monstros e torres atingidos em estase por um curto período de tempo.",
+                "image": "https://ddragon.leagueoflegends.com/cdn/13.21.1/img/spell/BardR.png",
+                "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0432/ability_0432_R1.webm"
+            }]
         },
         {
             "version": "13.21.1",
@@ -1005,7 +1098,38 @@ const champions = [
                 "attackdamageperlevel": 1.5,
                 "attackspeedperlevel": 0,
                 "attackspeed": 0.85
-            }
+            },
+            "skills": [{
+                "type": "Passiva",
+                "name": "MORTE EM LAVANDA",
+                "description": "Bel'Veth recebe acúmulos de Velocidade de Ataque permanente depois de eliminar tropas, monstros grandes e Campeões. Além disso, ela recebe Velocidade de Ataque adicional temporária depois de usar uma Habilidade.",
+                "image": "https://ddragon.leagueoflegends.com/cdn/13.21.1/img/passive/Belveth_Passive.png",
+                "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0200/ability_0200_P1.webm"
+            }, {
+                "type": "Q",
+                "name": "IMPULSO DO VAZIO",
+                "description": "Bel'Veth avança na direção escolhida e causa dano a todos os inimigos atravessados.",
+                "image": "https://ddragon.leagueoflegends.com/cdn/13.21.1/img/spell/BelvethQ.png",
+                "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0200/ability_0200_Q1.webm"
+            }, {
+                "type": "W",
+                "name": "ACIMA E ABAIXO",
+                "description": "Bel'Veth bate a cauda no chão, causando dano e Lentidão, além de Arremessar os inimigos ao ar.",
+                "image": "https://ddragon.leagueoflegends.com/cdn/13.21.1/img/spell/BelvethW.png",
+                "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0200/ability_0200_W1.webm"
+            }, {
+                "type": "E",
+                "name": "TURBILHÃO DA REALEZA",
+                "description": "Bel'Veth se enraíza num lugar, canalizando uma tempestade de golpes ao redor de si, visando o inimigo com a Vida mais baixa, além de receber Roubo de Vida e redução de dano.",
+                "image": "https://ddragon.leagueoflegends.com/cdn/13.21.1/img/spell/BelvethE.png",
+                "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0200/ability_0200_E1.webm"
+            }, {
+                "type": "Ultimate",
+                "name": "BANQUETE ETERNO",
+                "description": "Bel'Veth consome os restos de Coral do Vazio e revela sua Forma Verdadeira, aumentando a própria Vida máxima, Alcance de Ataque, Velocidade de Ataque e Velocidade de Movimento fora de combate. Consumir Coral do Vazio dos restos de um monstro épico concederá a ela uma ultimate de maior duração, assim como a capacidade de invocar rêmoras do Vazio.",
+                "image": "https://ddragon.leagueoflegends.com/cdn/13.21.1/img/spell/BelvethR.png",
+                "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0200/ability_0200_R1.webm"
+            }]
         },
         {
             "version": "13.21.1",
@@ -1055,7 +1179,38 @@ const champions = [
                 "attackdamageperlevel": 3.5,
                 "attackspeedperlevel": 1.13,
                 "attackspeed": 0.625
-            }
+            },
+            "skills": [{
+                "type": "Passiva",
+                "name": "BARREIRA DE MANA",
+                "description": "Blitzcrank recebe um Escudo com base em seu Mana ao ficar com a Vida baixa.",
+                "image": "https://ddragon.leagueoflegends.com/cdn/13.21.1/img/passive/Blitzcrank_ManaBarrier.png",
+                "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0053/ability_0053_P1.webm"
+            }, {
+                "type": "Q",
+                "name": "PUXÃO BIÔNICO",
+                "description": "Blitzcrank dispara a mão direita para pegar um inimigo no trajeto, causando dano e puxando-o em sua direção.",
+                "image": "https://ddragon.leagueoflegends.com/cdn/13.21.1/img/spell/RocketGrab.png",
+                "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0053/ability_0053_Q1.webm"
+            }, {
+                "type": "W",
+                "name": "TURBO",
+                "description": "Blitzcrank sobrecarrega-se para aumentar drasticamente suas Velocidades de Ataque e de Movimento. Após o fim do efeito, sofre Lentidão temporariamente.",
+                "image": "https://ddragon.leagueoflegends.com/cdn/13.21.1/img/spell/Overdrive.png",
+                "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0053/ability_0053_W1.webm"
+            }, {
+                "type": "E",
+                "name": "PUNHO DO PODER",
+                "description": "Blitzcrank carrega seu punho para fazer com que o próximo Ataque cause o dobro de dano e arremesse o alvo ao ar.",
+                "image": "https://ddragon.leagueoflegends.com/cdn/13.21.1/img/spell/PowerFist.png",
+                "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0053/ability_0053_E1.webm"
+            }, {
+                "type": "Ultimate",
+                "name": "CAMPO ESTÁTICO",
+                "description": "Inimigos atacados por Blitzcrank são marcados e sofrem dano de eletricidade após 1s. Ele também pode ativar esta habilidade para remover escudos de inimigos próximos, causar dano e silenciá-los brevemente.",
+                "image": "https://ddragon.leagueoflegends.com/cdn/13.21.1/img/spell/StaticField.png",
+                "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0053/ability_0053_R1.webm"
+            }]
         },
         {
             "version": "13.21.1",
@@ -1104,7 +1259,38 @@ const champions = [
                 "attackdamageperlevel": 3,
                 "attackspeedperlevel": 2,
                 "attackspeed": 0.681
-            }
+            },
+            "skills": [{
+                "type": "Passiva",
+                "name": "LABAREDA",
+                "description": "As habilidades de Brand deixam seus alvos incandescentes, causando dano ao longo de 4s, acumulando até 3 vezes. Se Brand abate um inimigo que estiver incandescente, ele recupera Mana. Quando Labareda chegar ao máximo de acúmulos em um Campeão ou monstro grande, ela se torna instável. Detona depois de 2s, aplicando efeitos de habilidades e causando muito dano em uma área ao redor da vítima.",
+                "image": "https://ddragon.leagueoflegends.com/cdn/13.21.1/img/passive/BrandP.png",
+                "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0063/ability_0063_P1.webm"
+            }, {
+                "type": "Q",
+                "name": "CAUTERIZAR",
+                "description": "Brand lança uma bola de fogo que causa Dano Mágico. Se o alvo estiver incandescente, Cauterizar o atordoará por 1,5s.",
+                "image": "https://ddragon.leagueoflegends.com/cdn/13.21.1/img/spell/BrandQ.png",
+                "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0063/ability_0063_Q1.webm"
+            }, {
+                "type": "W",
+                "name": "PILAR DE CHAMAS",
+                "description": "Após um curto intervalo, Brand cria um Pilar de Chamas na área alvo, causando Dano Mágico a unidades inimigas na área. Unidades que estiverem incandescentes sofrem 25% de dano adicional.",
+                "image": "https://ddragon.leagueoflegends.com/cdn/13.21.1/img/spell/BrandW.png",
+                "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0063/ability_0063_W1.webm"
+            }, {
+                "type": "E",
+                "name": "CONFLAGRAÇÃO",
+                "description": "Brand conjura uma poderosa explosão no alvo que se espalha para inimigos próximos, causando Dano Mágico. Se o alvo estiver incandescente, o alcance de Conflagração será dobrado.",
+                "image": "https://ddragon.leagueoflegends.com/cdn/13.21.1/img/spell/BrandE.png",
+                "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0063/ability_0063_E1.webm"
+            }, {
+                "type": "Ultimate",
+                "name": "PIROCLASMA",
+                "description": "Brand desfere uma devastadora torrente de fogo que ressalta 5 vezes, indo de Brand aos inimigos próximos e causando Dano Mágico a cada vez que ressaltar. Os ressaltos priorizam acumular Labareda ao máximo em Campeões. Se o alvo estiver incandescente, Piroclasma causará breve Lentidão a ele.",
+                "image": "https://ddragon.leagueoflegends.com/cdn/13.21.1/img/spell/BrandR.png",
+                "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0063/ability_0063_R1.webm"
+            }]
         },
         {
             "version": "13.21.1",
@@ -1154,7 +1340,38 @@ const champions = [
                 "attackdamageperlevel": 3.2,
                 "attackspeedperlevel": 3.5,
                 "attackspeed": 0.644
-            }
+            },
+            "skills": [{
+                "type": "Passiva",
+                "name": "GOLPES CONCUSSIVOS",
+                "description": "Os ataques básicos de Braum aplicam Golpes Concussivos. Uma vez que o primeiro acúmulo é aplicado, os ataques básicos de aliados também acumulam Golpes Concussivos. Ao atingir 4 acúmulos, o alvo é atordoado e sofre Dano Mágico. Pelos próximos segundos, ele não pode receber acúmulos, mas recebe Dano Mágico adicional dos ataques de Braum.",
+                "image": "https://ddragon.leagueoflegends.com/cdn/13.21.1/img/passive/Braum_Passive.png",
+                "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0201/ability_0201_P1.webm"
+            }, {
+                "type": "Q",
+                "name": "MORDIDA DO INVERNO",
+                "description": "Braum dispara rajadas congelantes de seu escudo, causando Dano Mágico e redução de velocidade. Aplica um acúmulo de Golpes Concussivos.",
+                "image": "https://ddragon.leagueoflegends.com/cdn/13.21.1/img/spell/BraumQ.png",
+                "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0201/ability_0201_Q1.webm"
+            }, {
+                "type": "W",
+                "name": "EU TE PROTEJO",
+                "description": "Braum salta à frente de um Campeão ou tropa aliada alvo. Ao aterrissar, ele e o aliado recebem Armadura e Resistência Mágica por alguns segundos.",
+                "image": "https://ddragon.leagueoflegends.com/cdn/13.21.1/img/spell/BraumW.png",
+                "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0201/ability_0201_W1.webm"
+            }, {
+                "type": "E",
+                "name": "INQUEBRÁVEL",
+                "description": "Braum levanta seu escudo em uma direção por muitos segundos, interceptando todos os projéteis e fazendo com que o atinjam e sejam destruídos. Ele nega completamente o dano do primeiro ataque e reduz o dano de todos os ataques seguintes provenientes da mesma direção.",
+                "image": "https://ddragon.leagueoflegends.com/cdn/13.21.1/img/spell/BraumE.png",
+                "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0201/ability_0201_E1.webm"
+            }, {
+                "type": "Ultimate",
+                "name": "FISSURA GLACIAL",
+                "description": "Braum golpeia o chão, arremessando ao ar inimigos próximos e em linha reta à sua frente. Uma fissura é deixada no caminho, causando redução de velocidade nos inimigos.",
+                "image": "https://ddragon.leagueoflegends.com/cdn/13.21.1/img/spell/BraumRWrapper.png",
+                "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0201/ability_0201_R1.webm"
+            }]
         },
         {
             "version": "13.21.1",
@@ -1204,7 +1421,38 @@ const champions = [
                 "attackdamageperlevel": 3,
                 "attackspeedperlevel": 2,
                 "attackspeed": 0.644
-            }
+            },
+            "skills": [{
+                "type": "Passiva",
+                "name": "MALDIÇÃO CARMESIM",
+                "description": "Os Ataques e as Habilidades de Briar acumulam sangramento que cura Briar numa quantidade do dano causado. Constantemente faminta, ela ganha cura aumentada com base na Vida perdida, mas não tem Regeneração de Vida inata.",
+                "image": "https://ddragon.leagueoflegends.com/cdn/13.21.1/img/passive/BriarP.Briar.png",
+                "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0233/ability_0233_P1.webm"
+            }, {
+                "type": "Q",
+                "name": "VERTIGEM",
+                "description": "Briar salta até uma unidade e atinge inimigos com um golpe giratório, atordoando e fragmentando a Armadura de todos que atingir.",
+                "image": "https://ddragon.leagueoflegends.com/cdn/13.21.1/img/spell/BriarQ.png",
+                "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0233/ability_0233_Q1.webm"
+            }, {
+                "type": "W",
+                "name": "FRENESI SANGUINÁRIO/ATAQUE FAMINTO",
+                "description": "Briar salta e quebra sua berlinda, entrando num Frenesi Sanguinário que faz com que ela persiga o inimigo mais próximo (priorizando Campeões). Enquanto estiver no Frenesi, ela ganha Velocidade de Ataque e Velocidade de Movimento aumentadas, e seus ataques causam dano em área perto do alvo. Briar pode reativar esta Habilidade enquanto estiver no Frenesi para dar uma MORDIDA no alvo no próximo ataque dela, causando dano adicional baseado na Vida perdida e cura com base no dano causado.",
+                "image": "https://ddragon.leagueoflegends.com/cdn/13.21.1/img/spell/BriarW.png",
+                "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0233/ability_0233_W1.webm"
+            }, {
+                "type": "E",
+                "name": "GRITO ARREPIANTE",
+                "description": "Briar se concentra novamente, removendo Frenesi Sanguinário e canalizando sua energia em um grito poderoso que causa dano e Lentidão a inimigos. Ao carregar, ela recebe dano reduzido e se cura em uma parte de sua Vida máxima. Um grito totalmente carregado empurra inimigos, causando dano adicional e atordoando os que atingirem uma parede.",
+                "image": "https://ddragon.leagueoflegends.com/cdn/13.21.1/img/spell/BriarE.png",
+                "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0233/ability_0233_E1.webm"
+            }, {
+                "type": "Ultimate",
+                "name": "MORTE CERTA",
+                "description": "Briar lança o hemólito da berlinda dela, marcando o primeiro Campeão atingido como sua presa. Depois, ela avança diretamente, causando temor a inimigos próximos ao chegar no alvo e entrando num estado de hemomania total. Ela persegue a presa até a morte, recebendo os benefícios de Frenesi Sanguinário, além de Armadura, Resistência Mágica, Roubo de Vida e Velocidade de Movimento adicionais.",
+                "image": "https://ddragon.leagueoflegends.com/cdn/13.21.1/img/spell/BriarR.png",
+                "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0233/ability_0233_R1.webm"
+            }]
         },
         {
             "version": "13.21.1",
@@ -1253,7 +1501,38 @@ const champions = [
                 "attackdamageperlevel": 3.8,
                 "attackspeedperlevel": 4,
                 "attackspeed": 0.681
-            }
+            },
+            "skills": [{
+                "type": "Passiva",
+                "name": "BEM NA MIRA",
+                "description": "A cada poucos ataques básicos, ou contra um alvo preso em uma armadilha ou rede, Caitlyn fará um disparo Bem na Mira causando dano adicional que escala com sua Chance de Acerto Crítico. Em alvos presos por armadilhas ou pela rede, o alcance de Bem na Mira de Caitlyn é dobrado.",
+                "image": "https://ddragon.leagueoflegends.com/cdn/13.21.1/img/passive/Caitlyn_Headshot.png",
+                "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0051/ability_0051_P1.webm"
+            }, {
+                "type": "Q",
+                "name": "PACIFICADORA DE PILTOVER",
+                "description": "Caitlyn prepara seu rifle por 1s para fazer um disparo penetrante que causa Dano Físico (causa menos dano a alvos subsequentes).",
+                "image": "https://ddragon.leagueoflegends.com/cdn/13.21.1/img/spell/CaitlynQ.png",
+                "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0051/ability_0051_Q1.webm"
+            }, {
+                "type": "W",
+                "name": "ARMADILHA MECÂNICA YORDLE",
+                "description": "Caitlyn posiciona uma armadilha que, quando ativada, revela e imobiliza o Campeão inimigo por 1,5s e concede a Caitlyn um Bem na Mira fortalecido.",
+                "image": "https://ddragon.leagueoflegends.com/cdn/13.21.1/img/spell/CaitlynW.png",
+                "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0051/ability_0051_W1.webm"
+            }, {
+                "type": "E",
+                "name": "REDE CALIBRE 90",
+                "description": "Caitlyn atira uma rede pesada para reduzir a velocidade do seu alvo. O recuo projeta Caitlyn para trás.",
+                "image": "https://ddragon.leagueoflegends.com/cdn/13.21.1/img/spell/CaitlynE.png",
+                "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0051/ability_0051_E1.webm"
+            }, {
+                "type": "Ultimate",
+                "name": "ÁS NA MANGA",
+                "description": "Caitlyn se concentra para fazer o disparo perfeito, causando dano drástico em um único alvo a uma longa distância. Campeões inimigos podem interceptar o projétil e tomar dano no lugar de seu aliado.",
+                "image": "https://ddragon.leagueoflegends.com/cdn/13.21.1/img/spell/CaitlynR.png",
+                "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0051/ability_0051_R1.webm"
+            }]
         },
         {
             "version": "13.21.1",
@@ -1303,7 +1582,38 @@ const champions = [
                 "attackdamageperlevel": 3.8,
                 "attackspeedperlevel": 2.5,
                 "attackspeed": 0.644
-            }
+            },
+            "skills": [{
+                "type": "Passiva",
+                "name": "DEFESA ADAPTATIVA",
+                "description": "Ataques básicos contra Campeões concedem um Escudo equivalente a uma porcentagem da Vida máxima de Camille contra o tipo de dano deles (Físico ou Mágico) por um breve período.",
+                "image": "https://ddragon.leagueoflegends.com/cdn/13.21.1/img/passive/Camille_Passive.png",
+                "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0164/ability_0164_P1.webm"
+            }, {
+                "type": "Q",
+                "name": "PROTOCOLO DE PRECISÃO",
+                "description": "O próximo ataque de Camille causa dano adicional e concede Velocidade de Movimento adicional. Esta habilidade pode ser conjurada novamente por um curto período de tempo, causando dano adicional consideravelmente aumentado se Camille criar um intervalo entre os dois ataques.",
+                "image": "https://ddragon.leagueoflegends.com/cdn/13.21.1/img/spell/CamilleQ.png",
+                "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0164/ability_0164_Q1.webm"
+            }, {
+                "type": "W",
+                "name": "VARREDURA TÁTICA",
+                "description": "Camille faz um disparo em área de cone após um intervalo, causando dano. Inimigos na metade exterior têm sua velocidade reduzida e recebem dano adicional, ao mesmo tempo em que curam Camille.",
+                "image": "https://ddragon.leagueoflegends.com/cdn/13.21.1/img/spell/CamilleW.png",
+                "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0164/ability_0164_W1.webm"
+            }, {
+                "type": "E",
+                "name": "DISPARO DE GANCHO",
+                "description": "Camille puxa a si mesma na direção de uma parede, saltando e arremessando ao ar Campeões inimigos ao aterrissar.",
+                "image": "https://ddragon.leagueoflegends.com/cdn/13.21.1/img/spell/CamilleE.png",
+                "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0164/ability_0164_E1.webm"
+            }, {
+                "type": "Ultimate",
+                "name": "ULTIMATO HEXTEC",
+                "description": "Camille avança em direção ao Campeão alvo, ancorando-o à área. Ela também causa Dano Mágico adicional ao alvo com seus ataques básicos.",
+                "image": "https://ddragon.leagueoflegends.com/cdn/13.21.1/img/spell/CamilleR.png",
+                "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0164/ability_0164_R1.webm"
+            }]
         }
     ],
     [{

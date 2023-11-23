@@ -1,2 +1,2 @@
 # LOL-INFO-API
-projeto feito em react para prática de criação de api e outras tecnologias
+Projeto sobre league of legends com o objetivo de prática de react

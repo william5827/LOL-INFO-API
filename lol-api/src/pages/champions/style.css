@@ -1,75 +1,75 @@
-.box-teste-z{
-    width: 100%;
-    height: 350px;
-    background-color: rgb(77, 77, 77);
-    border-radius: 3px;
-    display: flex;
-    background-size: cover;
-    background-position: center;
-    justify-content: space-between;
-    align-items: flex-end;
-    flex-direction: column;
-    box-shadow: 0px 0px 15px 5px rgba(0,0,0,0.5);
-  }
+.box-teste-z {
+  width: 100%;
+  height: 350px;
+  background-color: rgb(77, 77, 77);
+  border-radius: 3px;
+  display: flex;
+  background-size: cover;
+  background-position: center;
+  justify-content: space-between;
+  align-items: flex-end;
+  flex-direction: column;
+  box-shadow: 0px 0px 15px 5px rgba(0, 0, 0, 0.5);
+}
 
-  .texte-x{
-    color: white;
-    width: 92%;
-    background-color: rgba(0, 0, 0, 0.671);
-    display: flex;
-    flex-direction: column;
-    padding: 4%;
-    border-bottom-left-radius: 3px;
-    border-bottom-right-radius: 3px;
-  }
-  
-  .title-champion-text p{
-    margin: 0px;
-    font-weight: bold;
-    font-size: 20px;
-    margin-bottom: 2%;
-    text-transform: uppercase;
-    letter-spacing: 4px;
-  }
-  
-  .subtitle-champion-text{
-    width: 100%;
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-  }
-  
-  .subtitle-champion-text p{
-    margin: 2px;
-    font-size: 18px;
-    text-transform: lowercase;
-  }
+.texte-x {
+  color: white;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.671);
+  display: flex;
+  flex-direction: column;
+  padding: 4%;
+  border-bottom-left-radius: 3px;
+  border-bottom-right-radius: 3px;
+}
 
-  .title-champion-text{
-    width: 100%;
-    display: flex;
-    align-items: center;
-  }
+.title-champion-text p {
+  margin: 0px;
+  font-weight: bold;
+  font-size: 20px;
+  margin-bottom: 2%;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+}
 
-  .main-title-text-champion{
-    width: 100%;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    margin-bottom: 1%;
-  }
+.subtitle-champion-text {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
 
-  .main-title-text-champion p{
-    margin: 0;
-  }
+.subtitle-champion-text p {
+  margin: 2px;
+  font-size: 18px;
+  text-transform: lowercase;
+}
 
-  .img-icon-lane{
-    width: 25px;
-    height: 25px;
-    margin-top: 2px;
-  }
+.title-champion-text {
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
 
-.listagem-campeoes{
+.main-title-text-champion {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 1%;
+}
+
+.main-title-text-champion p {
+  margin: 0;
+}
+
+.img-icon-lane {
+  width: 25px;
+  height: 25px;
+  margin-top: 2px;
+}
+
+.listagem-campeoes {
   width: 46%;
   height: auto;
   display: flex;
@@ -80,7 +80,7 @@
   border-radius: 3px;
 }
 
-.container-listagem{
+.container-listagem {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -88,11 +88,11 @@
   height: 100%;
 }
 
-.list-champions{
+.list-champions {
   width: 100%;
 }
 
-.more-content-button{
+.more-content-button {
   width: 100%;
   height: 20%;
   display: flex;
@@ -101,11 +101,11 @@
   border-top-left-radius: 3px;
 }
 
-.more-content-button a{
+.more-content-button a {
   margin-left: 4%;
 }
 
-.informations-champion-button{
+.informations-champion-button {
   width: 40px;
   height: 40px;
   border-radius: 50%;
@@ -118,21 +118,21 @@
   align-items: center;
   cursor: pointer;
   justify-content: center;
-  box-shadow: 0px 0px 15px 5px rgba(0,0,0,0.5);
+  box-shadow: 0px 0px 15px 5px rgba(0, 0, 0, 0.5);
 }
 
 
-.informations-champion-button img{
+.informations-champion-button img {
   filter: invert(100);
 }
 
-.icon-inset-button{
+.icon-inset-button {
   width: 30px;
   height: 30px;
   border-radius: 50%;
 }
 
-.filter-inset-champion{
+.filter-inset-champion {
   width: 30px;
   height: 30px;
   background-color: #CBAB70;
@@ -140,13 +140,12 @@
 }
 
 
-.filter-inset-champion:hover{
+.filter-inset-champion:hover {
   background-color: #faa405;
   transition: 0.5s;
 }
 
-.informations-champion-button:hover{
+.informations-champion-button:hover {
   border: 2px solid #faa405;
   transition: 0.5s;
 }
-

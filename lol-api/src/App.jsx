@@ -6,23 +6,24 @@ import Campeoes from './pages/campeoes'
 import { LayoutClient } from './layout'
 import Home from './pages/homepage'
 import Inicio from './pages/introducao'
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
 
   return (
     <BrowserRouter>
 
-        <Switch>
+      <Switch>
 
-          <Route path='/' exact>
-            <Inicio/>
-          </Route>
+        <Route path='/' exact>
+          <Inicio />
+        </Route>
 
-          <Route path='/character/:name'>
-            <CharacterPage />
-          </Route>
+        <Route path='/character/:name'>
+          <CharacterPage />
+        </Route>
 
-          <LayoutClient>
+        <LayoutClient>
 
           <Route path='/champions'>
             <Campeoes />
@@ -32,11 +33,11 @@ function App() {
             <Home />
           </Route>
 
-          </LayoutClient>
-          
-        </Switch>
+        </LayoutClient>
 
-      
+      </Switch>
+
+
 
     </BrowserRouter>
   )

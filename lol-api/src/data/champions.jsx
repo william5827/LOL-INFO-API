@@ -1,3 +1,8 @@
+import iconRP from '../assets/icon-rp.png'
+import iconPrestigePoints from '../assets/icon-prestige-points.png'
+import iconGold from '../assets/icon-elo-gold.png'
+import iconMiticEssence from '../assets/icon-mitic-essence.png'
+
 const champions = [
     [
         {
@@ -79,6 +84,58 @@ const champions = [
                 "description": "Aatrox libera sua forma demoníaca, aterrorizando tropas inimigas próximas, ganhando Dano de Ataque, cura aumentada e Velocidade de Movimento. Se ele conseguir um abate, este efeito é estendido.",
                 "image": "https://ddragon.leagueoflegends.com/cdn/13.21.1/img/spell/AatroxR.png",
                 "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0266/ability_0266_R1.webm"
+            }],
+            "skins": [{
+                "name": "Aatrox justiceiro",
+                "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aatrox_1.jpg",
+                "preco": "975",
+                "coin": iconRP
+            },
+            {
+                "name": "Mech aatrox",
+                "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aatrox_2.jpg",
+                "preco": "1350",
+                "coin": iconRP
+            }, {
+                "name": "Aatrox Caçador dos Mares",
+                "image": " https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aatrox_3.jpg",
+                "preco": "750",
+                "coin": iconRP
+            }, {
+                "name": "Aatrox Lua Sangrenta",
+                "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aatrox_7.jpg",
+                "preco": "1350",
+                "coin": iconRP
+            }, {
+                "name": "Aatrox Lua Sangrenta Prestígio",
+                "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aatrox_8.jpg",
+                "preco": "100",
+                "coin": iconPrestigePoints
+            }, {
+                "name": "Aatrox Vitorioso",
+                "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aatrox_9.jpg",
+                "preco": "",
+                "coin": iconGold
+            }, {
+                "name": "Aatrox Odisseia",
+                "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aatrox_11.jpg",
+                "preco": "1350",
+                "coin": iconRP
+            }, {
+                "name": "Aatrox Eclipse Lunar",
+                "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aatrox_21.jpg",
+                "preco": "1350",
+                "coin": iconRP
+            }, {
+                "name": "Aatrox DRX",
+                "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aatrox_30.jpg",
+                "preco": "1350",
+                "coin": iconRP
+            }, {
+                "name": "Aatrox DRX Prestígio",
+                "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aatrox_31.jpg",
+                "preco": "150",
+                "coin": iconMiticEssence
             }]
         },
         {
@@ -160,6 +217,83 @@ const champions = [
                 "description": "Ahri avança e dispara raios de essência, causando dano a inimigos próximos. Ímpeto Espiritual pode ser conjurada até três vezes antes de entrar em Tempo de Recarga e ganha reconjurações adicionais ao eliminar Campeões inimigos.",
                 "image": "https://ddragon.leagueoflegends.com/cdn/13.21.1/img/spell/AhriR.png",
                 "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0103/ability_0103_R1.webm"
+            }],
+            "skins": [{
+                "name": "Ahri da dinastia",
+                "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ahri_1.jpg",
+                "preco": "975",
+                "coin": iconRP
+            },
+            {
+                "name": "Ahri noturna",
+                "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ahri_2.jpg",
+                "preco": "750",
+                "coin": iconRP
+            }, {
+                "name": "Ahri estrela do pop",
+                "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ahri_4.jpg",
+                "preco": "975",
+                "coin": iconRP
+            }, {
+                "name": "Ahri Desafiante",
+                "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ahri_5.jpg",
+                "preco": "975",
+                "coin": iconRP
+            }, {
+                "name": "Ahri colegial",
+                "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ahri_6.jpg",
+                "preco": "750",
+                "coin": iconRP
+            }, {
+                "name": "Ahri fliperama",
+                "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ahri_7.jpg",
+                "preco": "1350",
+                "coin": iconRP
+            }, {
+                "name": "Ahri guardiã estelar",
+                "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ahri_14.jpg",
+                "preco": "1820",
+                "coin": iconRP
+            }, {
+                "name": "Ahri K/DA",
+                "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ahri_15.jpg",
+                "preco": "1350",
+                "coin": iconRP
+            }, {
+                "name": "Ahri K/DA Prestígio",
+                "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ahri_16.jpg",
+                "preco": "100",
+                "coin": iconPrestigePoints
+            }, {
+                "name": "Ahri sabugueiro",
+                "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ahri_17.jpg",
+                "preco": "1350",
+                "coin": iconRP
+            }, {
+                "name": "Ahri florescer espiritual",
+                "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ahri_27.jpg",
+                "preco": "1820",
+                "coin": iconRP
+            }, {
+                "name": "Ahri K/DA all out",
+                "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ahri_28.jpg",
+                "preco": "1350",
+                "coin": iconRP
+            }, {
+                "name": "Ahri congregação das bruxas",
+                "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ahri_42.jpg",
+                "preco": "1350",
+                "coin": iconRP
+            }, {
+                "name": "Ahri arcana",
+                "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ahri_66.jpg",
+                "preco": "1350",
+                "coin": iconRP
+            }, {
+                "name": "Ahri lua nevada",
+                "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ahri_76.jpg",
+                "preco": "1350",
+                "coin": iconRP
             }]
         },
         {

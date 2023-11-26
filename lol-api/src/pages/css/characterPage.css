@@ -329,3 +329,58 @@ body {
 .traco {
     color: white;
 }
+
+/*skins page*/
+
+
+.carousel-item img {
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    height: 100%;
+}
+
+.caption-carousel {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 30%;
+}
+
+.content-inside-skins {
+    background-color: rgba(0, 0, 0, 0.74);
+    border: 1px solid rgb(150, 150, 150);
+    backdrop-filter: blur(9px);
+    width: 100%;
+    height: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-top-left-radius: 200px;
+    border-bottom-left-radius: 200px;
+}
+
+.text-skin-inside {
+    font-size: 40px;
+    margin: 0;
+}
+
+.div-title-skin-content {
+    width: 55%;
+    display: flex;
+    justify-content: flex-start;
+    text-transform: uppercase;
+}
+
+.div-subtitle-skin-content {
+    width: 35%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.div-subtitle-skin-content img {
+    width: 150px;
+    height: 100px;
+}

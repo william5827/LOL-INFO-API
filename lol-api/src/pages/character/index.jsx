@@ -5,6 +5,8 @@ import { useLocation } from "react-router";
 import data from '../../data/champions'
 import Tabs from "../../components/tabs";
 import Skills from "../../components/skills/index"
+import Carousel from 'react-bootstrap/Carousel';
+import iconRP from '../../assets/icon-rp.png';
 
 
 const useQuery = () => {
@@ -206,7 +208,33 @@ function characterPage() {
                                         </div>
                                     </>
                             },
-                            { name: "SKINS", content: "teis content" }
+                            {
+                                name: "SKINS", content:
+
+                                    <div className="body-skins">
+
+                                        <Carousel fade className="carousel">
+                                            {championsData.skins.map(skin =>
+                                                <Carousel.Item className="carousel-item">
+                                                    <img src={skin.image} />
+                                                    <Carousel.Caption className="caption-carousel">
+                                                        <div className="content-inside-skins">
+                                                            <div className="div-title-skin-content">
+                                                                <p className="text-skin-inside">{skin.name}</p>
+                                                            </div>
+                                                            <div className="div-subtitle-skin-content">
+                                                                <img src={skin.coin} />
+                                                                <p className="text-skin-inside">{skin.preco}</p>
+                                                            </div>
+                                                        </div>
+                                                    </Carousel.Caption>
+                                                </Carousel.Item>
+
+                                            )}
+                                        </Carousel>
+                                    </div>
+
+                            }
                         ]}
                     />
                 </div>

@@ -1513,6 +1513,28 @@ const champions = [
                 "description": "Estrela Cadente: Aurelion Sol faz uma estrela cair na terra. O impacto causa Dano Mágico e atordoa inimigos, além de conceder Poeira Estelar a cada Campeão inimigo atingido. Obter Poeira Estelar suficiente transformará a próxima Estrela Cadente de Aurelion Sol em Os Céus Caem. Os Céus Caem: Aurelion Sol faz cair uma estrela gigante dos céus com zona de impacto e dano aumentados, além de arremessar os inimigos ao ar em vez de atordoá-los. Depois, uma onda de choque se espalha a partir do limite da zona de impacto, causando dano e Lentidão aos inimigos atingidos. Poeira Estelar aumenta a área de impacto tanto de Estrela Cadente quanto de Os Céus Caem.",
                 "image": "https://ddragon.leagueoflegends.com/cdn/13.21.1/img/spell/AurelionSolR.png",
                 "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0136/ability_0136_R1.webm"
+            }],
+            "skins": [{
+                "name": "Aurelion sol Senhor das cinzas",
+                "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/AurelionSol_1.jpg",
+                "preco": "1350",
+                "coin": iconRP
+            },
+            {
+                "name": "Mech Aurelion sol",
+                "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/AurelionSol_2.jpg",
+                "preco": "1350",
+                "coin": iconRP
+            }, {
+                "name": "Aurelion sol dragão da tormenta",
+                "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/AurelionSol_11.jpg",
+                "preco": "1350",
+                "coin": iconRP
+            }, {
+                "name": "Aurelion sol tinta sombria",
+                "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/AurelionSol_21.jpg",
+                "preco": "1350",
+                "coin": iconRP
             }]
         },
         {
@@ -1594,6 +1616,38 @@ const champions = [
                 "description": "Azir invoca uma parede de soldados que marcha em frente, causando dano e empurrando para trás os inimigos.",
                 "image": "https://ddragon.leagueoflegends.com/cdn/13.21.1/img/spell/AzirR.png",
                 "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0268/ability_0268_R1.webm"
+            }],
+            "skins": [{
+                "name": "Azir galáctico",
+                "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Azir_1.jpg",
+                "preco": "975",
+                "coin": iconRP
+            },
+            {
+                "name": "Azir senhor dos túmulos",
+                "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Azir_2.jpg",
+                "preco": "1350",
+                "coin": iconRP
+            }, {
+                "name": "SKT T1 Azir",
+                "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Azir_3.jpg",
+                "preco": "975",
+                "coin": iconRP
+            }, {
+                "name": "Azir reinos combatentes",
+                "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Azir_4.jpg",
+                "preco": "1350",
+                "coin": iconRP
+            }, {
+                "name": "Azir sabugueiro",
+                "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Azir_5.jpg",
+                "preco": "1350",
+                "coin": iconRP
+            }, {
+                "name": "Azir mundial 2022",
+                "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Azir_14.jpg",
+                "preco": "1350",
+                "coin": iconRP
             }]
         },
         {
@@ -1675,6 +1729,38 @@ const champions = [
                 "description": "Bardo desfere um arco de energia espiritual em um local-alvo, colocando todos os Campeões, tropas, monstros e torres atingidos em estase por um curto período de tempo.",
                 "image": "https://ddragon.leagueoflegends.com/cdn/13.21.1/img/spell/BardR.png",
                 "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0432/ability_0432_R1.webm"
+            }],
+            "skins": [{
+                "name": "Bardo Sabugueiro",
+                "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Bard_1.jpg",
+                "preco": "975",
+                "coin": iconRP
+            },
+            {
+                "name": "Bardo dia nevado",
+                "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Bard_5.jpg",
+                "preco": "1350",
+                "coin": iconRP
+            }, {
+                "name": "Bardo Bardo",
+                "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Bard_6.jpg",
+                "preco": "750",
+                "coin": iconRP
+            }, {
+                "name": "Bardo astronauta",
+                "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Bard_8.jpg",
+                "preco": "1350",
+                "coin": iconRP
+            }, {
+                "name": "Bardo kawaii café",
+                "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Bard_17.jpg",
+                "preco": "1350",
+                "coin": iconRP
+            }, {
+                "name": "Bardo pergaminhos Shan hai",
+                "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Bard_26.jpg",
+                "preco": "1350",
+                "coin": iconRP
             }]
         },
         {
@@ -1755,6 +1841,18 @@ const champions = [
                 "description": "Bel'Veth consome os restos de Coral do Vazio e revela sua Forma Verdadeira, aumentando a própria Vida máxima, Alcance de Ataque, Velocidade de Ataque e Velocidade de Movimento fora de combate. Consumir Coral do Vazio dos restos de um monstro épico concederá a ela uma ultimate de maior duração, assim como a capacidade de invocar rêmoras do Vazio.",
                 "image": "https://ddragon.leagueoflegends.com/cdn/13.21.1/img/spell/BelvethR.png",
                 "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0200/ability_0200_R1.webm"
+            }],
+            "skins": [{
+                "name": "Bel'veth chefona",
+                "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Belveth_1.jpg",
+                "preco": "1350",
+                "coin": iconRP
+            },
+            {
+                "name": "Bel'veth matriarca cósmica",
+                "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Belveth_10.jpg",
+                "preco": "1350",
+                "coin": iconRP
             }]
         },
         {
@@ -1836,6 +1934,96 @@ const champions = [
                 "description": "Inimigos atacados por Blitzcrank são marcados e sofrem dano de eletricidade após 1s. Ele também pode ativar esta habilidade para remover escudos de inimigos próximos, causar dano e silenciá-los brevemente.",
                 "image": "https://ddragon.leagueoflegends.com/cdn/13.21.1/img/spell/StaticField.png",
                 "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0053/ability_0053_R1.webm"
+            }],
+            "skins": [{
+                "name": "Blitzcrank enferrujado",
+                "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Blitzcrank_1.jpg",
+                "preco": "",
+                "coin": iconBau
+            },
+            {
+                "name": "Blitzcrank goleiro",
+                "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Blitzcrank_2.jpg",
+                "preco": "520",
+                "coin": iconRP
+            },
+            {
+                "name": "Blitzcrank nocaute",
+                "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Blitzcrank_3.jpg",
+                "preco": "520",
+                "coin": iconRP
+            },
+            {
+                "name": "Blitzcrank tunado em piltover",
+                "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Blitzcrank_4.jpg",
+                "preco": "1350",
+                "coin": iconRP
+            },
+            {
+                "name": "Certamente não é o Blitzcrank",
+                "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Blitzcrank_5.jpg",
+                "preco": "975",
+                "coin": iconRP
+            },
+            {
+                "name": "IBlitzcrank",
+                "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Blitzcrank_6.jpg",
+                "preco": "1350",
+                "coin": iconRP
+            },
+            {
+                "name": "riot Blitzcrank",
+                "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Blitzcrank_7.jpg",
+                "preco": "975",
+                "coin": iconRP
+            },
+            {
+                "name": "Blitzcrank chefão",
+                "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Blitzcrank_11.jpg",
+                "preco": "1350",
+                "coin": iconRP
+            },
+            {
+                "name": "Blitzcrank lanceiro renegado",
+                "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Blitzcrank_20.jpg",
+                "preco": "1350",
+                "coin": iconRP
+            },
+            {
+                "name": "Blitzcrank lanceiro redentor",
+                "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Blitzcrank_21.jpg",
+                "preco": "1350",
+                "coin": iconRP
+            },
+            {
+                "name": "Blitzcrank caldeirão da bruxa",
+                "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Blitzcrank_22.jpg",
+                "preco": "1350",
+                "coin": iconRP
+            },
+            {
+                "name": "Blitz e crank embalos no espaço",
+                "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Blitzcrank_29.jpg",
+                "preco": "1350",
+                "coin": iconRP
+            },
+            {
+                "name": "Blitzcrank vitorioso",
+                "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Blitzcrank_36.jpg",
+                "preco": "",
+                "coin": iconGold
+            },
+            {
+                "name": "Blitzcrank zenith games",
+                "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Blitzcrank_47.jpg",
+                "preco": "1350",
+                "coin": iconRP
+            },
+            {
+                "name": "Bzzztcrank",
+                "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Blitzcrank_56.jpg",
+                "preco": "1350",
+                "coin": iconRP
             }]
         },
         {
@@ -1916,6 +2104,72 @@ const champions = [
                 "description": "Brand desfere uma devastadora torrente de fogo que ressalta 5 vezes, indo de Brand aos inimigos próximos e causando Dano Mágico a cada vez que ressaltar. Os ressaltos priorizam acumular Labareda ao máximo em Campeões. Se o alvo estiver incandescente, Piroclasma causará breve Lentidão a ele.",
                 "image": "https://ddragon.leagueoflegends.com/cdn/13.21.1/img/spell/BrandR.png",
                 "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0063/ability_0063_R1.webm"
+            }],
+            "skins": [{
+                "name": "Brand pós-apocalipse",
+                "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Brand_1.jpg",
+                "preco": "750",
+                "coin": iconRP
+            },
+            {
+                "name": "Brand vândalo",
+                "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Brand_2.jpg",
+                "preco": "520",
+                "coin": iconRP
+            },
+            {
+                "name": "Brand criogênico",
+                "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Brand_3.jpg",
+                "preco": "975",
+                "coin": iconRP
+            },
+            {
+                "name": "Brand zumbi",
+                "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Brand_4.jpg",
+                "preco": "1820",
+                "coin": iconRP
+            },
+            {
+                "name": "Brand fogo espiritual",
+                "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Brand_5.jpg",
+                "preco": "1350",
+                "coin": iconRP
+            },
+            {
+                "name": "Brand chefão",
+                "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Brand_6.jpg",
+                "preco": "1350",
+                "coin": iconRP
+            },
+            {
+                "name": "Brand arco celeste",
+                "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Brand_7.jpg",
+                "preco": "1350",
+                "coin": iconRP
+            },
+            {
+                "name": "Brand dragão eterno",
+                "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Brand_8.jpg",
+                "preco": "1350",
+                "coin": iconRP
+            },
+            {
+                "name": "Brand galante",
+                "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Brand_21.jpg",
+                "preco": "1350",
+                "coin": iconRP
+            },
+            {
+                "name": "Brand galante prestígio",
+                "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Brand_22.jpg",
+                "preco": "150",
+                "coin": iconMiticEssence
+            },
+            {
+                "name": "Brand demônios urbanos",
+                "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Brand_33.jpg",
+                "preco": "1350",
+                "coin": iconRP
             }]
         },
         {
@@ -1997,6 +2251,48 @@ const champions = [
                 "description": "Braum golpeia o chão, arremessando ao ar inimigos próximos e em linha reta à sua frente. Uma fissura é deixada no caminho, causando redução de velocidade nos inimigos.",
                 "image": "https://ddragon.leagueoflegends.com/cdn/13.21.1/img/spell/BraumRWrapper.png",
                 "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0201/ability_0201_R1.webm"
+            }],
+            "skins": [{
+                "name": "Braum caçador de dragões",
+                "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Braum_1.jpg",
+                "preco": "975",
+                "coin": iconRP
+            },
+            {
+                "name": "Braum el tigre",
+                "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Braum_2.jpg",
+                "preco": "1350",
+                "coin": iconRP
+            },
+            {
+                "name": "Braum coração de leão",
+                "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Braum_3.jpg",
+                "preco": "750",
+                "coin": iconRP
+            },
+            {
+                "name": "Braum Noel",
+                "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Braum_10.jpg",
+                "preco": "1350",
+                "coin": iconRP
+            },
+            {
+                "name": "Braum cidade do crime",
+                "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Braum_11.jpg",
+                "preco": "1350",
+                "coin": iconRP
+            },
+            {
+                "name": "Braum frenesi açucarado",
+                "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Braum_24.jpg",
+                "preco": "1350",
+                "coin": iconRP
+            },
+            {
+                "name": "Braum curtindo o verão",
+                "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Braum_33.jpg",
+                "preco": "1350",
+                "coin": iconRP
             }]
         },
         {
@@ -2078,6 +2374,12 @@ const champions = [
                 "description": "Briar lança o hemólito da berlinda dela, marcando o primeiro Campeão atingido como sua presa. Depois, ela avança diretamente, causando temor a inimigos próximos ao chegar no alvo e entrando num estado de hemomania total. Ela persegue a presa até a morte, recebendo os benefícios de Frenesi Sanguinário, além de Armadura, Resistência Mágica, Roubo de Vida e Velocidade de Movimento adicionais.",
                 "image": "https://ddragon.leagueoflegends.com/cdn/13.21.1/img/spell/BriarR.png",
                 "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0233/ability_0233_R1.webm"
+            }],
+            "skins": [{
+                "name": "Briar demônios urbanos",
+                "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Briar_1.jpg",
+                "preco": "1350",
+                "coin": iconRP
             }]
         },
         {
@@ -2158,6 +2460,87 @@ const champions = [
                 "description": "Caitlyn se concentra para fazer o disparo perfeito, causando dano drástico em um único alvo a uma longa distância. Campeões inimigos podem interceptar o projétil e tomar dano no lugar de seu aliado.",
                 "image": "https://ddragon.leagueoflegends.com/cdn/13.21.1/img/spell/CaitlynR.png",
                 "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0051/ability_0051_R1.webm"
+            }],
+            "skins": [{
+                "name": "Caitlyn da resistência",
+                "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Caitlyn_1.jpg",
+                "preco": "520",
+                "coin": iconRP
+            }, {
+                "name": "Xerife Caitlyn",
+                "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Caitlyn_2.jpg",
+                "preco": "520",
+                "coin": iconRP
+            }, {
+                "name": "Caitlyn caçadora",
+                "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Caitlyn_3.jpg",
+                "preco": "975",
+                "coin": iconRP
+            }, {
+                "name": "Caitlyn guerrilheira do ártico",
+                "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Caitlyn_4.jpg",
+                "preco": "750",
+                "coin": iconRP
+            }, {
+                "name": "Caitlyn policial",
+                "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Caitlyn_5.jpg",
+                "preco": "975",
+                "coin": iconRP
+            }, {
+                "name": "Caitlyn caçadora de cabeças",
+                "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Caitlyn_6.jpg",
+                "preco": "975",
+                "coin": iconRP
+            }, {
+                "name": "Caitlyn espectro lunar",
+                "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Caitlyn_10.jpg",
+                "preco": "1350",
+                "coin": iconRP
+            }, {
+                "name": "Caitlyn Pulsefire",
+                "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Caitlyn_11.jpg",
+                "preco": "1820",
+                "coin": iconRP
+            }, {
+                "name": "Caitlyn curtindo o verão",
+                "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Caitlyn_13.jpg",
+                "preco": "1350",
+                "coin": iconRP
+            }, {
+                "name": "Caitlyn fliperama",
+                "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Caitlyn_19.jpg",
+                "preco": "1350",
+                "coin": iconRP
+            }, {
+                "name": "Caitlyn fliperama prestígio",
+                "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Caitlyn_20.jpg",
+                "preco": "200",
+                "coin": iconMiticEssence
+            }, {
+                "name": "Caitlyn academia de batalha",
+                "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Caitlyn_22.jpg",
+                "preco": "1820",
+                "coin": iconRP
+            }, {
+                "name": "Caitlyn arcane",
+                "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Caitlyn_28.jpg",
+                "preco": "975",
+                "coin": iconRP
+            }, {
+                "name": "Caitlyn lua nevada",
+                "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Caitlyn_30.jpg",
+                "preco": "1350",
+                "coin": iconRP
+            }, {
+                "name": "Caitlyn coração apaixonado",
+                "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Caitlyn_39.jpg",
+                "preco": "1350",
+                "coin": iconRP
+            }, {
+                "name": "Caitlyn DRX",
+                "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Caitlyn_48.jpg",
+                "preco": "1350",
+                "coin": iconRP
             }]
         },
         {
@@ -2239,6 +2622,32 @@ const champions = [
                 "description": "Camille avança em direção ao Campeão alvo, ancorando-o à área. Ela também causa Dano Mágico adicional ao alvo com seus ataques básicos.",
                 "image": "https://ddragon.leagueoflegends.com/cdn/13.21.1/img/spell/CamilleR.png",
                 "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0164/ability_0164_R1.webm"
+            }],
+            "skins": [{
+                "name": "Camille cibernética",
+                "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Camille_1.jpg",
+                "preco": "1350",
+                "coin": iconRP
+            }, {
+                "name": "Camille congregação das bruxas",
+                "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Camille_2.jpg",
+                "preco": "1350",
+                "coin": iconRP
+            }, {
+                "name": "IG Camille",
+                "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Camille_10.jpg",
+                "preco": "1350",
+                "coin": iconRP
+            }, {
+                "name": "Camille arcana",
+                "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Camille_11.jpg",
+                "preco": "1350",
+                "coin": iconRP
+            }, {
+                "name": "Camille comandante de ataque",
+                "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Camille_21.jpg",
+                "preco": "1350",
+                "coin": iconRP
             }]
         }
     ],

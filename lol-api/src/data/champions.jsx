@@ -2698,7 +2698,79 @@ const champions = [
             "attackdamageperlevel": 3,
             "attackspeedperlevel": 1.5,
             "attackspeed": 0.647
-        }
+        },
+        "skills": [{
+            "type": "Passiva",
+            "name": "GRAÇA SERPENTINA",
+            "description": "Cassiopeia recebe Velocidade de Movimento por nível, mas não pode comprar Botas.",
+            "image": "https://ddragon.leagueoflegends.com/cdn/13.23.1/img/passive/Cassiopeia_Passive.png",
+            "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0069/ability_0069_P1.webm"
+        }, {
+            "type": "Q",
+            "name": "EXPLOSÃO VENENOSA",
+            "description": "Cassiopeia atinge uma área com veneno após um breve intervalo, recebendo Velocidade de Movimento caso atinja um Campeão inimigo.",
+            "image": "https://ddragon.leagueoflegends.com/cdn/13.23.1/img/spell/CassiopeiaQ.png",
+            "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0069/ability_0069_Q1.webm"
+        }, {
+            "type": "W",
+            "name": "MIASMA",
+            "description": "Cassiopeia lança diversas nuvens de veneno que reduzem a velocidade, prendem ao chão e causam dano leve aos inimigos que as atravessarem. Inimigos presos ao chão não podem usar habilidades de movimentação.",
+            "image": "https://ddragon.leagueoflegends.com/cdn/13.23.1/img/spell/CassiopeiaW.png",
+            "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0069/ability_0069_W1.webm"
+        }, {
+            "type": "E",
+            "name": "PRESAS DUPLAS",
+            "description": "Cassiopeia desfere um ataque que causa dano adicional a alvos envenenados, curando a si mesma com um percentual do dano causado. Se o alvo morrer com este ataque, Cassiopeia recupera Mana.",
+            "image": "https://ddragon.leagueoflegends.com/cdn/13.23.1/img/spell/CassiopeiaE.png",
+            "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0069/ability_0069_E1.webm"
+        }, {
+            "type": "Ultimate",
+            "name": "OLHAR PETRIFICADOR",
+            "description": "Cassiopeia lança uma espiral de energia mágica de seus olhos, atordoando quaisquer inimigos à sua frente que estiverem de frente para ela e reduzindo a velocidade de quaisquer outros que estiverem de costas.",
+            "image": "https://ddragon.leagueoflegends.com/cdn/13.23.1/img/spell/CassiopeiaR.png",
+            "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0069/ability_0069_R1.webm"
+        }],
+        "skins": [{
+            "name": "Cassiopeia velho oeste",
+            "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Cassiopeia_1.jpg",
+            "preco": "520",
+            "coin": iconRP
+        }, {
+            "name": "Cassiopeia sereia",
+            "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Cassiopeia_2.jpg",
+            "preco": "520",
+            "coin": iconRP
+        }, {
+            "name": "Cassiopeia helênica",
+            "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Cassiopeia_3.jpg",
+            "preco": "975",
+            "coin": iconRP
+        }, {
+            "name": "Cassiopeia presas de jade",
+            "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Cassiopeia_4.jpg",
+            "preco": "975",
+            "coin": iconRP
+        }, {
+            "name": "Cassiopeia eternum",
+            "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Cassiopeia_8.jpg",
+            "preco": "1350",
+            "coin": iconRP
+        }, {
+            "name": "Cassiopeia florescer espiritual",
+            "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Cassiopeia_9.jpg",
+            "preco": "1350",
+            "coin": iconRP
+        }, {
+            "name": "Cassiopeia congregação das bruxas",
+            "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Cassiopeia_18.jpg",
+            "preco": "1350",
+            "coin": iconRP
+        }, {
+            "name": "Cassiopeia feiticeira",
+            "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Cassiopeia_28.jpg",
+            "preco": "1350",
+            "coin": iconRP
+        }]
     },
     {
         "version": "13.21.1",
@@ -2748,7 +2820,84 @@ const champions = [
             "attackdamageperlevel": 4.2,
             "attackspeedperlevel": 1.44,
             "attackspeed": 0.625
-        }
+        },
+        "skills": [{
+            "type": "Passiva",
+            "name": "CARNÍVORO",
+            "description": "Sempre que Cho'Gath abate uma unidade, ele recupera Vida e Mana. Os valores restaurados aumentam com o nível de Cho'Gath.",
+            "image": "https://ddragon.leagueoflegends.com/cdn/13.23.1/img/passive/GreenTerror_TailSpike.png",
+            "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0031/ability_0031_P1.webm"
+        }, {
+            "type": "Q",
+            "name": "RUPTURA",
+            "description": "Rompe o chão num local-alvo, lançando unidades inimigas ao ar e causando dano e redução de velocidade.",
+            "image": "https://ddragon.leagueoflegends.com/cdn/13.23.1/img/spell/Rupture.png",
+            "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0031/ability_0031_Q1.webm"
+        }, {
+            "type": "W",
+            "name": "GRITO SELVAGEM",
+            "description": "Cho'Gath solta um terrível urro em inimigos em área de cone, causando Dano Mágico e Silenciamento a eles por alguns segundos.",
+            "image": "https://ddragon.leagueoflegends.com/cdn/13.23.1/img/spell/FeralScream.png",
+            "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0031/ability_0031_W1.webm"
+        }, {
+            "type": "E",
+            "name": "ESPINHOS VORPAIS",
+            "description": "Os ataques de Cho'Gath lançam espinhos letais, causando dano e reduzindo a velocidade de unidades inimigas à sua frente.",
+            "image": "https://ddragon.leagueoflegends.com/cdn/13.23.1/img/spell/VorpalSpikes.png",
+            "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0031/ability_0031_E1.webm"
+        }, {
+            "type": "Ultimate",
+            "name": "BANQUETE",
+            "description": "Devora uma unidade inimiga, causando uma grande quantidade de Dano Verdadeiro. Se o alvo for abatido, Cho'Gath cresce, recebendo Vida máxima.",
+            "image": "https://ddragon.leagueoflegends.com/cdn/13.23.1/img/spell/Feast.png",
+            "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0031/ability_0031_R1.webm"
+        }],
+        "skins": [{
+            "name": "Cho'Gath terror noturno",
+            "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Chogath_1.jpg",
+            "preco": "520",
+            "coin": iconRP
+        }, {
+            "name": "Cho'Gath cavalheiro",
+            "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Chogath_2.jpg",
+            "preco": "1820",
+            "coin": iconRP
+        }, {
+            "name": "Cho'Gath do lago ness",
+            "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Chogath_3.jpg",
+            "preco": "520",
+            "coin": iconRP
+        }, {
+            "name": "Cho'Gath jurássico",
+            "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Chogath_4.jpg",
+            "preco": "975",
+            "coin": iconRP
+        }, {
+            "name": "Cho'Gath máquina de combate primum",
+            "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Chogath_5.jpg",
+            "preco": "1820",
+            "coin": iconRP
+        }, {
+            "name": "Cho'Gath pré-histórico",
+            "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Chogath_6.jpg",
+            "preco": "750",
+            "coin": iconRP
+        }, {
+            "name": "Cho'Gath estrela negra",
+            "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Chogath_7.jpg",
+            "preco": "100",
+            "coin": iconMiticEssence
+        }, {
+            "name": "Cho'Gath pergaminhos shan hai",
+            "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Chogath_14.jpg",
+            "preco": "1350",
+            "coin": iconRP
+        }, {
+            "name": "Cho'Gath pacto quebrado",
+            "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Chogath_23.jpg",
+            "preco": "1350",
+            "coin": iconRP
+        }]
     },
     {
         "version": "13.21.1",
@@ -2797,7 +2946,89 @@ const champions = [
             "attackdamageperlevel": 2.8,
             "attackspeedperlevel": 2.3,
             "attackspeed": 0.638
-        }
+        },
+        "skills": [{
+            "type": "Passiva",
+            "name": "MUNIÇÃO HEXTEC",
+            "description": "Uma porcentagem do Dano de Ataque Básico de Corki é convertida em Dano Mágico. Corki pode buscar O Pacote na base, concedendo a ele Velocidade de Movimento e fortalecendo a conjuração de Valquíria.",
+            "image": "https://ddragon.leagueoflegends.com/cdn/13.23.1/img/passive/Corki_RapidReload.png",
+            "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0042/ability_0042_P1.webm"
+        }, {
+            "type": "Q",
+            "name": "BOMBA DE FÓSFORO",
+            "description": "Corki dispara uma bomba luminosa em um local alvo, causando Dano Mágico a inimigos na área. Este ataque também revela unidades na área por uma curta duração.",
+            "image": "https://ddragon.leagueoflegends.com/cdn/13.23.1/img/spell/PhosphorusBomb.png",
+            "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0042/ability_0042_Q1.webm"
+        }, {
+            "type": "W",
+            "name": "VALQUÍRIA",
+            "description": "Corki sobrevoa uma curta distância, soltando bombas que criam um rastro de fogo, causando dano a oponentes que nele permanecerem.",
+            "image": "https://ddragon.leagueoflegends.com/cdn/13.23.1/img/spell/CarpetBomb.png",
+            "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0042/ability_0042_W1.webm"
+        }, {
+            "type": "E",
+            "name": "METRALHADORA",
+            "description": "A metralhadora de Corki dispara rapidamente em área de cone à sua frente, causando dano, reduzindo a Armadura e a Resistência Mágica do inimigo.",
+            "image": "https://ddragon.leagueoflegends.com/cdn/13.23.1/img/spell/GGun.png",
+            "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0042/ability_0042_E1.webm"
+        }, {
+            "type": "Ultimate",
+            "name": "BARRAGEM DE MÍSSEIS",
+            "description": "Corki dispara um míssil em direção ao local alvo, que explode com o impacto, causando dano aos inimigos na área. Corki armazena mísseis ao longo do tempo, com um limite máximo. O 3º míssil armazenado será um Grandão, que causa dano adicional.",
+            "image": "https://ddragon.leagueoflegends.com/cdn/13.23.1/img/spell/MissileBarrage.png",
+            "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0042/ability_0042_R1.webm"
+        }],
+        "skins": [{
+            "name": "Corki Ovni",
+            "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Corki_1.jpg",
+            "preco": "",
+            "coin": iconBau
+        }, {
+            "name": "Corki no bobsleigh",
+            "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Corki_2.jpg",
+            "preco": "1820",
+            "coin": iconRP
+        }, {
+            "name": "Corki barão vermelho",
+            "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Corki_3.jpg",
+            "preco": "1820",
+            "coin": iconRP
+        }, {
+            "name": "Corki caranga envenenada",
+            "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Corki_4.jpg",
+            "preco": "520",
+            "coin": iconRP
+        }, {
+            "name": "Corki montado em urf",
+            "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Corki_5.jpg",
+            "preco": "975",
+            "coin": iconRP
+        }, {
+            "name": "Corki asas de dragão",
+            "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Corki_6.jpg",
+            "preco": "975",
+            "coin": iconRP
+        }, {
+            "name": "Corki Fnatic",
+            "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Corki_7.jpg",
+            "preco": "750",
+            "coin": iconRP
+        }, {
+            "name": "Corki fliperama",
+            "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Corki_8.jpg",
+            "preco": "1350",
+            "coin": iconRP
+        }, {
+            "name": "Corki Corgi",
+            "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Corki_18.jpg",
+            "preco": "1350",
+            "coin": iconRP
+        }, {
+            "name": "Corki Astronauta",
+            "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Corki_26.jpg",
+            "preco": "1350",
+            "coin": iconRP
+        }]
     },
     {
         "version": "13.21.1",
@@ -2847,7 +3078,94 @@ const champions = [
             "attackdamageperlevel": 5,
             "attackspeedperlevel": 1,
             "attackspeed": 0.625
-        }
+        },
+        "skills": [{
+            "type": "Passiva",
+            "name": "HEMORRAGIA",
+            "description": "Os Ataques e Habilidades de dano de Darius fazem os inimigos sangrarem, causando Dano Físico ao longo de 5s e acumulando até 5 vezes. Darius se enfurece e recebe uma grande quantidade de Dano de Ataque quando o alvo alcança o máximo de acúmulos.",
+            "image": "https://ddragon.leagueoflegends.com/cdn/13.23.1/img/passive/Darius_Icon_Hemorrhage.png",
+            "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0122/ability_0122_P1.webm"
+        }, {
+            "type": "Q",
+            "name": "DIZIMAR",
+            "description": "Darius pega impulso e golpeia com seu machado em um movimento circular. Os inimigos atingidos pela lâmina recebem mais dano do que aqueles atingidos pelo cabo. Darius cura a si mesmo com base nos Campeões inimigos e monstros grandes atingidos pela lâmina.",
+            "image": "https://ddragon.leagueoflegends.com/cdn/13.23.1/img/spell/DariusCleave.png",
+            "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0122/ability_0122_Q1.webm"
+        }, {
+            "type": "W",
+            "name": "ATAQUE MUTILADOR",
+            "description": "O próximo ataque de Darius acerta uma artéria importante do inimigo. Enquanto a vítima sangra, a Velocidade de Movimento dela é reduzida.",
+            "image": "https://ddragon.leagueoflegends.com/cdn/13.23.1/img/spell/DariusNoxianTacticsONH.png",
+            "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0122/ability_0122_W1.webm"
+        }, {
+            "type": "E",
+            "name": "APREENDER",
+            "description": "Darius afia seu machado, fazendo com que seu Dano Físico ignore passivamente um percentual da Armadura do alvo. Quando ativado, Darius ataca seus inimigos com o gancho do seu machado e os puxa em sua direção.",
+            "image": "https://ddragon.leagueoflegends.com/cdn/13.23.1/img/spell/DariusAxeGrabCone.png",
+            "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0122/ability_0122_E1.webm"
+        }, {
+            "type": "Ultimate",
+            "name": "GUILHOTINA DE NOXUS",
+            "description": "Darius salta na direção de um Campeão inimigo e o atinge com um golpe letal, causando Dano Verdadeiro. Este dano aumenta a cada acúmulo de Hemorragia no alvo. Se Guilhotina de Noxus causar o golpe final, seu Tempo de Recarga é zerado por um breve momento.",
+            "image": "https://ddragon.leagueoflegends.com/cdn/13.23.1/img/spell/DariusExecute.png",
+            "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0122/ability_0122_R1.webm"
+        }],
+        "skins": [{
+            "name": "Lorde Darius",
+            "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Darius_1.jpg",
+            "preco": "975",
+            "coin": iconRP
+        }, {
+            "name": "Darius Bioforja",
+            "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Darius_2.jpg",
+            "preco": "975",
+            "coin": iconRP
+        }, {
+            "name": "Darius rei dos bretões",
+            "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Darius_3.jpg",
+            "preco": "975",
+            "coin": iconRP
+        }, {
+            "name": "Darius mestre da enterrada",
+            "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Darius_4.jpg",
+            "preco": "1820",
+            "coin": iconRP
+        }, {
+            "name": "Darius colegial",
+            "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Darius_8.jpg",
+            "preco": "750",
+            "coin": iconRP
+        }, {
+            "name": "Darius nova temível",
+            "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Darius_14.jpg",
+            "preco": "125",
+            "coin": iconMiticEssence
+        }, {
+            "name": "Deus rei Darius",
+            "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Darius_15.jpg",
+            "preco": "1820",
+            "coin": iconRP
+        }, {
+            "name": "Darius velho oeste",
+            "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Darius_16.jpg",
+            "preco": "1350",
+            "coin": iconRP
+        }, {
+            "name": "Darius fera lunar",
+            "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Darius_24.jpg",
+            "preco": "1350",
+            "coin": iconRP
+        }, {
+            "name": "Darius pesadelo na cidade do crime",
+            "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Darius_33.jpg",
+            "preco": "1350",
+            "coin": iconRP
+        }, {
+            "name": "Darius florescer espiritual",
+            "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Darius_43.jpg",
+            "preco": "1350",
+            "coin": iconRP
+        }]
     },
     {
         "version": "13.21.1",

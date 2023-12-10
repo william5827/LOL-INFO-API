@@ -3215,7 +3215,94 @@ const champions = [
             "attackdamageperlevel": 3,
             "attackspeedperlevel": 2.25,
             "attackspeed": 0.625
-        }
+        },
+        "skills": [{
+            "type": "Passiva",
+            "name": "ESPADA DE PRATA LUNAR",
+            "description": "Cada terceiro ataque atinge os oponentes próximos, causando Dano Mágico adicional. Depois de conjurar uma Habilidade, Diana recebe Velocidade de Ataque em seus próximos 3 Ataques.",
+            "image": "https://ddragon.leagueoflegends.com/cdn/13.24.1/img/passive/Diana_Passive_LunarBlade.png",
+            "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0131/ability_0131_P1.webm"
+        }, {
+            "type": "Q",
+            "name": "GOLPE CRESCENTE",
+            "description": "Faz um disparo de energia lunar em forma de arco, causando Dano Mágico. Afeta os inimigos atingidos com Plenilúnio, revelando-os por 3s se não estiverem furtivos.",
+            "image": "https://ddragon.leagueoflegends.com/cdn/13.24.1/img/spell/DianaQ.png",
+            "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0131/ability_0131_Q1.webm"
+        }, {
+            "type": "W",
+            "name": "CASCATA LÍVIDA",
+            "description": "Diana cria três esferas orbitantes que detonam ao contato com inimigos, causando dano em área. Ela também ganha um escudo temporário que absorve dano. Se a terceira esfera detonar, o escudo recebe resistência adicional.",
+            "image": "https://ddragon.leagueoflegends.com/cdn/13.24.1/img/spell/DianaOrbs.png",
+            "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0131/ability_0131_W1.webm"
+        }, {
+            "type": "E",
+            "name": "ZÊNITE LUNAR",
+            "description": "Torna-se a encarnação viva da lua vingativa, avançando contra um inimigo e causando Dano Mágico. Zênite Lunar não tem Tempo de Recarga ao avançar em um inimigo afetado por Plenilúnio. Todos os outros inimigos terão o efeito de Plenilúnio removido independentemente de terem sido o alvo de Zênite Lunar.",
+            "image": "https://ddragon.leagueoflegends.com/cdn/13.24.1/img/spell/DianaTeleport.png",
+            "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0131/ability_0131_E1.webm"
+        }, {
+            "type": "Ultimate",
+            "name": "COLAPSO MINGUANTE",
+            "description": "Diana revela e atrai todos os inimigos próximos e reduz a velocidade deles. Se Diana atrair um ou mais Campeões inimigos, o Plenilúnio cai sobre ela depois de um breve intervalo, causando Dano Mágico em uma área ao seu redor, aumentado a cada alvo atraído além do primeiro.",
+            "image": "https://ddragon.leagueoflegends.com/cdn/13.24.1/img/spell/DianaR.png",
+            "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0131/ability_0131_R1.webm"
+        }],
+        "skins": [{
+            "name": "Diana Valquíria sombria",
+            "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Diana_1.jpg",
+            "preco": "975",
+            "coin": iconRP
+        }, {
+            "name": "Diana Deusa lunar",
+            "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Diana_2.jpg",
+            "preco": "975",
+            "coin": iconRP
+        }, {
+            "name": "Diana Infernal",
+            "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Diana_3.jpg",
+            "preco": "1350",
+            "coin": iconRP
+        }, {
+            "name": "Diana Lua Sangrenta",
+            "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Diana_11.jpg",
+            "preco": "1350",
+            "coin": iconRP
+        }, {
+            "name": "Diana Águas sombrias",
+            "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Diana_12.jpg",
+            "preco": "1350",
+            "coin": iconRP
+        }, {
+            "name": "Diana caçadora de dragões",
+            "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Diana_18.jpg",
+            "preco": "1350",
+            "coin": iconRP
+        }, {
+            "name": "Diana Rainha de batalha",
+            "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Diana_25.jpg",
+            "preco": "1350",
+            "coin": iconRP
+        }, {
+            "name": "Diana Rainha de batalha prestígio",
+            "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Diana_26.jpg",
+            "preco": "125",
+            "coin": iconMiticEssence
+        }, {
+            "name": "Diana sentinela",
+            "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Diana_27.jpg",
+            "preco": "1350",
+            "coin": iconRP
+        }, {
+            "name": "Diana fogos de artifício",
+            "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Diana_37.jpg",
+            "preco": "1350",
+            "coin": iconRP
+        }, {
+            "name": "Diana benção do inverno",
+            "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Diana_47.jpg",
+            "preco": "1820",
+            "coin": iconRP
+        }]
     },
     {
         "version": "13.21.1",
@@ -3264,7 +3351,99 @@ const champions = [
             "attackdamageperlevel": 3.6,
             "attackspeedperlevel": 2.7,
             "attackspeed": 0.679
-        }
+        },
+        "skills": [{
+            "type": "Passiva",
+            "name": "LEAGUE OF DRAVEN",
+            "description": "Draven ganha Adoração de seus fãs quando apanha uma Revolução do Machado ou abate uma tropa, monstro ou torre. Abater Campeões inimigos concede ouro adicional a Draven, com base em quanta Adoração ele tem.",
+            "image": "https://ddragon.leagueoflegends.com/cdn/13.24.1/img/passive/Draven_passive.png",
+            "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0119/ability_0119_P1.webm"
+        }, {
+            "type": "Q",
+            "name": "REVOLUÇÃO DO MACHADO",
+            "description": "O próximo ataque de Draven causará Dano Físico adicional. O machado ricocheteará do alvo em direção ao ar. Se Draven o apanhar, ele automaticamente irá preparar outra Revolução do Machado. Draven pode ter duas Revoluções do Machado simultaneamente em ação.",
+            "image": "https://ddragon.leagueoflegends.com/cdn/13.24.1/img/spell/DravenSpinning.png",
+            "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0119/ability_0119_Q1.webm"
+        }, {
+            "type": "W",
+            "name": "ADRENALINA",
+            "description": "Draven ganha um aumento de Velocidade de Movimento e de Ataque. O aumento na Velocidade de Movimento decai rapidamente ao longo da duração. Apanhar uma Revolução do Machado fará com que o Tempo de Recarga de Adrenalina seja zerado.",
+            "image": "https://ddragon.leagueoflegends.com/cdn/13.24.1/img/spell/DravenFury.png",
+            "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0119/ability_0119_W1.webm"
+        }, {
+            "type": "E",
+            "name": "SAI DA FRENTE",
+            "description": "Draven arremessa seus machados, causando Dano Físico aos alvos atingidos e empurrando-os para o lado. Os alvos atingidos sofrem redução de velocidade.",
+            "image": "https://ddragon.leagueoflegends.com/cdn/13.24.1/img/spell/DravenDoubleShot.png",
+            "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0119/ability_0119_E1.webm"
+        }, {
+            "type": "Ultimate",
+            "name": "RETA DA MORTE",
+            "description": "Draven arremessa dois machados gigantes para causar Dano Físico a cada unidade atingida. Reta da Morte lentamente muda de direção e retorna a Draven após atingir um Campeão inimigo. Draven também pode ativar esta habilidade durante o percurso dos machados para fazer com que voltem antecipadamente. Causa menos dano para cada unidade atingida e zera quando os machados mudam de direção. Executa inimigos com Vida inferior ao número de acúmulos de Adoração do Draven.",
+            "image": "https://ddragon.leagueoflegends.com/cdn/13.24.1/img/spell/DravenRCast.png",
+            "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0119/ability_0119_R1.webm"
+        }],
+        "skins": [{
+            "name": "Draven ceifador de almas",
+            "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Draven_1.jpg",
+            "preco": "1350",
+            "coin": iconRP
+        }, {
+            "name": "Draven Gladiador",
+            "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Draven_2.jpg",
+            "preco": "975",
+            "coin": iconRP
+        }, {
+            "name": "Draven Locutor",
+            "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Draven_3.jpg",
+            "preco": "1820",
+            "coin": iconRP
+        }, {
+            "name": "Draven curtindo o verão",
+            "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Draven_4.jpg",
+            "preco": "1350",
+            "coin": iconRP
+        }, {
+            "name": "Draven caçador de feras",
+            "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Draven_5.jpg",
+            "preco": "750",
+            "coin": iconRP
+        }, {
+            "name": "Draven Draven",
+            "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Draven_6.jpg",
+            "preco": "500",
+            "coin": iconRP
+        }, {
+            "name": "Draven Noel",
+            "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Draven_12.jpg",
+            "preco": "1350",
+            "coin": iconRP
+        }, {
+            "name": "Draven reinos mech",
+            "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Draven_13.jpg",
+            "preco": "1350",
+            "coin": iconRP
+        }, {
+            "name": "Draven Destruído",
+            "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Draven_20.jpg",
+            "preco": "1350",
+            "coin": iconRP
+        }, {
+            "name": "Draven Galante",
+            "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Draven_29.jpg",
+            "preco": "1350",
+            "coin": iconRP
+        }, {
+            "name": "Draven Noite Apavorante",
+            "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Draven_39.jpg",
+            "preco": "1350",
+            "coin": iconRP
+        }, {
+            "name": "Draven La Ilusión",
+            "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Draven_48.jpg",
+            "preco": "1350",
+            "coin": iconRP
+        }]
     },
     {
         "version": "13.21.1",
@@ -3314,7 +3493,94 @@ const champions = [
             "attackdamageperlevel": 2.5,
             "attackspeedperlevel": 3.3,
             "attackspeed": 0.67
-        }
+        },
+        "skills": [{
+            "type": "Passiva",
+            "name": "VAI PARA ONDE QUER",
+            "description": "Dr. Mundo resiste ao próximo efeito Imobilizador que o atingir, perdendo Vida e derrubando um recipiente químico nas proximidades. Dr. Mundo pode pegar o recipiente ao passar por cima dele, restaurando Vida e reduzindo o Tempo de Recarga da Habilidade. Dr. Mundo também tem Regeneração de Vida significativamente mais alta.",
+            "image": "https://ddragon.leagueoflegends.com/cdn/13.24.1/img/passive/DrMundo_P.png",
+            "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0036/ability_0036_P1.webm"
+        }, {
+            "type": "Q",
+            "name": "SERRA INFECTADA",
+            "description": "Dr. Mundo arremessa uma serra infectada, causando dano ao primeiro inimigo atingido com base na Vida atual do alvo e causando Lentidão a ele.",
+            "image": "https://ddragon.leagueoflegends.com/cdn/13.24.1/img/spell/DrMundoQ.png",
+            "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0036/ability_0036_Q1.webm"
+        }, {
+            "type": "W",
+            "name": "CHOQUINHO CARDÍACO",
+            "description": "Dr. Mundo se eletrocuta, causando dano contínuo aos inimigos próximos e acumulando uma parte do dano sofrido. Ele causa uma explosão de dano aos inimigos próximos ao final da duração ou ao Reconjurar. Se atingir um inimigo, Dr. Mundo se curará em uma porcentagem do dano armazenado.",
+            "image": "https://ddragon.leagueoflegends.com/cdn/13.24.1/img/spell/DrMundoW.png",
+            "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0036/ability_0036_W1.webm"
+        }, {
+            "type": "E",
+            "name": "TRAUMATISMO",
+            "description": "Passivo: Dr. Mundo recebe Dano de Ataque adicional (que aumenta com base na própria Vida máxima). Ativo: Dr. Mundo golpeia o inimigo com sua maleta ''médica'', causando dano adicional com base na própria Vida perdida. Se o inimigo for abatido, será arremessado, causando dano aos inimigos que atravessar.",
+            "image": "https://ddragon.leagueoflegends.com/cdn/13.24.1/img/spell/DrMundoE.png",
+            "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0036/ability_0036_E1.webm"
+        }, {
+            "type": "Ultimate",
+            "name": "DOSAGEM MÁXIMA",
+            "description": "Dr. Mundo enche-se de produtos químicos, curando instantaneamente uma porcentagem da própria Vida perdida. Depois, ele recebe Velocidade de Movimento e regenera parte da própria Vida máxima ao longo da duração.",
+            "image": "https://ddragon.leagueoflegends.com/cdn/13.24.1/img/spell/DrMundoR.png",
+            "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0036/ability_0036_R1.webm"
+        }],
+        "skins": [{
+            "name": "Dr.Mulko",
+            "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/DrMundo_1.jpg",
+            "preco": "520",
+            "coin": iconRP
+        }, {
+            "name": "Sr.Mundoverso",
+            "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/DrMundo_2.jpg",
+            "preco": "520",
+            "coin": iconRP
+        }, {
+            "name": "Diretor Mundo",
+            "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/DrMundo_3.jpg",
+            "preco": "1820",
+            "coin": iconRP
+        }, {
+            "name": "Mundo Mundo",
+            "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/DrMundo_4.jpg",
+            "preco": "975",
+            "coin": iconRP
+        }, {
+            "name": "Mundo Carrasco",
+            "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/DrMundo_5.jpg",
+            "preco": "520",
+            "coin": iconRP
+        }, {
+            "name": "Mundo Enfurecido",
+            "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/DrMundo_6.jpg",
+            "preco": "975",
+            "coin": iconRP
+        }, {
+            "name": "TPA Mundo",
+            "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/DrMundo_7.jpg",
+            "preco": "750",
+            "coin": iconRP
+        }, {
+            "name": "Mundo curtindo o verão",
+            "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/DrMundo_8.jpg",
+            "preco": "1350",
+            "coin": iconRP
+        }, {
+            "name": "Mundo El Macho",
+            "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/DrMundo_9.jpg",
+            "preco": "1350",
+            "coin": iconRP
+        }, {
+            "name": "Mundo Príncipe Congelado",
+            "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/DrMundo_10.jpg",
+            "preco": "1350",
+            "coin": iconRP
+        }, {
+            "name": "Dr.Mundo Demônios Urbanos",
+            "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/DrMundo_21.jpg",
+            "preco": "1350",
+            "coin": iconRP
+        }]
     },
     {
         "version": "13.21.1",
@@ -3364,7 +3630,94 @@ const champions = [
             "attackdamageperlevel": 3,
             "attackspeedperlevel": 3.3,
             "attackspeed": 0.688
-        }
+        },
+        "skills": [{
+            "type": "Passiva",
+            "name": "RESSONÂNCIA REVO-Z",
+            "description": "Cada terceiro ataque ou habilidade de dano no mesmo alvo causa Dano Mágico adicional e concede a Ekko um impulso de velocidade se o alvo for um Campeão.",
+            "image": "https://ddragon.leagueoflegends.com/cdn/13.24.1/img/passive/Ekko_P.png",
+            "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0245/ability_0245_P1.webm"
+        }, {
+            "type": "Q",
+            "name": "GIRATEMPO",
+            "description": "Ekko arremessa uma granada que se expande em um campo de distorção temporal ao atingir um Campeão inimigo, causando dano e reduzindo a velocidade de todos dentro de sua área de ação. Após um intervalo, a granada retorna em direção a Ekko, causando dano no trajeto de volta.",
+            "image": "https://ddragon.leagueoflegends.com/cdn/13.24.1/img/spell/EkkoQ.png",
+            "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0245/ability_0245_Q1.webm"
+        }, {
+            "type": "W",
+            "name": "CONVERGÊNCIA PARALELA",
+            "description": "Os ataques básicos de Ekko causam Dano Mágico adicional aos inimigos com Vida baixa. Ekko pode conjurar Convergência Paralela para separar a linha do tempo, causando uma anomalia após alguns segundos e reduzindo a velocidade de inimigos pegos por ela. Se Ekko adentrar a anomalia, ele receberá um escudo e acionará uma detonação que atordoa os inimigos, colocando-os em estase temporal.",
+            "image": "https://ddragon.leagueoflegends.com/cdn/13.24.1/img/spell/EkkoW.png",
+            "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0245/ability_0245_W1.webm"
+        }, {
+            "type": "E",
+            "name": "MERGULHO FÁSICO",
+            "description": "Ekko faz um rolamento evasivo enquanto carrega seu Revo-Z. Seu próximo ataque causa dano adicional e distorce a realidade, teleportando-o a seu alvo.",
+            "image": "https://ddragon.leagueoflegends.com/cdn/13.24.1/img/spell/EkkoE.png",
+            "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0245/ability_0245_E1.webm"
+        }, {
+            "type": "Ultimate",
+            "name": "CRONOQUEBRA",
+            "description": "Ekko estilhaça sua linha do tempo, tornando-se inalvejável e rebobinando para um ponto mais favorável no tempo. Ele retorna para qualquer ponto que esteve nos últimos segundos e se cura em um percentual do dano recebido nesta duração. Inimigos próximos a sua área de chegada recebem dano massivo.",
+            "image": "https://ddragon.leagueoflegends.com/cdn/13.24.1/img/spell/EkkoR.png",
+            "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0245/ability_0245_R1.webm"
+        }],
+        "skins": [{
+            "name": "Ekko Tempestade de Areia",
+            "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ekko_1.jpg",
+            "preco": "1350",
+            "coin": iconRP
+        }, {
+            "name": "Ekko Colegial",
+            "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ekko_2.jpg",
+            "preco": "750",
+            "coin": iconRP
+        }, {
+            "name": "Projeto Ekko",
+            "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ekko_3.jpg",
+            "preco": "1350",
+            "coin": iconRP
+        }, {
+            "name": "SKT T1 Ekko",
+            "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ekko_11.jpg",
+            "preco": "1350",
+            "coin": iconRP
+        }, {
+            "name": "Ekko Gostosuras ou Travessuras",
+            "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ekko_12.jpg",
+            "preco": "1350",
+            "coin": iconRP
+        }, {
+            "name": "Ekko True Damage",
+            "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ekko_19.jpg",
+            "preco": "1820",
+            "coin": iconRP
+        }, {
+            "name": "Pulsefire Ekko",
+            "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ekko_28.jpg",
+            "preco": "1350",
+            "coin": iconRP
+        }, {
+            "name": "Ekko Fogolume",
+            "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ekko_36.jpg",
+            "preco": "1350",
+            "coin": iconRP
+        }, {
+            "name": "Ekko Guardião Estelar",
+            "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ekko_45.jpg",
+            "preco": "1350",
+            "coin": iconRP
+        }, {
+            "name": "Ekko Guardião Estelar Prestígio",
+            "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ekko_46.jpg",
+            "preco": "125",
+            "coin": iconMiticEssence
+        }, {
+            "name": "Ekko True Damage Revelação",
+            "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ekko_56.jpg",
+            "preco": "",
+            "coin": iconBau
+        }]
     },
     {
         "version": "13.21.1",

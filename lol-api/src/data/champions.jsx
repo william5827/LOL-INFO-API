@@ -3767,7 +3767,79 @@ const champions = [
             "attackdamageperlevel": 3,
             "attackspeedperlevel": 1.75,
             "attackspeed": 0.625
-        }
+        },
+        "skills": [{
+            "type": "Passiva",
+            "name": "ARANHA RAINHA",
+            "description": "Forma Humana: Quando as habilidades de Elise atingem um inimigo, ela recebe uma Cria dormente. Forma de Aranha: Ataques básicos causam Dano Mágico adicional e restauram a Vida de Elise.",
+            "image": "https://ddragon.leagueoflegends.com/cdn/13.24.1/img/passive/ElisePassive.png",
+            "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0060/ability_0060_P1.webm"
+        }, {
+            "type": "Q",
+            "name": "NEUROTOXINA / MORDIDA VENENOSA",
+            "description": "Forma Humana: Causa dano com base em quão alta está a Vida do alvo. Forma de Aranha: Avança até um inimigo e causa dano com base em quão baixa está a Vida do alvo.",
+            "image": "https://ddragon.leagueoflegends.com/cdn/13.24.1/img/spell/EliseHumanQ.png",
+            "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0060/ability_0060_Q1.webm"
+        }, {
+            "type": "W",
+            "name": "CRIA VOLÁTIL / FRENESI ARACNÍDEO",
+            "description": "Forma Humana: Elise lança uma cria banhada em veneno que explode ao se aproximar de um alvo. Forma de Aranha: Elise e suas Crias recebem Velocidade de Ataque.",
+            "image": "https://ddragon.leagueoflegends.com/cdn/13.24.1/img/spell/EliseHumanW.png",
+            "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0060/ability_0060_W1.webm"
+        }, {
+            "type": "E",
+            "name": "CASULO / RAPEL",
+            "description": "Forma Humana: atordoa a primeira unidade inimiga atingida e a revela se não estiver em furtividade. Forma de Aranha: Elise e suas crias se lançam ao ar, depois descem sobre um alvo inimigo. Após descer sobre o alvo, o dano adicional de Elise e a cura de Aranha Rainha são aumentados.",
+            "image": "https://ddragon.leagueoflegends.com/cdn/13.24.1/img/spell/EliseHumanE.png",
+            "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0060/ability_0060_E1.webm"
+        }, {
+            "type": "Ultimate",
+            "name": "FORMA DE ARANHA",
+            "description": "Transforma-se em uma ameaçadora aranha, reduzindo seu alcance de ataque em troca de Velocidade de Movimento, novas habilidades e um aglomerado de Crias que atacarão seus inimigos.",
+            "image": "https://ddragon.leagueoflegends.com/cdn/13.24.1/img/spell/EliseR.png",
+            "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0060/ability_0060_R1.webm"
+        }],
+        "skins": [{
+            "name": "Elise Florescência Mortal",
+            "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Elise_1.jpg",
+            "preco": "975",
+            "coin": iconRP
+        }, {
+            "name": "Elise Vitoriosa",
+            "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Elise_2.jpg",
+            "preco": "",
+            "coin": iconGold
+        }, {
+            "name": "Elise Lua Sangrenta",
+            "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Elise_3.jpg",
+            "preco": "975",
+            "coin": iconRP
+        }, {
+            "name": "SKT T1 Elise",
+            "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Elise_4.jpg",
+            "preco": "975",
+            "coin": iconRP
+        }, {
+            "name": "Elise Supergaláctica",
+            "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Elise_5.jpg",
+            "preco": "1350",
+            "coin": iconRP
+        }, {
+            "name": "Elise Feiticeira",
+            "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Elise_6.jpg",
+            "preco": "1350",
+            "coin": iconRP
+        }, {
+            "name": "Elise Rosa Definhada",
+            "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Elise_15.jpg",
+            "preco": "1350",
+            "coin": iconRP
+        }, {
+            "name": "Elise congregação das bruxas",
+            "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Elise_24.jpg",
+            "preco": "1350",
+            "coin": iconRP
+        }]
     },
     {
         "version": "13.21.1",
@@ -3817,7 +3889,99 @@ const champions = [
             "attackdamageperlevel": 3,
             "attackspeedperlevel": 2.1,
             "attackspeed": 0.667
-        }
+        },
+        "skills": [{
+            "type": "Passiva",
+            "name": "SOMBRA DEMONÍACA",
+            "description": "Quando está fora de combate, Evelynn entra em Sombra Demoníaca. A Sombra Demoníaca cura Evelynn quando ela está com pouca Vida e concede Camuflagem após o nível 6.",
+            "image": "https://ddragon.leagueoflegends.com/cdn/13.24.1/img/passive/Evelynn_Passive.png",
+            "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0028/ability_0028_P1.webm"
+        }, {
+            "type": "Q",
+            "name": "ESPINHO DE ÓDIO",
+            "description": "Evelynn ataca com seu Chicote, causando dano ao primeiro inimigo atingido. Depois, Evelynn dispara uma linha de espinhos até 3 vezes contra inimigos próximos.",
+            "image": "https://ddragon.leagueoflegends.com/cdn/13.24.1/img/spell/EvelynnQ.png",
+            "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0028/ability_0028_Q1.webm"
+        }, {
+            "type": "W",
+            "name": "FASCINAÇÃO",
+            "description": "Evelynn amaldiçoa seu alvo, fazendo com que o próximo ataque ou habilidade dela o encante e reduza sua Resistência Mágica depois um intervalo.",
+            "image": "https://ddragon.leagueoflegends.com/cdn/13.24.1/img/spell/EvelynnW.png",
+            "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0028/ability_0028_W1.webm"
+        }, {
+            "type": "E",
+            "name": "CHICOTADA",
+            "description": "Evelynn açoita seu alvo com seu Chicote, causando dano. Depois, ela ganha Velocidade de Movimento por um breve período.",
+            "image": "https://ddragon.leagueoflegends.com/cdn/13.24.1/img/spell/EvelynnE.png",
+            "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0028/ability_0028_E1.webm"
+        }, {
+            "type": "Ultimate",
+            "name": "ÚLTIMA CARÍCIA",
+            "description": "Evelynn fica inalvejável por um breve período e dizima a área à sua frente antes de se mover uma longa distância para trás.",
+            "image": "https://ddragon.leagueoflegends.com/cdn/13.24.1/img/spell/EvelynnR.png",
+            "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0028/ability_0028_R1.webm"
+        }],
+        "skins": [{
+            "name": "Evelynn Sombria",
+            "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Evelynn_1.jpg",
+            "preco": "520",
+            "coin": iconRP
+        }, {
+            "name": "Evelynn Mascarada",
+            "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Evelynn_2.jpg",
+            "preco": "520",
+            "coin": iconRP
+        }, {
+            "name": "Evelynn Dançarina de Tango",
+            "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Evelynn_3.jpg",
+            "preco": "520",
+            "coin": iconRP
+        }, {
+            "name": "Evelynn Infiltradora",
+            "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Evelynn_4.jpg",
+            "preco": "750",
+            "coin": iconRP
+        }, {
+            "name": "Evelynn Lua Sangrenta",
+            "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Evelynn_5.jpg",
+            "preco": "975",
+            "coin": iconRP
+        }, {
+            "name": "Evelynn K/DA",
+            "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Evelynn_6.jpg",
+            "preco": "1350",
+            "coin": iconRP
+        }, {
+            "name": "Evelynn K/DA Prestígio",
+            "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Evelynn_7.jpg",
+            "preco": "200",
+            "coin": iconMiticEssence
+        }, {
+            "name": "Evelynn Frenesi Açucarado",
+            "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Evelynn_8.jpg",
+            "preco": "1350",
+            "coin": iconRP
+        }, {
+            "name": "Evelynn K/DA ALL OUT",
+            "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Evelynn_15.jpg",
+            "preco": "1350",
+            "coin": iconRP
+        }, {
+            "name": "Evelynn Congregação das bruxas",
+            "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Evelynn_24.jpg",
+            "preco": "1820",
+            "coin": iconRP
+        }, {
+            "name": "Evelynn Florescer Espiritual",
+            "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Evelynn_32.jpg",
+            "preco": "1350",
+            "coin": iconRP
+        }, {
+            "name": "Evelynn Soul Fighter",
+            "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Evelynn_42.jpg",
+            "preco": "1350",
+            "coin": iconRP
+        }]
     }
     ],
     [{
